@@ -1,10 +1,7 @@
 # 🧬 Single-cell Analysis of Insect Neuroblasts
 
-
 <p align="center">
-  <a href="insect_development_Noel.pdf">
-    <img src="insect_development_Noel.png" width="900">
-  </a>
+  <img src="insect_development_Noel.png" width="900">
 </p>
 This repository contains the computational workflows, analysis notebooks, and selected processed results generated for the study of insect neuroblasts using single-cell RNA sequencing.
 
