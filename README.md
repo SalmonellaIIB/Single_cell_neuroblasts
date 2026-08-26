@@ -182,9 +182,14 @@ The overall computational workflow can be summarised as:
 
 ## 🧬 Data Availability
 
-The raw single-cell RNA-sequencing data and raw count matrices associated with this study are available through the **NCBI Gene Expression Omnibus (GEO)** under accession:
+The raw single-cell RNA-sequencing files and raw count matrices associated with this study are available through the **NCBI Gene Expression Omnibus (GEO)** under accession:
 
-**GSE337265**
+**[GSE337265](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE337265)**
+
+The processed single-cell RNA-sequencing matrices and are available in **Figshare** under accession:
+
+**[https://doi.org/10.6084/m9.figshare.33338799](https://doi.org/10.6084/m9.figshare.33338799)**
+
 
 The notebooks in this repository contain the computational analyses and selected processed results associated with the study.
 
