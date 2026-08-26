@@ -206,9 +206,10 @@ Because individual analyses depend on external single-cell datasets, genome anno
 
 This repository contains the computational analyses associated with the following manuscript:
 
-> **[MANUSCRIPT TITLE]**
+> **[Cross-species single cell transcriptomics in fly and beetle reveals the genetic core of brain neuroblast specification]**
 
-> [Author 1], [Author 2], [Author 3], **Noel Cabañas**, et al.
+> [Noel Cabañas 1] et al.
+> 
 
 *Manuscript in preparation.*
 
