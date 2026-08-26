@@ -1,4 +1,4 @@
-# 🧬 Single-cell Analysis of Insect Neuroblasts
+# 🧬 Cross-species single cell transcriptomics in fly and beetle reveals the genetic core of brain neuroblast specification
 
 <p align="center">
   <img src="Insect_NBs_apperance_Noel.png">
