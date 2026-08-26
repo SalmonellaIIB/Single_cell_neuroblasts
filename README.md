@@ -2,9 +2,10 @@
 
 
 <p align="center">
-  <img src="figures/insect_development_Noel.png" width="900">
+  <a href="insect_development_Noel.pdf">
+    <img src="insect_development_Noel.png" width="900">
+  </a>
 </p>
-
 This repository contains the computational workflows, analysis notebooks, and selected processed results generated for the study of insect neuroblasts using single-cell RNA sequencing.
 
 The analyses focus on the identification, annotation, comparison, and evolutionary analysis of neuroblast populations in *Drosophila melanogaster* and *Tribolium castaneum*.
