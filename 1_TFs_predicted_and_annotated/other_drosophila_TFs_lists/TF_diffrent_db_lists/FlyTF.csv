@@ -1,0 +1,1053 @@
+﻿FBgn,symbol,name,synonym,verdict_DNA_BD,verdict_TF
+FBgn0000011,ab,abrupt,CG4807 ab clu l(2)k02807 ptd,maybe,"(TF, short range)"
+FBgn0000014,abd-A,abdominal A,Abd-A AbdA Abda CG10325 Cbxd DmabdA Hab abd A abd-A abd-a abdA abda iab iab-2 iab-3 iab-4 iab-5 iab2 iab3 iab4 l(3)89Ec,YES,(sequence-specific TF)
+FBgn0000015,Abd-B,Abdominal B,ABDB Abd B Abd-B Abd-b AbdB AbdB(CA)<down>26</down> AbdB-I AbdB-II AdbB CG10291 CG11648 DROABDB FAB Fab-7 Fab7 MCP Mc Mcp Sab Tab Uab-5<up>Sab</up> abd-B abdB iab iab-5 iab-6 iab-7 iab-8 iab5 iab6 iab7 iab8 iab8.9 iab9 l(3)89Ed pH189 tuh-3 twig,maybe,(sequence-specific TF)
+FBgn0000018,abo,abnormal oocyte,CG6093 abo,YES,(sequence-specific TF)
+FBgn0000022,ac,achaete,990 E5 F1 AS-C T5 AS-C T5ac ASC Ac CG3796 EG:125H10.3 Hw T5 ac ascT5 sc/T5,YES,(sequence-specific TF)
+FBgn0000028,acj6,abnormal chemosensory jump 6,ACJ6 Acj6 CG9151 I-POU Ipou acj6 tI-POU,NO,"(TF, short range)"
+FBgn0000054,Adf1,Adh transcription factor 1,Adf 1 Adf-1 Adf1 CG15845 adf1 l(2)01349 l(2)04065 nal,YES,(sequence-specific TF)
+FBgn0000057,adp,adipose,CG5124 adp anon-WO0196371.1 anon-WO0196371.27 anon-WO0196371.3,YES,(sequence-specific TF)
+FBgn0000061,al,aristaless,A1 AL CG3935 L13-4 al lambda13-4,maybe,"(TF, short range)"
+FBgn0000095,Antp,Antennapedia,3.4 ANT-C ANT-P ANTC Ant AntP Antp Antp1 BG:DS07700.1 CG1028 DMANTPE1 DRO15DC96Z DmAntp Hu Ns Scx antp l(3)84Ba,YES,(sequence-specific TF)
+FBgn0000097,aop,anterior open,Aop Aop/Yan CG3166 DROYANET DROYANETSB SK2-1 YAN Yan aop aop/yan pok yan yan/pok,maybe,"(TF, short range)"
+FBgn0000099,ap,apterous,CG8376 LIM Xa ap blt trw,YES,(sequence-specific TF)
+FBgn0000137,ase,asense,AS-C T8 AS-C T8ase AS-T8 ASC Ase CG3258 EG:165H7.2 T1 T1a T8 as-T8 ascT8 ase sc/T8,YES,(sequence-specific TF)
+FBgn0000139,ash2,"absent, small, or homeotic discs 2",1124/11 291.8 703 ASH2 CG6677 ash-2 ash2 l(3)112411 l(3)S112411 l(3)SG65 mad,maybe,"(TF, long range)"
+FBgn0000157,Dll,Distal-less,2.7 Art Ba BcDNA:LP01770 CG3629 Dll E(Arp) En(Arp) dll l(2)01092 l(2)387,YES,(sequence-specific TF)
+FBgn0000166,bcd,bicoid,BG:DS00276.7 Bcd CG1034 bcd bic mum prd4,YES,(sequence-specific TF)
+FBgn0000179,bi,bifid,BI CG3578 Dm-OMB Dm-omb OMB Omb Qd T3 bi dm-omb l(1)bi l(1)omb omb,YES,(sequence-specific TF)
+FBgn0000181,bic,bicaudal,107/12 5A BcDNA.GM05329 BcDNA:GM05329 Bic Btf CG3644 E(2)Bic E(Bic) bic l(2)49Da l(2)k10712 l(2)vr22 vr22,NO,
+FBgn0000210,br,broad,2B5 2Bc A18 BR BR-C BR-C Z1 BR-c BRC BRC-Z1 BR_C Br-C BrC-Z1 CG11491 CG11511 CG11514 EG:123F11.1 EG:17A9.1 EG:25D2.1 PP1 PP2 Z1 Z2 Z3 Z4 br br-C br-Z1 br-Z3 de12 ecs l(1)2Ba l(1)2Bab l(1)2Bad l(1)2Bb l(1)2Bc l(1)2Bd l(1)ESHS5 l(1)G0018 l(1)G0042 l(1),YES,(sequence-specific TF)
+FBgn0000212,brm,brahma,BRM Brm CG18438 CG5942 E(E2F)3A brm dBRM l(3)72Aa,NO,
+FBgn0000233,btd,buttonhead,BTD CG12653 btd,YES,(sequence-specific TF)
+FBgn0000242,Bx,Beadex,Bd Bx CG6500 DLMO Dlmo Lmo Ptd Rho beadex/dLMO dLMO dlmo dttg fliH hdp hdp-a hld mgg mgt,NO,
+FBgn0000251,cad,caudal,38E.19 CG1759 Cad S67 anon-WO2004063362.83 cad cd,YES,(sequence-specific TF)
+FBgn0000256,capu,cappuccino,CG15420 CG3399 Capu capp capu,NO,
+FBgn0000283,Cp190,Centrosomal protein 190kD,AbS1-4 Bx63 CG6384 CP-190 CP-60 CP190 Cen185 Cen190 Cp190 DMAP-190 DMAP190 Dmap190 Map190 Rb188 dmap190,NO,
+FBgn0000286,Cf2,Chorion factor 2,BcDNA:GM09668 CF2 CF2.5 CG11924 Cf2 cf2,YES,(sequence-specific TF)
+FBgn0000287,salr,spalt-related,32F CG4881 Cf3 Sal-r Spalt sal sal-r salR salr spalt,maybe,"(TF, short range)"
+FBgn0000289,cg,combgap,CG8367 cg l(2)07659 l(2)k11504 mig,maybe,"(TF, short range)"
+FBgn0000307,chif,chiffon,BG:DS09218.1 BG:DS09218.2 CG5813 CG5817 DS09218.1 Dbf4 chf chif fs(2)chiffon,NO,
+FBgn0000338,cnc,cap-n-collar,5134 CG17894 CG4566 CG4578 CNC CNC_DROME Cnc anon-WO0153538.6 anon-WO0153538.7 cnc l(3)03921,YES,(sequence-specific TF)
+FBgn0000370,crc,cryptocephal,929 ATF-4 CG8669 crc dATF-4 l(2)crc,maybe,"(TF, short range)"
+FBgn0000376,crm,cramped,CG2714 EG:95B7.2 ZW-9 crm l(1)3C1 l(1)3Ca l(1)zw9 sa sta<up>P</up> swa zw-9 zw9,maybe,"(TF, long range)"
+FBgn0000411,D,Dichaete,CG5893 D SOX70 SOX70D SOXB2.1 SOXDP Sox70D fish l(3)LG9 loD,YES,(sequence-specific TF)
+FBgn0000413,da,daughterless,CG5102 Da da l(2)31Ea,YES,(sequence-specific TF)
+FBgn0000439,Dfd,Deformed,BG:DS00276.5 CG2189 Dfd DmDfd EbR11 dfd l(3)84Ae,YES,(sequence-specific TF)
+FBgn0000448,Hr46,Hormone receptor-like in 46,12.6 2.4 CG11823 CG12208 CG33183 D DHR3 Dhr3 HR3 Hr3 Hr46 NR1F4 dHR3 l(2)46CFi l(2)k09242,YES,(sequence-specific TF)
+FBgn0000459,disco,disconnected,CG9908 disc disco,YES,(sequence-specific TF)
+FBgn0000462,dl,dorsal,CG6667 anon-EST:GressD7 dL dl fs(2)k10816 mat(2)dorsal,YES,(sequence-specific TF)
+FBgn0000472,dm,diminutive,CG10798 D-Myc DMYc Dmyc EG:BACN5I9.1 Myc anon-WO03040301.171 c-MYC c-Myc d-myc dMYC dMyc dMyc1 dm dmyc dmyc1 l(1)G0139 myc,YES,(sequence-specific TF)
+FBgn0000492,Dr,Drop,99B CG1897 Dr Msh l(3)FA30 ltt msh msh-1 msh1,YES,(sequence-specific TF)
+FBgn0000504,dsx,doublesex,CG11094 Dmdsx Dsx Hr dsx ix-62c,YES,(sequence-specific TF)
+FBgn0000520,dwg,deformed wings,CG2711 EG:95B7.6 SBP Sbp ZW-5 Zw-5 Zw5 dwg l(1)3Be l(1)zw5 ves zw-5 zw5,YES,(sequence-specific TF)
+FBgn0000528,E81,E81,E81,NO,
+FBgn0000529,bsh,brain-specific homeobox,&lgr;E86 Bsh CG10604 E86 Hox11-310 bsh,YES,(sequence-specific TF)
+FBgn0000531,E103,E103,90Bre E103,NO,
+FBgn0000532,E111,E111,E111,NO,
+FBgn0000533,ea,easter,CG4920 SP24 c-SP24 ea,NO,
+FBgn0000541,E(bx),Enhancer of bithorax,CG10894 CG17135 CG32346 CG32478 CG7022 E(Bx) E(bx) En-bx NURF NURF-215 NURF-301 NURF215 NURF301 Nurf-215 Nurf301 dNURF l(3)122 l(3)ry122 nurf301 p215 p301,YES,"(TF, long range)"
+FBgn0000543,ecd,ecdysoneless,CG5714 ecd ecd-1 ecd1 ecdl l(3)62Db l(3)ecd l(3)ecd-1 l(3)ecd1,maybe,
+FBgn0000546,EcR,Ecdysone receptor,CG1765 CG8347 DEcR Dhr23 DmEcR ECR EcR EcR-A EcR-B1 EcRB-1 EcdR NR1H1 anon-WO0229075.1 dECR ecr lie ms(2)06410 ms(2)42A snt,YES,(sequence-specific TF)
+FBgn0000560,eg,eagle,CG7383 EGON Egon NR0A3 T1 eag eg egon spy,maybe,"(TF, short range)"
+FBgn0000567,Eip74EF,Ecdysone-induced protein 74EF,3.3 CG32180 CG6273 CG6285 E-74 E74 E74-B E74A E74B ECIP Eip74EF e74 l(3)24 l(3)neo24 mE74,YES,(sequence-specific TF)
+FBgn0000568,Eip75B,Ecdysone-induced protein 75B,57B BcDNA:GM02640 CG8127 DmE75A DmE75B E75 E75-C E75A E75B E75C EP1121b Eip75 Eip75B NR1D3 anon-WO0172774.31 anon-WO0172774.32 dE75 l(3)07041 l(3)j11A6 l(3)j12E8 l(3)j3A6 l(3)j5E1 l(3)neo25,YES,(sequence-specific TF)
+FBgn0000575,emc,extra macrochaetae,0094/26 0203/10 0587/01 0977/09 Ach CG1007 Dm0688 Emc emc gov l(3)04322 l(3)05592 l(3)j4E11 ms(3)61CD,maybe,"(TF, short range)"
+FBgn0000576,ems,empty spiracles,CG2988 E4 W13 ant ems,YES,(sequence-specific TF)
+FBgn0000577,en,engrailed,Apa CG9015 Eng Engrailed/Invected Es V en spt,YES,(sequence-specific TF)
+FBgn0000588,esc,extra sexcombs,CG14941 ESC Esc L41867 esc,YES,"(TF, long range)"
+FBgn0000591,E(spl),Enhancer of split,CG8365 E(spl) E(spl) m8 E(spl)-m8 E(spl)M8 E(spl)bHLH E(spl)m8 En(spl) En(spl)-C Hes anon-EST:Liang-1.71 clone 1.71 e(spl) l(3)96Fd m8,YES,(sequence-specific TF)
+FBgn0000606,eve,even skipped,10.5 10.9 14.10 20.35 CG2328 E(eve) EVE F V VI eve l(2)46CFg l(2)46CFh l(2)46CFj l(2)46CFp l(2)46Ce l(2)46Cg,YES,(sequence-specific TF)
+FBgn0000611,exd,extradenticle,CG8933 DExd Dm-EXD Dpbx EXD Exd Pbx1 anon-EST:fe1H3 exd l(1)IV td48,YES,(sequence-specific TF)
+FBgn0000617,e(y)1,enhancer of yellow 1,CG6474 TAF40 TAF40/42 TAF40/42/e(y)1 TAF42 TAF9 TAF<down>II</down> TAF<down>II</down>40 TAF<down>II</down>40/42 TAF<down>II</down>42 TAF<up>II</up>40 TAFII40 TAFII40(42) TFIID TFIID 42 TFIID-p42 Taf40 Taf42 Taf<down>II</down>40 d40 dTAF42 dTAF9 dTAF<,NO,
+FBgn0000618,e(y)2,enhancer of yellow 2,CG15191 d e(y)2 e(y)<up>2</up>,NO,
+FBgn0000619,e(y)3,enhancer of yellow 3,CG12238 e(y)3 e(y)<up>3</up> l(1)G0084 l(1)G0266 l(1)G0283 l(1)G0381 l(1)G0409,NO,
+FBgn0000625,eyg,eyegone,BK27 Bk27 CG10488 eyg lun,YES,(sequence-specific TF)
+FBgn0000629,E(z),Enhancer of zeste,CG6502 E(Z) E(z) E(z)1 EZ E[z] Ez Su(z)301 l(3)1902 l(3)67Fa l(3)B12 l(3)SG17 l(3)ds12 pco pco/E(z),NO,
+FBgn0000659,fkh,fork head,CG10002 Dmfkh Fkh Sebp2 fkh,YES,(sequence-specific TF)
+FBgn0000810,fs(1)K10,female sterile (1) K10,CG3218 EG:30B8.5 K-10 K10 fs(1)K10 fs(1)M9 fs(1)k10,NO,
+FBgn0000964,tj,traffic jam,CG10034 Dmaf PL3 fs(2)eo-B fs(2)eo2 fs(2)eoPL3 tj,maybe,"(TF, short range)"
+FBgn0000996,dup,double parked,19k CDT1/DUP CG8171 Cdt1 DUP anon-WO0257455.31 cdt1/dup dup fs(2)51Fa fs(2)PA77 fs(2)ltoPA77 l(2)51Ec l(2)k03308,NO,
+FBgn0001075,ft,fat,79/18 CG3352 CT11259 Ft ft l(2)24Da l(2)79/18 l(2)fat l(2)fd l(2)ft l(2)gd-1 l(2)gd-l l(2)gd2 l(2)k07918,NO,
+FBgn0001077,ftz,fushi tarazu,BG:DS07876.1 CG2047 Dm-Ftz Ual ftz l(3)84Ag,YES,(sequence-specific TF)
+FBgn0001078,ftz-f1,ftz transcription factor 1,&agr;FTZ-F1 &agr;FTZF1 &agr;ftz-f1 &bgr; FTZ-F1 &bgr;-Ftz-F1 &bgr;FTZ-F1 &bgr;FTZF1 &bgr;ftz-F1 &bgr;ftz-f1 CG13378 CG4059 DEP1 DmFTZ-F1 FIP1 FTZ-F1 FTZ-F1&agr; FTZF1 Ftz-F1 Ftz-f1 NR5A3 bFTZ-F1 beta FTZ-F1 dFTZ-F1&agr; dFtz-F1&agr; ftz-F1 ftz-f1 ftz,YES,(sequence-specific TF)
+FBgn0001133,grau,grauzone,CG3282 CG33133 grau,YES,(sequence-specific TF)
+FBgn0001138,grn,grain,CG9656 GATAc GRAIN Gata-c Gata2 dGATA-2 dGATAc dGatac gra grn l(3)84Fa,YES,(sequence-specific TF)
+FBgn0001139,gro,groucho,"BEST:GM01575 BEST:LD15161 BcDNA.LD33829 BcDNA:LD33829 CG8384 E(spl)-WD E(spl)<up>2</up> E(spl)gro E(spl)m9/m10 En-spl Gro anon-WO0118547.385 dAES1 dAES2 dGro gro l(3)gro m10 m9 m9,m10 m9-m10 m9/10 m9/m10",NO,
+FBgn0001147,gsb-n,gooseberry-neuro,BSH-4 BSH4 CG2692 Gsb-p gsb gsb-n gsb-neuro gsb-p gsbn gsbp,YES,(sequence-specific TF)
+FBgn0001148,gsb,gooseberry,BSH-9 BSH9 BSH9c2 CG3388 GSB-D Gsb-d gsb gsb-2 gsb-d gsb-distal gsbBSH9 gsbd l(2)01155 l(2)gsb,YES,(sequence-specific TF)
+FBgn0001150,gt,giant,CG7952 EG:BACH7M4.5 GIAN_DROME Giant gt l(1)3Aa l(1)giant,YES,(sequence-specific TF)
+FBgn0001168,h,hairy,8247 CG6494 Hairy brr dDr1 h l(3)08247 l(3)rM384,YES,(sequence-specific TF)
+FBgn0001170,H2.0,Homeodomain protein 2.0,CG11607 H2.0,YES,(sequence-specific TF)
+FBgn0001179,hay,haywire,CG8019 DhR25 DhXPB DmXPB ERCC3 TFIIH Xpb/hay hay hwr i50 ms(3)nc2 nc2,NO,
+FBgn0001180,hb,hunchback,CG9786 Hb R-pbx Rg-bx Rg-pbx hb hbHLH l(3)85Ah,YES,(sequence-specific TF)
+FBgn0001185,her,hermaphrodite,CG4694 her l(2)mat,YES,(sequence-specific TF)
+FBgn0001195,His1,Histone H1,DmeH1 H1 H1A His1 HisC hisl,NO,
+FBgn0001196,His2A,Histone H2A,DmeH2a H2<down>A</down> H2A H2A.1 H2A1 H2a His2A His2a HisC,NO,
+FBgn0001197,His2Av,Histone H2A variant,CG5499 H2A.Z H2AZ H2Av H2AvD His2Av His2AvD l(3)05146 l(3)810 l(3)97Dd l(3)L1602,NO,
+FBgn0001198,His2B,Histone H2B,DmeH2b H2<down>B</down> H2B H2b His2B His2b HisC dH2B,NO,
+FBgn0001204,hkb,huckebein,5953 CG9768 Hkb anon-82B3 hkb,YES,(sequence-specific TF)
+FBgn0001206,Hmr,Hybrid male rescue,BcDNA:LD22117 CG1619 Hmr hmr,maybe,(sequence-specific TF)
+FBgn0001222,Hsf,Heat shock factor,CG5748 D-HSF Dm-Hsf DmHSF HSF Hsf dHSF hsf l(2)03091,YES,(sequence-specific TF)
+FBgn0001235,hth,homothorax,1323/07 1422/04 CG17117 Dm-HTH Hth Meis1 P53 anon-EST:Liang-2.13 clone 2.13 dtl hth hth1 hth2 l(3)05745 l(3)86Ca,YES,(sequence-specific TF)
+FBgn0001269,inv,invected,CG17835 Engrailed/Invected IV er in inv,YES,(sequence-specific TF)
+FBgn0001291,Jra,Jun-related antigen,AP-1 AP1 CG2275 D-Jun D-jun DJUN DJun Djun Jra Jun V c-Jun cJun d-JRA d-Jun d-jun dAP-1 dJRA dJUN dJra dJun dm-Jun jra jun l(2)46Ef l(2)IA109 l(2R)IA109,YES,(sequence-specific TF)
+FBgn0001297,kay,kayak,AP-1 AP1 CG15507 CG15509 CG33956 D-Fos D-fos DFOS DFos DFra Dfos Fos Fra c-Fos d-fos dAP-1 dFRA dFos dFra dlhD fos kay sro,YES,(sequence-specific TF)
+FBgn0001309,kis,kismet,136/31 2532 5841 BEST:GM02209 CG18326 CG3660 CG3696 EK2-4 GM02209 KIS Su(Pc)21AB anon-WO0172774.164 anon-WO0257455.5 kis kiss l(2)07812 l(2)k08827 l(2)k13631 l(2)k14112 l(2)s3527 l(2)s4771 l(2)s4793,NO,
+FBgn0001319,kn,knot,CG10197 Col Kn col kn,maybe,"(TF, short range)"
+FBgn0001320,kni,knirps,CG4717 Col KNI Kni NR0A1 kn kni ri,YES,(sequence-specific TF)
+FBgn0001323,knrl,knirps-like,CG4761 Knrl NR0A2 knrl,YES,(sequence-specific TF)
+FBgn0001324,kto,kohtalo,CG8491 Kto MED12 SRB8 Srb8/KTO/TRAP230 Trap230 dTRAP230 kto,NO,
+FBgn0001325,Kr,Kruppel,CG3340 If Kr kr,YES,(sequence-specific TF)
+FBgn0001330,kz,kurz,CG3228 EG:30B8.2 N1 N8 kz l(1)2Eb l(1)N4 l67,NO,
+FBgn0001491,l(1)10Bb,lethal (1) 10Bb,10Ba CG1639 l(1)10Bb l(1)G0169 l(1)G14 l(1)GLM14,NO,
+FBgn0001965,Sos,Son of sevenless,2.3 34Ea BG:DS00941.4 CG7793 E(sev)2A E(var)189 EK2-8 EY2-3 SOS Sos Sos1 Su(tor)2-2 br24 br25 dSos dme-SOS l(2)34Ea l(2)Sos l(2)br24 l(2)br25 l(2)k05224 l(2)k06321 sos,NO,
+FBgn0001978,stc,shuttle craft,BG:DS04929.4 BcDNA.LD22726 BcDNA:LD22726 CG3647 Cf4 br33 l(2)35Cb l(2)SH1565 l(2)SH2 1565 l(2)br33 l35Cb stc,YES,(sequence-specific TF)
+FBgn0001981,esg,escargot,4B7 BG:DS07851.7 CG3758 br43 dgl esg flg l(2)07082 l(2)35Ce l(2)4B7 l(2)br43 l(2)esg l35Ce shof wiz,YES,(sequence-specific TF)
+FBgn0001983,wor,worniu,BG:DS03023.1 CG4158 br35 l(2)35Da l(2)br35 l35Da wor,YES,(sequence-specific TF)
+FBgn0001990,wek,weckle,BG:DS09217.5 CG4148 l(2)35Ea l(2)br47 l35Ea wek,maybe,"(TF, short range)"
+FBgn0001994,crp,cropped,35F(AT)<down>17</down> AP-4 BG:DS02740.3 CG7664 MS:35F.AT17 crp dAP-4 l(2)00232 l(2)35Fd l(2)SH1614 l(2)SH2 1614 l(2)k00809 l(2)k03505,YES,(sequence-specific TF)
+FBgn0002023,Lim3,,CG10699 CG15174 Lim3 l(2)37Bd l(2)Bd lim3,YES,(sequence-specific TF)
+FBgn0002183,dre4,dre4,CG1828 DRE4/dSPT16 Spt16 dSPT16 dre4 dspt16 l(3)62Bg l(3)dre4 spt16,NO,
+FBgn0002441,l(3)mbt,lethal (3) malignant brain tumor,CG5954 L(3)MBT/LIN-61 MBT l(3)malignant braintumor l(3)mbt mbt,NO,
+FBgn0002521,pho,pleiohomeotic,CG17743 PHO Pho YY1 l(4)102EFc l(4)29 l(4)BU-2 l(4)OC-1 l(4)pho pho,YES,"(TF, long range)"
+FBgn0002522,lab,labial,BG:DS00004.9 CG1264 EfR9 F121 F24 F90 F90-2 Lab l(3)01241 l(3)84Ac lab lb,YES,(sequence-specific TF)
+FBgn0002542,lds,lodestar,CG2684 DmF2 NTef2 early lds lod,NO,
+FBgn0002561,l(1)sc,lethal of scute,AS-C T3 AS-T3 ASC-T3 CG3839 EG:198A6.2 L'Sc L'sc T3 ascT3 l'sc l(1)1Ba l(1)sc l-sc lsc sc/T3,YES,(sequence-specific TF)
+FBgn0002573,sens,senseless,1228/04 CG10714 CG32120 Ly Ly-1 Sen Sens l(3)70Ad sens sense,YES,(sequence-specific TF)
+FBgn0002576,lz,lozenge,CG1689 Lz amx fs(1)A1569 fs(1)M69 lz spe,YES,(sequence-specific TF)
+FBgn0002609,HLHm3,E(spl) region transcript m3,CG8346 E(Spl)-HLH-m3 E(spl)M3 E(spl)m3 E(spl)m3/m4 HLH-m3 HLHM3 HLHm3 m3,YES,(sequence-specific TF)
+FBgn0002622,RpS3,Ribosomal protein S3,CG6779 DmRpS3 M(3)124 M(3)95A M(3)B M(3)B2 M(3)Fla M(3)w M(3R)w M<down>w</down> Mw RS3 RpS3 Rps3 S3 X72921 dS3 rpS3,NO,
+FBgn0002631,HLHm5,E(spl) region transcript m5,CG6096 E(spl) transcription unit m5 E(spl)-m5 E(spl)M5 E(spl)m5 HLH-m5 HLHm5 m5,YES,(sequence-specific TF)
+FBgn0002633,HLHm7,E(spl) region transcript m7,CG8361 E(SPL)m7 E(spl) m7 E(spl)-M7 E(spl)-m7 E(spl)M7 E(spl)m7 ESPL HLH-m7 HLHm7 M7 m7,YES,(sequence-specific TF)
+FBgn0002707,mei-9,meiotic 9,CG3697 DhR1 DmXPF MEI-9 mei-9 mei9 mus(1)110 mus110 xpf/mei-9,NO,
+FBgn0002723,Rst(1)JH,Resistance to Juvenile Hormone,CG1705 Met Mett Rst(1)JH met,maybe,"(TF, short range)"
+FBgn0002733,HLHm&bgr;,E(spl) region transcript m&bgr;,CG14548 Dm-mA E(Spl) HLH-Mbeta E(spl) E(spl) mbeta E(spl)&bgr; E(spl)-M&bgr; E(spl)M&bgr; E(spl)m&bgr; E(spl)mA E(spl)mbeta HLH-m&bgr; HLHm&bgr; HLHmA HLHmbeta M&bgr; m&bgr; mA mbeta,YES,(sequence-specific TF)
+FBgn0002734,HLHm&dgr;,E(spl) region transcript m&dgr;,CG8328 E(Spl) HLH-m delta E(Spl)-HLH-m&dgr; E(spl) mdelta E(spl)&dgr; E(spl)-mdelta E(spl)M&dgr; E(spl)m&bgr; E(spl)m&dgr; E(spl)mC E(spl)mdelta HLH-m&dgr; HLHMD HLHm&dgr; HLHmC HLHmdelta m&dgr; m&dgr;0.5 mC,YES,(sequence-specific TF)
+FBgn0002735,HLHm&ggr;,E(spl) region transcript m&ggr;,CG8333 Dm-mB E(Spl) HLH-m gamma E(spl) m gamma E(spl) mgamma E(spl)&ggr; E(spl)-m&ggr; E(spl)M&ggr; E(spl)m&ggr; E(spl)mB E(spl)mgamma HLH-m&ggr; HLHm&ggr; HLHmB M&ggr; anon-EST:Liang-1.49 clone 1.49 e(spl)mgamma m&ggr; mB mgamma,YES,(sequence-specific TF)
+FBgn0002775,msl-3,male-specific lethal 3,CG8631 DmMsl-3 MSL MSL-3 MSL3 mle(3)132 mle3 mls3 msl msl-3 msl3,NO,
+FBgn0002780,mod,modulo,0952/14 CG2050 mod ms(3)100EF,YES,"(TF, long range)"
+FBgn0002781,mod(mdg4),modifier of mdg4,BcDNA:GH07769 BcDNA:SD03001 CG15500 CG15501 CG15802 CG18151 CG32491 CG7836 CG7859 CG8076 Doom E(var)129 E(var)3-93D E(var)93D E-(var)3-93D E-var(3)1 E-var(3)3 MOD(MDG4)56.3 Mod(mdg)4 Mod(mdg4) Mod[mdg4] bpd doom l(3)03852 l(3)L3101 l(3)j2B7 mod(gypsy,NO,
+FBgn0002906,mus309,mutagen-sensitive 309,CG6920 DmBlm DmKu70 Dmblm RecQ blm mus 309 mus309,NO,
+FBgn0002914,Myb,Myb oncogene-like,CG9045 D-myb DMyb Dm Myb Dm myb Dm-Myb Dm-myb DmMYB DmMyb MYB Myb c-Myb c-myb dMyb dmMYB dmyb l(1)XVI myb p85,YES,"(sequence-specific TF) (TF, long"
+FBgn0002922,nau,nautilus,CG10250 Dmyd MYOD Mdrf MyoD nau,YES,(sequence-specific TF)
+FBgn0002931,net,net,CG11450 Group IId Shout net shout,maybe,"(TF, short range)"
+FBgn0002932,neur,neuralized,0328/12 0971/15 1293/09 1315/05 BEST:LD21494 CG11988 Neur l(3)j6B12 l(3)j9B8 l(3)j9B9 l(3)j9C8 l(3)neo37 neu neur,NO,
+FBgn0002941,slou,slouch,CG6534 NK-1 NK1 NK1/S59 Nk1 S-59 S59 S59/NK-1 prd9 s59 slou slou/NK1,YES,(sequence-specific TF)
+FBgn0002970,nub,nubbin,CG6246 Oct-1 PDM1 POU33F1 Pdm Pdm-1 Pdm1 dOct1 dPOU-19 dPOU-19/pdm-1 dPOU19 nb nub pdm pdm-1 pdm1 twn,YES,(sequence-specific TF)
+FBgn0002973,numb,numb,CG3779 N7-1 Numb d-numb dNumb l(2)03235 l(2)3235 l(2)s2201 nb numb,NO,
+FBgn0002985,odd,odd skipped,CG3851 ODD Odd l(2)01863 odd ods,YES,(sequence-specific TF)
+FBgn0003002,opa,odd paired,CG1133 opa,maybe,"(TF, short range)"
+FBgn0003013,osa,osa,CG7467 E(E2F)3C OSA Osa anon-WO0118547.314 anon-WO0172774.126 eld en(lz)4F/4H l(3)00090 l(3)04539 l(3)j9C3 osa p300,NO,
+FBgn0003028,ovo,ovo,CG15467 CG6824 Fs(1)K1103 Fs(1)K1237 Fs(1)K155 OVO Ovo Ovo-D Svb fs(1)K1237 fs(1)M1 fs(1)M38 ovo ovo/shavenbaby ovo/svb svb,YES,(sequence-specific TF)
+FBgn0003044,Pcl,Polycomblike,CG5109 PCL Pcl l(2)s1859 pcl,YES,"(TF, long range)"
+FBgn0003053,peb,pebbled,CG12212 EG:66A1.1 EP55 HNT Hind Hnt PEB anon-4Cg hnd hnt peb,maybe,"(TF, short range)"
+FBgn0003090,pk,prickle,CG11084 CG12830 Pk Pk-Sple pk pk-sple sple,NO,
+FBgn0003117,pnr,pannier,CG3978 GATAa GATAa/Pannier Pnr dGATAa dGATAa/pannier l(3)89B3 pnr prn,YES,(sequence-specific TF)
+FBgn0003118,pnt,pointed,0123/09 0608/07 0998/12 3520 CG17077 D-Ets-2 D-ets-2 DMPOINT1A E(E2F)3D EK3-2 ETS2 EY3-1 Ets2 Ets58AB Ets94F PNTP1 PNTP2 POINT ets94F l(3)07825 l(3)j1B7 pnt ptd,YES,(sequence-specific TF)
+FBgn0003129,Poxm,Pox meso,CG9610 P29 Pox-m Poxm meso poxm,maybe,"(TF, short range)"
+FBgn0003130,Poxn,Pox neuro,CG8246 P4 Pox-n Poxn neuro pox-n poxn,maybe,"(TF, short range)"
+FBgn0003145,prd,paired,CG6716 Prd pr prd,YES,(sequence-specific TF)
+FBgn0003189,r,rudimentary,ACT CAD CG18572 CG4601 CPS DHO DRORUD GAT PYR1 Su(b) csp2 fs(1)829 fs(1)M34 l(1)Ab r,NO,
+FBgn0003231,ref(2)P,refractory to sigma P,CG10360 Ref(2)P Ref(2)p Ref2P ref ref(2)P ref(2)Pn ref(2)Po2 ref(2)p ref2p,NO,
+FBgn0003254,rib,ribbon,CG7230 gene 5 rib,maybe,"(TF, short range)"
+FBgn0003263,rn,rotund,5.3 CG10040 CG14600 CG14601 CG14603 CG32466 Dipr P5.3 rn roe,maybe,"(TF, short range)"
+FBgn0003267,ro,rough,CG6348 ro,YES,(sequence-specific TF)
+FBgn0003270,amos,absent MD neurons and olfactory sensilla,Amos CG10393 Roi Tft amos asolo rolo,maybe,"(TF, short range)"
+FBgn0003278,RpI135,RNA polymerase I 135kD subunit,CG4033 DmRP135 RP135 RpI135 RpIII135 l(2)k16513,NO,
+FBgn0003300,run,runt,1 2 AA33 CG1849 LB5 P235 Runt l(1)19Ea l(1)AA33 l(1)B2/13.1 l(1)LB9 lLB5 leg run,YES,(sequence-specific TF)
+FBgn0003334,Scm,Sex comb on midleg,CG9495 SCM Scm Su(z)302 l(3)85Ef scm,maybe,"(TF, long range)"
+FBgn0003339,Scr,Sex combs reduced,BG:DS07876.2 CG1030 Msc SCR Scr l(3)84Af scr,YES,(sequence-specific TF)
+FBgn0003345,sd,scalloped,CG8544 DROEXO DROEXO2 EP(X)1088 EP1088 Sd anon-EST:Liang-2.14 clone 2.14 l(1)G0239 l(1)G0262 l(1)G0309 l(1)G0315 l(1)G0483 l(1)HF394 l(1)III sd sp,YES,(sequence-specific TF)
+FBgn0003396,shn,schnurri,BEST:SD06302 CG7734 EP(2)2359 EP2359 SD06302 Shn l(2)04738 quo shn,YES,(sequence-specific TF)
+FBgn0003411,sisA,sisterless A,CG1641 sis A sis a sis-A sis-a sisA sisa,YES,(sequence-specific TF)
+FBgn0003430,slp1,sloppy paired 1,CG16738 Dmslp1 FD6 Slp Slp-1 l(2)05965 slp slp-1 slp-2 slp1,YES,(sequence-specific TF)
+FBgn0003448,sna,snail,BG:DS01845.1 CG3956 br28 l(2)35Db l(2)br28 l(3)br28 l35Db sn sna,YES,(sequence-specific TF)
+FBgn0003459,stwl,stonewall,CG3836 fs(3)02024 snw stwl,maybe,"(TF, short range)"
+FBgn0003460,so,sine oculis,CG11121 Drl So ami mda med old so somda,YES,(sequence-specific TF)
+FBgn0003483,spn-E,spindle E,CG3158 Spn-E fs(1)hls fs(3)hls hls spn E spn-E spn-E/hls spnE,NO,
+FBgn0003499,sr,stripe,CG7847 Sr l(3)03999 l(3)06948 l(3)06948b sr,maybe,"(TF, short range)"
+FBgn0003507,srp,serpent,A7.1 ABF Abf CG3992 DmGATAb GATA GATAb Srp abf dGATAb l(3)01549 l(3)89B2 l(3)neo45 spt srp,YES,(sequence-specific TF)
+FBgn0003511,Sry-&bgr;,Serendipity &bgr;,CG7938 Sry&bgr; Sry-&bgr; Sry-beta sry sry &bgr; sry beta sry&bgr; sry-&bgr; sry-b sryb,YES,(sequence-specific TF)
+FBgn0003512,Sry-&dgr;,Serendipity &dgr;,CG17958 EH8 Sry &dgr; Sry&dgr; Sry-&dgr; Sry-delta anon-EH8 sry sry &dgr; sry&dgr; sry-&dgr;,YES,(sequence-specific TF)
+FBgn0003513,ss,spineless,AHR CG6993 SS ss,YES,(sequence-specific TF)
+FBgn0003567,su(Hw),suppressor of Hairy wing,CG8573 Su(HW) Su(Hw) Su(hw) Su[Hw] su(Hw) su(hw),YES,"(TF, long range)"
+FBgn0003598,Su(var)3-7,Suppressor of variegation 3-7,CG8599 SU(VAR)3-7 Su(var)(3)3 Su(var)(3)7 Su(var)3-7 Su-var(3)7 Suvar(3)7 l(3)87El,YES,"(TF, long range)"
+FBgn0003607,Su(var)205,Suppressor of variegation 205,CG8409 DmHP-1 DmHP1 E(var)29 E(var)29A HP-1 HP1 HP1&agr; HP1-VS HP1a Hp1 Su(Var)2-5 Su(var) Su(var)2-05 Su(var)2-5 Su(var)2-501 Su(var)205 Su(var)29A Su(var)<up>205</up> Su-var(2)5 Suvar(2)5 Suvar2-5 dHP1 su(var)205,YES,"(TF, long range)"
+FBgn0003612,Su(var)2-10,Suppressor of variegation 2-10,CG8068 CLOT2057 DPIAS Dpias PIAS Su(Var)2-10 Su(var)2-10 Su-var(2)10 Suvar(2)10 ZimpA ZimpB dPIAS dpias i184 l(2)03697 zimp,maybe,"(TF, long range)"
+FBgn0003651,svp,seven up,0005/12 0042/01 0106/18 0114/20 0351/01 0598/01 0861/07 BcDNA:GH08189 CG11502 CG18158 NR2F3 SVP Svp ck16 don l(3)07842 l(3)87Bd l(3)ck16 l(3)j2E2 l(3)rA028 l(3)rL069 svp,YES,(sequence-specific TF)
+FBgn0003683,term,terminus,Bsg75C CG4216 Term ter term,maybe,"(TF, short range)"
+FBgn0003687,Tbp,TATA binding protein,CG9874 RBP TBP TBP38 TFIID TFIID&tgr; Tbp TfIID dTBP dTFIID dTbp,NO,
+FBgn0003715,Tkr,Tyrosine kinase-related protein,BTB-III BtbIII CG16778 CG2672 Tkr anon-G2 dTKR g2 tkr,maybe,"(TF, short range)"
+FBgn0003720,tll,tailless,CG1378 NR2E2 Tll tll,YES,(sequence-specific TF)
+FBgn0003732,Top2,Topoisomerase 2,CG10223 CHRAC TOP2 TOPOII Top2 TopII Topo II TopoII dCHRAC dTopoII top2 topo II topoII,NO,
+FBgn0003749,trh,trachealess,3.1 CG6883 DMU42699 TRH l(3)10512 trh,YES,(sequence-specific TF)
+FBgn0003862,trx,trithorax,4720 4733 CG8651 DMTRXIII NR0A5 R-bx Rg-bx TRX Trx l(3)bx<up>v</up> l(3)j14A6 l(3)j3A2 l(3)s5452 trx trx-g trxI and trxII,YES,"(sequence-specific TF) (TF, long"
+FBgn0003866,tsh,teashirt,CG1374 T shirt ae ae<up>l</up> l(2)04319 l(2)B4-2-12 tsh,maybe,"(TF, short range)"
+FBgn0003870,ttk,tramtrack,0037/17 0250/25 0438/31 0702/07 1049/07 1119/04 1184/16 1209/05 1209/10 1260/10 1281/04 1325/15 1372/08 1396/14 1418/06 3540 5125 5311 CG11558 CG1856 E(yan)100D FTZ-F2 TTK88 Ttk Ttk69 anon-EST:Liang-2.9 clone 2.9 ftz-f2 ftzf2/ttk l(3)02667 l(3)j2A1 l,YES,(sequence-specific TF)
+FBgn0003896,tup,tailup,CG10619 Isl isl l(2)37Aa l(2)E41 tup,YES,(sequence-specific TF)
+FBgn0003900,twi,twist,CG2956 DTwist EC9 dip5 twi,YES,(sequence-specific TF)
+FBgn0003941,RpL40,Ribosomal protein L40,BcDNA:RE10554 CEP52 CG2960 DUb52 Dub52 RpL40 Ub52 Ubi-f Ubi-f52,NO,
+FBgn0003942,RpS27A,Ribosomal protein S27A,CG5271 DUb80 Dub80 RpS27A UB3-D Ubi-f80 Ubi-m l(2)04820 l(2)31Ei mfs(2)31 mfs(2)48 mfs48,NO,
+FBgn0003944,Ubx,Ultrabithorax,BX-C Bxl CG10388 Cbx DUbx DmUbx Hm UBx Ubx Ubx1b abx bx bx<up>D</up> bxd bxd<up>D</up> bxl l(3)89Eb pbx ubx,YES,(sequence-specific TF)
+FBgn0003963,ush,u-shaped,CG2762 FOG Ush l(2)19 u-sh ush ushaped,maybe,"(TF, short range)"
+FBgn0003964,usp,ultraspiracle,2C CF1 CF1/USP CF1/Usp CG4380 Cf1 DmUSP DmUsp EG:22E5.1 NR2B4 USP Usp XR2C cf1 dUSP dmUSP l(1)2Cf l(1)usp usp,YES,(sequence-specific TF)
+FBgn0003977,vir,virilizer,CG3496 vir,NO,
+FBgn0003986,vnd,ventral nervous system defective,CG6172 EC6 EG:118B3.1 NK-2 NK2 VND Vnd dNK-2 l(1)1Bf l(1)EA142 l(1)EC6 l(1)GA100 l(1)GA122 l(1)RC24 l(1)VA208 l(1)VE769 nk-2 vnd vnd/NK-2,YES,(sequence-specific TF)
+FBgn0003995,vvl,ventral veins lacking,CG10037 Cf1-a Cf1a Cf1a/drifter Cfla DFR Dfr/Vvl Drifter/Ventral veinless VVL Vv1 dfr dfr-vvl dfr/vvl drf prd3 ut vvl,YES,(sequence-specific TF)
+FBgn0004050,z,zeste,CG7803 EG:BACH59J11.3 e(bx) en-bx z,YES,(sequence-specific TF)
+FBgn0004053,zen,zerknullt,BG:DS00276.9 CG1046 l(3)84Ad z1 zen zen1,YES,(sequence-specific TF)
+FBgn0004054,zen2,zerknullt-related,BG:DS00276.10 CG1048 z2 zen2 zpr,YES,(sequence-specific TF)
+FBgn0004101,bs,blistered,BS CG3411 D-SRF DSRF DSrf DSrf/bs DmSRF Group IIc SRF Serf Srf ba bs dSRF dsrf l(2)03267 pruned/DSRF px,maybe,"(TF, short range)"
+FBgn0004102,oc,ocelliless,CG12154 Otd Otx l(1)7Ff l(1)8Ac oc ort otd uvi,YES,(sequence-specific TF)
+FBgn0004110,tin,tinman,CG7895 DROHOXHK4 DmNK-4 HOX NK-4 NK-4/msh-2 NK4 NK4/msh-2 Tin msh-2 msh2 tin tin/NK4,YES,(sequence-specific TF)
+FBgn0004170,sc,scute,AS-C T4 AS-C T4sc CG3827 DROACS2 EG:198A6.1 Hw Sc T4 T4 AS-C ascT4 l(1)1Ba sc sc&agr; sc/T4 scute/sisterlessB sis b sis-b sisB sisb,YES,(sequence-specific TF)
+FBgn0004198,ct,cut,BcDNA:GH10590 CG11387 Ct Cut ct kf l(1)7Ba l(1)7Bb l(1)VE614,YES,(sequence-specific TF)
+FBgn0004369,Ptp99A,Protein tyrosine phosphatase 99A,CG2005 CT6383 DPTP99A DPTP<down>99A</down> PTP99A Ptp99A R-PTP 99A dptp99A,NO,
+FBgn0004394,pdm2,POU domain protein 2,CG12287 CG15486 CG15487 Pdm-2 dOct2 dPOU-28 dPOU28 dPOU28/pdm-2 dim dpou28 miti pdm pdm-2 pdm2,YES,(sequence-specific TF)
+FBgn0004396,CrebA,Cyclic-AMP response element binding protein A,BBF-2 BBF2_DROME BOX B Binding Factor-2 Bbbf2 BcDNA:SD05937 CG7450 CREB CREB-A CREB-a Creb Creb-A CrebA creb crebA dCREB-A dCREBA dCreb-A dCrebA l(3)03576,YES,(sequence-specific TF)
+FBgn0004399,psq,pipsqueak,BTB-V BtbV CG2368 Psq pip psk psq psq-1 zep,YES,(sequence-specific TF)
+FBgn0004401,Pep,Protein on ecdysone puffs,CG6143 PEP PEP/X4 Pep X4/PEP p100,YES,(sequence-specific TF)
+FBgn0004463,RpIII128,RNA polymerase III 128kD subunit,CG8344 DmRP128 RP128 RpIII128,NO,
+FBgn0004493,DNApol-&agr;180,DNA polymerase &agr; 180kD,183 kDa pol &agr; AAB24152 CG6349 DNA pol&agr; DNApol&agr; DNApol-&agr; DNApol-&agr;180 DNApol-alpha180 DNApola DmPol&agr; POLA Pol&agr; pol &agr; pol&agr; pol&agr;p180,NO,
+FBgn0004510,Ets97D,Ets at 97D,CG6338 D-Elg D-elg DELG Elg Ets Ets97D elg tne tny,maybe,"(TF, short range)"
+FBgn0004567,slp2,sloppy paired 2,CG2939 Dmslp2 FD7 slp slp2,YES,(sequence-specific TF)
+FBgn0004579,salm,spalt major,3602 CG6464 SPALT Sal SalM l(2)03602 sal salII salM salm,maybe,"(TF, short range)"
+FBgn0004584,Rrp1,Recombination repair protein 1,CG3178 RRP1 Rrp1 rrp,NO,
+FBgn0004586,grh,grainy head,CG5058 DREB EG:191D12.1 Elf-1 Elf-1/NTF-1 Elf1 Gh NTF-1 NTF-1/Elf-1 NTF1 Ntf Ntf1 elf1 elf1(CAG)<down>7</down> grh hsk l(2)06850 l(2)IM45 l(2)s2140,YES,(sequence-specific TF)
+FBgn0004595,pros,prospero,0244/09 0320/10 0441/16 0451/09 0563/18 0585/13 0664/07 0671/02 0763/13 0989/01 1135/07 1135/09 1167/13 1316/02 671/2 BcDNA:HL08040 CG17228 DMPROSPER DROPROSA PROS-1 PROS-2 Pros Prosp Voila anon-WO0140519.15 l(3)10419 l(3)j12C8 l(3)j6E2 l(3)rH013 l(3,YES,(sequence-specific TF)
+FBgn0004606,zfh1,Zn finger homeodomain 1,CG1322 ZFH-1 Zfh-1 Zfh1 l(3)00865 zfh-1 zfh1 zfl-1,YES,(sequence-specific TF)
+FBgn0004607,zfh2,Zn finger homeodomain 2,CG1449 ZFH-2 Zfh-2 Zfh2 zfh-2 zfh2,YES,(sequence-specific TF)
+FBgn0004618,gl,glass,CG7672 E(sina)5 Glass SS3-2 SY3-3 gl none rh,YES,(sequence-specific TF)
+FBgn0004644,hh,hedgehog,CG4637 HH Hh Mir Mrt anon-WO0134654.19 anon-WO0182946.19 bar bar-3 bar3 hg hh l(3)hh l(3)neo56 l(3)neo57,NO,
+FBgn0004652,fru,fruitless,BTB-VI BtbVI CG14307 CG7688 CG7689 CG7690 CT22773 cg7688 cg7689 fru fty ms(3)06411 sat,maybe,"(TF, short range)"
+FBgn0004656,fs(1)h,female sterile (1) homoeotic,CG2252 N72 anon-EST:Liang-1.81 anon-EST:fe1G2 clone 1.81 fs(1)1456 fs(1)26/26A fs(1)M16 fs(1)R10.4 fs(1)h fsh fst(1)h l(1)7Da l(1)G0093 l(1)G0495 rnc,NO,
+FBgn0004666,sim,single-minded,0483/09 0716/08 0899/14 0953/08 1002/10 1034/02 1050/13 1110/04 1111/10 1330/08 1479/04 CG7771 S8 SIM l(3)87Ea l(3)E320 l(3)RD l(3)S8 l(3)s8 schm shm sim,YES,(sequence-specific TF)
+FBgn0004795,retn,retained,2535 BcDNA:LD35748 CG5403 DRI Dead Ringer/Retain Dri EY2-10 dri l(2)02535 retn retn/dri,YES,(sequence-specific TF)
+FBgn0004837,Su(H),Suppressor of Hairless,BG:DS00929.10 C CG3497 D E(H) FTZ-F2 RBP-J<down>&Kgr;</down> RBP-Jkappa Su(H) Su(h) SuH anon-WO0257455.3 br7 dRBP-J<down>&Kgr;</down> dRBP-JK dRBP-Jk l(1)br7 l(2)35Bh l(2)br7 l(2)k07904 oss su(H),YES,(sequence-specific TF)
+FBgn0004854,B-H2,BarH2,B B-H2 Bar Bar-H2 CG5488,YES,(sequence-specific TF)
+FBgn0004855,RpII15,RNA polymerase II 15kD subunit,8WG16 CG3284 H5 Pol II Pol IIa PolII RNA Pol II RNA pol II RNA polII RNAP RNAP II RNApolII RPII15 RpII15 RpII215 dRPB9 l(3)88Be l(3)Z23 polII,NO,
+FBgn0004858,elB,elbow B,BG:DS06238.3 CG4220 P10 el elB elb elbow,maybe,"(TF, short range)"
+FBgn0004859,ci,cubitus interruptus,CG2125 CI CID Ce Ci Ci<up>D</up> CiD ci ci-D ci155 ci<up>D</up> ciD l(4)102ABc l(4)13 l(4)17,YES,(sequence-specific TF)
+FBgn0004861,ph-p,polyhomeotic proximal,CG18412 CG18414 EG:87B1.5 PH PH-p Ph ph ph-P ph-p ph<up>P</up> phm php,maybe,"(TF, long range)"
+FBgn0004862,bap,bagpipe,CG7902 NK-3 NK3 bap bgp dNK-3 nk-3,YES,(sequence-specific TF)
+FBgn0004863,C15,C15,311 93Bal C15 CG7937 Ect5 Hox11-311,YES,(sequence-specific TF)
+FBgn0004865,Eip78C,Ecdysone-induced protein 78C,CG18023 DR-78 E78 E78A E78B E78D Eip78 Eip78C Eip78D NR1E1 anon-WO0172774.42 anon-WO0172774.44 dE78,YES,(sequence-specific TF)
+FBgn0004870,bab1,bric a brac 1,BAB1 CG13910 CG9097 anon-WO0118547.639 bab bab-I bab1,YES,(sequence-specific TF)
+FBgn0004878,cas,castor,CG2102 Cas cas l(3)j1C2 l(3)neo33 ming,YES,(sequence-specific TF)
+FBgn0004880,scrt,scratch,BcDNA:RH71479 CG1130 anon-EST:Liang-1.31 anon-EST:Liang-1.67 anon-WO02059370.57 clone 1.31 clone 1.67 scrt,maybe,"(TF, short range)"
+FBgn0004892,sob,sister of odd and bowl,CG3242 org1 sob,maybe,"(TF, short range)"
+FBgn0004893,bowl,brother of odd with entrails limited,17-29-5 Bowl CG10021 Su(tor)2-1 bowl l(2)c org2,maybe,"(TF, short range)"
+FBgn0004895,fd64A,forkhead domain 64A,CG1132 Dmfd2 FD2 fd2 fd64A,maybe,"(TF, short range)"
+FBgn0004896,fd59A,forkhead domain 59A,CG3668 Dmfd3 FD3 fd3 fd59A,maybe,"(TF, short range)"
+FBgn0004897,fd96Ca,forkhead domain 96Ca,CG11921 Dmfd4 FD4 fd4 fd96Ca,maybe,"(TF, short range)"
+FBgn0004898,fd96Cb,forkhead domain 96Cb,CG11922 Dmfd5 FD5 fd5 fd96Cb,maybe,"(TF, short range)"
+FBgn0004907,14-3-3&zgr;,,14-3-3 14-3-3&zgr; 14-3-3zeta 2G1 4-3-3 zeta 5.11 549 BEST:GH05075 CG17870 D14-3-3 D14-3-3&zgr; K PAR5 Par-5 d14-3-3zeta l(2)07103 l(2)46CFe l(2)46Ee leo par-5,NO,
+FBgn0004913,Gnf1,Germ line transcription factor 1,CG1119 GTF-1 Gnf-1 Gnf1 Gtf1 ONF-CAACAA RF-C 140 RFC RfC140 dRF-Cp140 gtf1,maybe,
+FBgn0004914,Hnf4,Hepatocyte nuclear factor 4,CG9310 DmHNF4 HNF-4 HNF-4(D) HNF4 Hnf-4h Hnf4 NR2A4 dHNF4,YES,(sequence-specific TF)
+FBgn0004915,TfIIB,Transcription factor IIB,CG5193 TFIIB TfIIB Tfiib dTFIIB dTfIIB,NO,
+FBgn0004919,gol,goliath,CG2679 anon-G1 g1 gol meso,NO,
+FBgn0004924,Top1,Topoisomerase 1,CG6146 TOP1 Top1 TopI dTopoI l(1)G0134 l(1)G0201 l(1)G0229 l(1)G0278 l(1)top1 top1 topi topo I topoI,NO,
+FBgn0005386,ash1,"absent, small, or homeotic discs 1",ASH1 Ash1 CG8887 ash ash-1 ash1 dash l(3)SG29a,maybe,"(TF, long range)"
+FBgn0005410,sno,strawberry notch,CG1903 Sno g-l l(1)11Ea sno,NO,
+FBgn0005427,ewg,erect wing,CG3114 EC3 EG:BACR37P7.7 EWG NRF-1 ewg l(1)1Ag l(1)DA659 l(1)EC3 l(1)EC3f l(1)VA720 l<up>EC3</up>,maybe,"(TF, short range)"
+FBgn0005511,mid,midline,CG6634 H15r H15r/nmr2 mid nmr2,maybe,
+FBgn0005558,ey,eyeless,CG1464 DPax-6 EYEL Ey Ey/Pax6 Pax6 ey eye l(4)102CDh l(4)102CDr l(4)33 pax6,YES,(sequence-specific TF)
+FBgn0005561,sv,shaven,CG11049 Cat D-Pax2 D-pax2 DPax-2 Dpax-2 Dpax2 PAX2 Pax2 Pax2/5/8 Pax258 d-Pax2 dPax2 dPax258 en(lz)4G/I l(4)40 pax2/sparkling pol shaven/sparkling spa spa-sv sv,maybe,"(TF, short range)"
+FBgn0005596,yem&agr;,yemanuclein &agr;,CG11879 CG14513 yG4.5 yT4.5 yem&agr; yem-&agr; yema,YES,
+FBgn0005612,Sox14,Sox box protein 14,CG17263 CG3090 DSox-14 DSox14 DSox60B Dsox-14 SOX14 SOX60B SOXC Sox14,YES,(sequence-specific TF)
+FBgn0005613,Sox15,Sox box protein 15,CG13945 CG8404 DSox-15 Dsox-15 SOX15 SOX50E SOXF Sox F Sox15 Sox50E SoxE,maybe,"(TF, short range)"
+FBgn0005616,msl-2,male-specific lethal 2,CG3241 MSL MSL-2 MSL2 Msl2 km(2)A kmA msl msl-2 msl2,NO,
+FBgn0005617,msl-1,male-specific lethal 1,CG10385 MSL MSL-1 MSL1 Msl1 i94 km(2)B kmB mls-1 msl msl-1 msl1,NO,
+FBgn0005624,Psc,Posterior sex combs,49Ea CG3886 D-Bmi PSC Psc Su(z)2-C l(2)49Ea l(2)Psc l(2)vr14 psc vr14,maybe,"(TF, long range)"
+FBgn0005630,lola,longitudinals lacking,BEST:LD03274 BTB-IV BcDNA:LD17006 BcDNA:RH31485 BtbIV CG12052 CG18376 CG18378 CG18379 CG18380 CG18381 CG30012 CG30013 CG30014 LD03274 NEST:bs06a08 bs06a08.y1 l(2)00642 l(2)s3697 lola sw59,maybe,"(TF, short range)"
+FBgn0005636,nvy,nervy,CG3385 nvy,NO,
+FBgn0005638,slbo,slow border cells,C/EBP CG4354 DC/EBP DmC/EBP fs(2)7 fs(2)8 fs(2)ry7 fs(2)ry8 slbo slobo,YES,(sequence-specific TF)
+FBgn0005642,wdn,wings down,CG1454 Sryc pqp sry h-l sry-c sry-h1 wdn,maybe,
+FBgn0005655,mus209,mutagen-sensitive 209,53/13 CG9193 DmPCNA PCNA Pcna l(2)02448 l(2)56F l(2)56Fa l(2)s1534 mus209 pcna,NO,
+FBgn0005658,Ets65A,Ets at 65A,CG13294 CG6882 CG7018 D-Ets-3 D-ets-3 ETS3 Ets Ets3 Ets65A ets65A,maybe,"(TF, short range)"
+FBgn0005659,Ets98B,Ets at 98B,CG5583 D-Ets-4 D-ets-4 ETS4 Ets Ets4 Ets98B ets98B,maybe,"(TF, short range)"
+FBgn0005660,Ets21C,Ets at 21C,CG2914 D-Ets-6 D-ets-6 ETS6 Ets Ets21C Ets6 ets21C ets21c,maybe,"(TF, short range)"
+FBgn0005677,dac,dachshund,BG:DS02780.3 CG4952 Dac Dm-DAC dac dach l(2)36Ae l(2)rK364 spn,YES,(sequence-specific TF)
+FBgn0005694,Aef1,Adult enhancer factor 1,AEF-1 Aef1 CG5683,YES,(sequence-specific TF)
+FBgn0005696,DNApol-&agr;73,DNA polymerase &agr; 73kD,CG5923 DNA pol&agr; DNApol&agr; DNApol-&agr; DNApol-&agr;72 DNApol-&agr;73 DNApol-alpha73 POLA Pol&agr; pol &agr; pol&agr;,NO,
+FBgn0005771,noc,no ocelli,BG:DS04641.1 CG4491 Sco br22 br29 l(2)35Ba l(2)35Ba/nocA l(2)br22 l(2)br29 l35Ba noc nocA,maybe,"(TF, short range)"
+FBgn0008636,hbn,homeobrain,57San CG10614 CG15647 CG15648 CG33152 hbn,YES,(sequence-specific TF)
+FBgn0008646,E5,E5,CG9930 E5,YES,(sequence-specific TF)
+FBgn0008649,dei,delilah,CG5441 Delilah dei del,YES,(sequence-specific TF)
+FBgn0008651,lbl,ladybird late,CG6570 Lb NK? NKch4 lb lbl nkch4,YES,(sequence-specific TF)
+FBgn0008654,Su(z)2,Suppressor of zeste 2,Arp CG3905 SUZ2 Su(z)2 Su(z)<down>2</down> l(2)k06344 su(z)2,maybe,"(TF, long range)"
+FBgn0010109,dpn,deadpan,44C CG3161 CG8704 Dpn anon-EST:fe1B12 dpn,YES,(sequence-specific TF)
+FBgn0010228,HmgZ,HMG protein Z,BcDNA:RE28596 CG17921 HMG-Z HmgZ anon-EST:Liang-1.58 clone 1.58 dHMG-Z hmg-Z,YES,"(TF, long range)"
+FBgn0010229,Hr39,Hormone receptor-like in 39,&bgr;FTZ-F1 CG8676 DHR30 DHR39 DHR39/Ftz-F1&bgr; EP(2)2490 FTZ-F1 FTZ-F1&bgr; FTZ-F1B Hr39 NR5B1 dFTZ-F1&bgr; ftz-F1 ftz-F1&bgr; ftz-f1&bgr; i70,YES,(sequence-specific TF)
+FBgn0010247,Parp,Poly-(ADP-ribose) polymerase,BEST:LD21673 CG17685 CG17696 CG17718 CG40411 D.PARP LD21673.3prime PARP PARP-1 Parp dPARP,NO,
+FBgn0010271,Sry-rDM10,Sry-related DM10,DM10 Sry-rDM10,maybe,
+FBgn0010272,Sry-rDM17,Sry-related DM17,DM17 Sry-rDM17,maybe,
+FBgn0010273,Sry-rDM23,Sry-related DM23,DM23 Sry-rDM23,maybe,
+FBgn0010274,Sry-rDM33,Sry-related DM33,DM33 Sry-rDM33,maybe,
+FBgn0010275,Sry-rDM36,Sry-related DM36,DM36 Sry-rDM36,maybe,
+FBgn0010276,Sry-rDM63,Sry-related DM63,DM63 Sry-rDM63,maybe,
+FBgn0010277,Sry-rDM64,Sry-related DM64,DM64 Sry-rDM64,maybe,
+FBgn0010278,Ssrp,Structure specific recognition protein,CG4817 Cf5 DssRP SSRP SSRP1 Ssrp dSSRP dSSRP1,NO,
+FBgn0010280,Taf4,TBP-associated factor 4,CG5444 SR3-3 SY3-2 TAF110 TAF TAF110 TAF4 TAF<down>II</down> TAF<down>II</down>110 TAF<up>II</up>110 TAFII110 TFIID TFIID 110 Taf110 Taf4 Taf<down>II</down>110 d110 dTAF<down>II</down>110 dTAFII110 dmTAF4 l(3)72Dj p110 taf110,NO,
+FBgn0010282,TfIIF&agr;,Transcription factor IIF&agr;,CG10281 F5a TFIIF TFIIF&agr; TFIIF-L TfIIF TfIIF&agr; TfIIFalpha,NO,
+FBgn0010287,Trf,TBP-related factor,CG7562 TRF TRF1 Trf Trf1 X70838 dTRF1 trf,YES,(sequence-specific TF)
+FBgn0010300,brat,brain tumor,CG10719 Cf E60 anon-37CDa brat fs(2)ltoPM43 l(2)37Cf l(2)E60 l(2)brat,NO,
+FBgn0010313,corto,corto,7128 CG2530 CP-1 Ccf anon-WO02059370.59 ccf corto l(3)07128 l(3)neo31 l(3)neo32,maybe,"(TF, long range)"
+FBgn0010317,CycJ,Cyclin J,CDI5 CG10308 Cdi5 CycJ cdi5 cycJ,NO,
+FBgn0010323,Gsc,Goosecoid,60Mun1 60Mun2 CG2851 D-Gsc D-gsc Gsc M72 PPH25 Pph25 gsc l(2)05341,YES,(sequence-specific TF)
+FBgn0010328,woc,without children,CG5965 woc,maybe,
+FBgn0010355,Taf1,TBP-associated factor 1,BG:DS00004.13 CG17603 EfW1 SR3-5 TAF TAF1 TAF200 TAF230 TAF250 TAF250/230 TAF<down>II</down> TAF<down>II</down>230 TAF<down>II</down>250 TAF<down>II</down>250/230 TAF<up>II</up>250 TAFII-250 TAFII250 TFIID TFIID TAF250 Taf1 Taf200 Taf230 Taf250 Taf<d,NO,
+FBgn0010417,Taf6,TBP-associated factor 6,CG32211 CG9348 SR3-4B TAF TAF6 TAF60 TAF60/62 TAF<down>II</down> TAF<down>II</down>60 TAF<down>II</down>60/62 TAF<down>II</down>62 TAFII60 TAFII60(62) TFIID TFIID 62 Taf6 Taf60 Taf62 Taf<down>II</down>60 d60 dTAF62 dTAF<down>II</down>262 dTAF<down>II,NO,
+FBgn0010422,TfIIS,RNA polymerase II elongation factor,BG:DS00929.12 CG3710 DmS-II DmSII RnpSII TFIIS TFIISA TFS-II TfIIS br52 l(2)35Cf l(2)35cF l(2)br52 l35Cf,NO,
+FBgn0010433,ato,atonal,ATO CG7508 ato ato1,YES,(sequence-specific TF)
+FBgn0010460,bun,bunched,1550 CG5461 EP(2)0488 TSC-22 Tsc22 bun l(2)00255 l(2)02687 l(2)05479 l(2)06475 l(2)k02903 l(2)rI043 shs,YES,(sequence-specific TF)
+FBgn0010575,sbb,scribbler,Bks CG5580 GM04742 Group IIa Scrib bks disc6 l(2)04440 mtv sbb,maybe,"(TF, short range)"
+FBgn0010768,sqz,squeeze,CG5557 anon-WO0118547.697 l(3)02102 sqz,maybe,"(TF, short range)"
+FBgn0010825,Gug,Grunge,Atro CG6964 Gug atro gug l(3)01323 l(3)03928 l(3)j5A3 l(3)rO116,maybe,"(TF, short range)"
+FBgn0011232,scat,scattered,CG3766 ms(2)05289 ms(2)30B scat,NO,
+FBgn0011236,ken,ken and barbie,2970 3907 5029 8253 CG5575 P420 ken l(2)00628 l(2)02970 l(2)05029 ok okina,maybe,"(TF, short range)"
+FBgn0011271,Bbbf1,Box B-binding factor 1,BBF-1 Bbbf1,YES,(sequence-specific TF)
+FBgn0011274,Dif,Dorsal-related immunity factor,CG6794 DIF Dif dif,YES,(sequence-specific TF)
+FBgn0011276,HLH3B,Helix loop helix protein 3B,CG2655 DroSCL EG:155E2.2 HLH3B HLH3b,maybe,"(TF, short range)"
+FBgn0011277,HLH4C,Helix loop helix protein 4C,CG3052 DroNHLH EG:84H4.2 HLH4C,maybe,"(TF, short range)"
+FBgn0011278,lbe,ladybird early,CG6545 Hox11-D125 Lb Lbe NK? lb lbe,YES,(sequence-specific TF)
+FBgn0011289,TfIIA-L,Transcription factor IIA L,CG5930 TFIIA TFIIA-L TfIIA-L dTFIIA,NO,
+FBgn0011290,Taf12,TBP-associated factor 12,CG17358 TAF TAF12 TAF30&agr; TAF30&agr;/28 TAF30&agr;/28/22 TAF30a TAF<down>II</down> TAF<down>II</down>230 TAF<down>II</down>30&agr; TAF<down>II</down>30&agr;/28 TAF<down>II</down>22 TAF<down>II</down>30&agr;/28/22 TAF<up>II</up>30&agr; TAFII30&agr;,NO,
+FBgn0011291,Taf11,TBP-associated factor 11,CG4079 TAF TAF11 TAF30&bgr; TAF30b TAF<down>II</down> TAF<down>II</down>30&bgr; TAF<up>II</up>30&bgr; TFIID TFIID 28 beta TFIID-p28beta Taf11 Taf30&bgr; Taf<down>II</down>30&bgr; d30&bgr; dTAF<down>II</down>30 dTAF<down>II</down>30&bgr; dTAFII30 dTAF,NO,
+FBgn0011425,DNAprim,,BcDNA:GM13640 CG5553 DNAprim S(faf)240 l(3)77ABe l(3)j10B2,NO,
+FBgn0011604,Iswi,Imitation SWI,ACF CG8625 CHRAC ISW ISWI Iswi NURF NURF-140 Nurf-140 SWI anon-EP1279744.124 dCHRAC dISWI dNURF iswi p140 p140/ISWI,NO,
+FBgn0011648,Mad,Mothers against dpp,2/23 CG12399 E(zen)2 En(vvl) MAD Mad apg l(2)K00237 l(2)k00237 mad pMAD,YES,(sequence-specific TF)
+FBgn0011655,Med,Medea,CG1775 E(zen)3 Med anon-EST:Posey121 dSmad4 l(3)11m-254 l(3)12m-137 l(3)SG36 l(3)SG70 l(3)XIIm137 med medea,YES,(sequence-specific TF)
+FBgn0011656,Mef2,Myocyte enhancing factor 2,22.21 BEST:SD04091 C CG1429 D-MEF2 D-Mef2 D-mef2 DMEF-2 DMEF2 DMedf2 DMef-2 DMef2 Dmef Dmef-2 Dmef2 MEF-2 MEF2 MEF2# Mef Mef2 SD04091 dMEF2 dMef2 dmef2 l(2)46CFr mef mef-2 mef2,YES,(sequence-specific TF)
+FBgn0011659,Mlh1,Mlh1,CG11482 Mlh1 dmlh-1 dmlh1,NO,
+FBgn0011701,repo,reversed polarity,3702 AbRK2 CG31240 CG8045(CT24072) CT24072 REPO RK2 l(3)03702 repo rk2,YES,(sequence-specific TF)
+FBgn0011715,Snr1,Snf5-related 1,BAP45 CG1064 SNR1 Snr1 l(3)01319 snr snr1,NO,
+FBgn0011723,byn,brachyenteron,Byn CG7260 D-TRA D-Trg DTrg Dm-BYN Tra Trg apro byn byn/apro dm-Trg trg,YES,(sequence-specific TF)
+FBgn0011758,B-H1,BarH1,B-H1 Bar Bar H1 Bar-H1 BarHI CG5529 barH1 barh1,YES,(sequence-specific TF)
+FBgn0011763,Dp,DP transcription factor,49Fk CG4654 DP DP1 DmDP Dp dDP dDP1 dDp l(2)49Fk l(2)vr10 vr10,YES,(sequence-specific TF)
+FBgn0011764,Dsp1,Dorsal switch protein 1,CG12223 DSP1 Dsp1 Hmg14D Ssrp2 dsp1 ssrp2,YES,(sequence-specific TF)
+FBgn0011766,E2f,E2F transcription factor,CG6376 DRTF1/E2F DmE2F-1 E(Sev-CycE)3A E(var)3-93E E(var)3-95E E(var)93E E2F E2F-1 E2F1 E2f E2f1 Evar(3)164 dE2F dE2F1 dE2f dE2f1 de2f1 def21 drosE2F1 e2f e2f1 l(3)07172 l(3)j3B1 l(3)j3C2 l(3)rM729,YES,(sequence-specific TF)
+FBgn0011774,Irbp,Inverted repeat-binding protein,CG5247 DmKu70 IRBP IRBP/Ku70 Irbp Ku Ku70 YPF1 YPF1&bgr; Ypf1b dp70 p70,YES,"(TF, short range)"
+FBgn0011836,Taf2,TBP-associated factor 2,CG6711 TAF TAF150 TAF2 TAF<down>II</down> TAF<down>II</down>150 TAF<up>II</up>150 TAFII150 TFIID Taf150 Taf2 Taf<down>II</down>150 TafII150 dTAF II 150 dTAF150 dTAF<down>II</down>150 dTAFII150,NO,
+FBgn0011837,Tis11,Tis11 homolog,BcDNA:GH04518 CG4070 DTIS11 TIS11cc1 TIScc1 Tis11 anon-EST:Liang-1.28 clone 1.28 l(1)G0124,NO,
+FBgn0012049,BtbVII,BTB-protein-VII,BTB-VII BtbVII CG11494,maybe,"(TF, short range)"
+FBgn0012066,DNApol-&dgr;,DNA-polymerase-&dgr;,CAA61369 CG5949 DNApol-&dgr; DNApol-delta Dm Pol&dgr;,NO,
+FBgn0013263,Trl,Trithorax-like,Adf-2 Adf-2-519 Adf2 CG13470 CG33261 CG9343 E(var)3-trl E(var)62 GAF GAGA Gaf Gaga NC70F Nc70F TfGAGA/Adf-2 Trl Trl-GAGA anon-EST:fe2E12 l(3)s2325 trl,YES,"(sequence-specific TF) (TF, long"
+FBgn0013347,TfIIA-S,Transcription-factor-IIA-S,BcDNA:RE44302 CG5163 F121 TFIIA TFIIA-S TfIIA-S dTFIIA dTFIIA-S,NO,
+FBgn0013469,klu,klumpfuss,CG12296 P09036 klu l(3)09036 l(3)10052,maybe,"(TF, short range)"
+FBgn0013591,Mi-2,,0006/06 0854/01 CG8103 Dm-Mi-2 MI2 Mi 2 Mi-2 Mi2 Pha dMI-2 dMi dMi-2 hip76 l(3)01058 l(3)A154.3M3 l(3)S000606 l(3)S085401 l(3)j3D4 pha,YES,"(TF, long range)"
+FBgn0013717,not,non-stop,CG4166 anon-WO0257455.9 i155 l(3)02069 l(3)j9A6 not,NO,
+FBgn0013751,Awh,Arrowhead,Awh CG1072 l(3)63Ea l(3)63Ea/Awh l(3)64Ea l(3)SH9 l63Ea,YES,(sequence-specific TF)
+FBgn0013753,Bgb,Big brother,Bgb CG7959 bgb en(lz)D/9 rp&bgr;2,maybe,"(TF, short range)"
+FBgn0013755,Bro,Brother,Bro CG7960 bro rp&bgr;1,maybe,"(TF, short range)"
+FBgn0013764,Chi,Chip,CG3924 Chi Ldb chip dLDB/Chip dLdb l(2)04405 l(2)k04405,NO,
+FBgn0013799,Deaf1,Deformed epidermal autoregulatory factor-1,CG8567 DEAF-1 Deaf-1 Deaf1,YES,(sequence-specific TF)
+FBgn0013910,Dtf-1,Dtf-1,DTF-1 Dtf-1,YES,(sequence-specific TF)
+FBgn0013948,Eip93F,,CG18389 E93 Eip93F anon-WO02059370.58,maybe,"(TF, short range)"
+FBgn0013970,Gebf-I,glue enhancer binding factor-I,GEBF-I Gebf-I,YES,(sequence-specific TF)
+FBgn0014018,Rel,Relish,CG11992 Rel ird ird4 l(3)neo36 rel,YES,(sequence-specific TF)
+FBgn0014143,croc,crocodile,CG5069 Dmfd1 FD1 croc fd1 fd78E,YES,(sequence-specific TF)
+FBgn0014179,gcm,glial cells missing,CG12245 GCM Gcm N7-4 gcm glide glide/gcm l(2)N7-4 ucc,YES,(sequence-specific TF)
+FBgn0014343,mirr,mirror,CG10601 DH1 De1 De3 IRO-C Iro Iro-C Mrr Sai cre crep iro iro-C l(3)69Ca l(3)69Da l(3)6D1 l(3)A5-3-42 mir mirr mrr,YES,(sequence-specific TF)
+FBgn0014467,CrebB-17A,Cyclic-AMP response element binding protein B at 17A,CG6103 CREB CREB-B CREB-b CREB2 CREB2a CREB2b Creb Creb2b CrebB-17A CrebB17-A S162 dCREB dCREB-2 dCREB-2a dCREB-B dCREB2 dCREB2-a dCREB2-b dCREB2a dCREB2b dCbz l(1)17Af,YES,(sequence-specific TF)
+FBgn0014857,His3.3A,Histone H3.3A,CG5825 H3.3 His3.3 His3.3A PH3,NO,
+FBgn0014858,Hmx,H6-like-homeobox,CG5832 Hmx,YES,(sequence-specific TF)
+FBgn0014859,Hr38,Hormone receptor-like in 38,38E.3 38E.7 CG1864 DHR38 Dhr38 HR38 Hr38 NR4A4 l(2)02306,YES,(sequence-specific TF)
+FBgn0014861,Mcm2,Minichromosome maintenance 2,CG7538 DmMCM2 DmMcm2 MCM2 Mcm2 PCR3 dMCM2 l(3)rL074,NO,
+FBgn0014931,CG2678,CG2678,B CG2678 anon-84Eb,maybe,"(TF, short range)"
+FBgn0014949,btn,buttonless,1261/13 CG5264 btn btn/MEOX,YES,(sequence-specific TF)
+FBgn0015014,tgo,tango,ARNT Arnt CG11987 DARNT HIF-1&bgr; HIF1b Hif1 TGO Tango arnt dARNT darnt prd7 tgo,YES,(sequence-specific TF)
+FBgn0015025,CkII&agr;-i1,CKII-&agr; subunit interactor-1,CG6215 CKIIalpha-I1 CkII&agr;-i1 CkIIalpha-i1,maybe,"(TF, short range)"
+FBgn0015232,GpHLH,Glial precursor HLH protein,GPHLH GpHLH,YES,(sequence-specific TF)
+FBgn0015234,HLH106,Helix loop helix protein 106,CG8522 HLH106 SREBP Srebp dSREBP,YES,(sequence-specific TF)
+FBgn0015239,Hr78,Hormone-receptor-like in 78,CG7199 DHR78 Dhr78 HR78 Hr78 Hr78D NR2D1 XR78E/F,YES,(sequence-specific TF)
+FBgn0015240,Hr96,Hormone receptor-like in 96,CG11783 DHR96 Dhr96 Hr96 NR1J1,YES,(sequence-specific TF)
+FBgn0015287,RfC40,Replication-factor-C 40kD subunit,BEST:GH24992 CG14999 DRas2 RfC40 Rfc40 l(3)64Ai l(3)SH17 l(3)rfc40 rfc rfc4 rfc<up>40</up>,NO,
+FBgn0015299,Ssb-c31a,Single stranded-binding protein c31A,C31A CG8396 Ssb-c31a p11,YES,(sequence-specific TF)
+FBgn0015331,abs,abstrakt,ABS CG14637 DmRH23 abs anon-WO0118547.315 l(3)00620 l(3)04505 l(3)06862 l(3)06863,NO,
+FBgn0015371,chn,charlatan,CG11798 EPIL#6 EPIL6 anon-EST:Liang-1.13 chn clone 1.13 l(2)02064 l(2)k04218 taco,YES,(sequence-specific TF)
+FBgn0015376,cutlet,cutlet,CG10030 CG33122 ctl cutlet,NO,
+FBgn0015381,dsf,dissatisfaction,CG9019 DSF dsf,YES,(sequence-specific TF)
+FBgn0015391,glu,gluon,BcDNA.LD20207 BcDNA:LD20207 CG11397 DmSMC4/gluon Gluon SMC4 anon-WO0118547.156 glu l(2)k08819,NO,
+FBgn0015396,jumu,jumeau,5295 CG4029 Dmjumu Dom Dwhn E(var)631 Scim31 Whn jumu jumu/Dom l(3)06142 l(3)06439,maybe,"(TF, short range)"
+FBgn0015524,otp,orthopedia,BcDNA:RE58095 CG10036 CG2965 Otp W26 bk24 otp w26,YES,(sequence-specific TF)
+FBgn0015542,sima,similar,CG7951 DMU43090 Hif-1A SIMA Sima l(3)j11B7 sima,YES,(sequence-specific TF)
+FBgn0015550,tap,target of Poxn,CG7659 bps l(3)01658 tap,maybe,"(TF, short range)"
+FBgn0015561,unpg,unplugged,CG1650 Gbx anon-45C unp unpg upg,YES,(sequence-specific TF)
+FBgn0015602,BEAF-32,Boundary element-associated factor of 32kD,BEAF BEAF-32 BEAF-32A BEAF-32B BEAF32 BEAF32A BEAF32B Beaf-32 CG10159 bs04c01.y1,YES,"(TF, long range)"
+FBgn0015615,Cap,Chromosome-associated protein,CG9802 Cap DmSMC3 DmSMC3/Cap SMC3 Smc3 cap,NO,
+FBgn0015624,nej,nejire,CBP CBP/p300 CG15319 Cbp Crbp anon-WO0147981.11 anon-WO03040301.89 cbp dCBP dmCBP nej p300/CBP,YES,"(TF, long range)"
+FBgn0015664,Dref,DNA replication-related element factor,CG5838 DREF DmDREF Dref dDREF p80 p80/DREF,YES,(sequence-specific TF)
+FBgn0015721,king-tubby,king tubby,87D3S CG9398 D-tulp Dtulp ESTS:87D3S TULP Tulp king-tubby,maybe,"(TF, short range)"
+FBgn0015799,Rbf,Retinoblastoma-family protein,CG7413 EG:34F3.3 FBF RBF RBF1 Rb Rb1 RbF Rbf Rbf1 dRBF rb rbf rbf1,maybe,"(TF, long range)"
+FBgn0015805,Rpd3,Rpd3,CG7471 DmHDAC1 E(var)3-64BC HDAC HDAC-1 HDAC1 Hdac1 RPD3 Rpd3 Rpd3/HDAC Su(var)326 Su(var)328 dHDAC-1 dHDAC1 dRPD3 dRpd3 dmHDA401 l(3)04556 l(3)64Cc rpd3 rpd<up>3</up>,NO,
+FBgn0015844,Xpd,Xeroderma pigmentosum D,CG9433 DhR3 DhXPD DmXPD XPD XPD/ERCC2 Xpd,NO,
+FBgn0015903,apt,apontic,3041 CG5393 TDF TDF/APT apt l(2)03041 l(2)06369 l(2)09049 l(2)59Ea l(2)k11531 tdf,YES,(sequence-specific TF)
+FBgn0015904,ara,araucan,CG10571 IRO-C Iro Iro-C ara iro iro-C,YES,(sequence-specific TF)
+FBgn0015908,bangdoo,bangdoo,bangdoo,NO,
+FBgn0015919,caup,caupolican,CG10605 IRO-C Iro Iro-C caup iro iro-C,YES,(sequence-specific TF)
+FBgn0015929,dpa,disc proliferation abnormal,43Ca CG1616 DmMCM4 DmMcm4 Dpa MCM4 Mcm4 dpa l(2)43Ca,NO,
+FBgn0016076,vri,vrille,CG14029 argo jf23 l(2)25Db l(2)jf23 mat(2)ea-G mat(2)earlyRS32 vri,YES,(sequence-specific TF)
+FBgn0016132,Chd1,Chromodomain-helicase-DNA-binding protein,CG3733 CHD-1 CHD1 Chd1 DmCHD1 chd1 dCHD1,NO,
+FBgn0016660,H15,H15,CG6604 Dm-H15 H15 dm-H15 nmr nmr1,maybe,"(TF, short range)"
+FBgn0016685,Nlp,Nucleoplasmin,CG7917 CRP1 Crp1 Nlp dNLP dNLP-S p22,NO,
+FBgn0016694,Pdp1,PAR-domain protein 1,CG17888 PDP1 Pdp1 Pdp1&egr; anon-WO0140519.206 pdp1,YES,(sequence-specific TF)
+FBgn0016754,sba,six-banded,FBgn0016754 sba six-banded six-banded TF125 type II Tf125 AAF56201 six-banded CG13598 Dm Sba F125 TF125,maybe,
+FBgn0016917,Stat92E,Signal-transducer and activator of transcription protein at 92E,CG4257 D-STAT D-Stat D-stat D-stat/stat92E DRODSRC DSRC DSTAT DmSTAT Dstat Dstat 92E Dstat92E SD-stat STAT STAT 92E STAT92E Stat Stat1&agr;-like Stat92E Stat92E/marelle d-STAT dSTAT dSTAT92E/marelle l(3)06346 l(3)j6C8 mrL mrl mrl stat92E stat stat92E,YES,(sequence-specific TF)
+FBgn0016970,l(2)k10201,lethal (2) k10201,B CG13951 CG8803 l(2)k10201,maybe,
+FBgn0016977,spen,split ends,136/24 BcDNA:GM01870 CG18497 E(E2F)2A E(Raf)2A E(Sev-CycE)2A EK2-9 EY2-7 En(yan<up>ACT</up>)2-7 l(2)03350 l(2)k06805 l(2)k07612 l(2)k08102 poc rno spe spen yip1,NO,
+FBgn0017543,SRp30,SRp30,SRp30 dSRp30,NO,
+FBgn0017550,Rga,Regena,CG2138 CG2161 NOT2 Rga l(3)03834,NO,
+FBgn0017562,Oef2,oe1 binding factor 2,OEF2 Oef2,YES,
+FBgn0017563,Oef1,oe1 binding factor 1,OEF1 Oef1,YES,
+FBgn0017578,Max,,CG9648 Max dMax dmax max,YES,(sequence-specific TF)
+FBgn0019650,toy,twin of eyeless,CG11186 l(4)102CDg l(4)8 toy,YES,(sequence-specific TF)
+FBgn0019664,pan,pangolin,CG17964 DTCF DTcf IA5 LEF-1 LEF/TCF LEF/TCF-1 Pan TCF TCF/LEF TCF/LEF1 Tcf Tcf-1 Tcf/LEF cTCF dTCF dTcf l(4)102ABb l(4)13 lef1 pan,YES,(sequence-specific TF)
+FBgn0019809,gcm2,,CG3858 dGCM2 gcm2,YES,(sequence-specific TF)
+FBgn0019828,dj,don juan,CG1980 DJ bs02h03.y1 dj,NO,
+FBgn0019938,RpI1,RNA polymerase I subunit,CG10122 DmRPA1 RPA1 RpI1,NO,
+FBgn0019949,Cdk9,Cyclin-dependent kinase 9,CDK9 CG5179 Cdk9 P-TEF P-TEFb PTefb cdk9,NO,
+FBgn0019950,PTefa,Positive transcription elongation factor a,P-TEF P-TEFa PTefa,NO,
+FBgn0020238,14-3-3&egr;,,14-3-3 14-3-3&egr; 14-3-3-e 14-3-3e 14-3-3epsilon CG31196 CT24092 D14-3-3&egr; D14-3-3e EK3-5 PAR5 Par-5 SR3-9 Su(Raf)3B anon-WO0172774.141 anon-WO02059370.52 d14-3-3&egr; l(3)j2B10 par-5,NO,
+FBgn0020261,pcm,pacman,CG3291 XRN1 pcm,NO,
+FBgn0020270,mre11,meiotic recombination 11,CG16928 MRE11 Mre11 mre11,NO,
+FBgn0020275,maf2,maf2,maf2,NO,
+FBgn0020276,maf1,maf1,maf1,NO,
+FBgn0020306,dom,domino,27/4 CG9696 anon-WO0172774.190 dom l(2)81/8 l(2)k02704 l(2)k08108,YES,"(TF, long range)"
+FBgn0020307,dve,defective proventriculus,CG5799 Dve Dve-s dep dve l(2)01738,YES,(sequence-specific TF)
+FBgn0020309,crol,crooked legs,CG14938 anon-EST:Liang-1.74 anon-EST:Liang-2.48 clone 1.74 clone 2.48 crol crol alpha crol beta crol gamma l(2)04418 l(2)s2346,maybe,"(TF, short range)"
+FBgn0020378,Sp1,,CG1343 D-Sp1 D.Sp1 Sp1,maybe,"(TF, short range)"
+FBgn0020379,Rfx,,CG6312 RFX Rfx dRFX dRfx rfx,YES,(sequence-specific TF)
+FBgn0020426,HLH44A,HLH44A,44A HLH44A,NO,
+FBgn0020493,Dad,Daughters against dpp,1883 CG5201 DAD Dad Dad1 EP(3)3196 EP3196 anon-EST:fe1F5 dad l(3)j1E4,NO,
+FBgn0020617,Rx,Retinal Homeobox,CG10052 DRx Drx E97 PPH17 Rx W60 bk50 drx wom,YES,(sequence-specific TF)
+FBgn0020756,DNApol-&egr;,DNA polymerase &egr;,BAB17608 CG6768 DNApol-&egr; DNApol-epsilon pol-&egr;,NO,
+FBgn0020887,Su(z)12,Su(z)12,CG8013 SU(Z)12 Su(z)12 l(3)76BDo,maybe,"(TF, long range)"
+FBgn0020912,Ptx1,,CG1447 D-Ptx1 Ptx Ptx1 ptx1,YES,(sequence-specific TF)
+FBgn0021738,Crg-1,Circadianly Regulated Gene,CG32788 Crg-1 crg1,maybe,"(TF, short range)"
+FBgn0021767,org-1,optomotor-blind-related-gene-1,CG11202 Dm-ORG-1 Org-1 org-1,maybe,"(TF, short range)"
+FBgn0021872,Xbp1,X box binding protein-1,138/3 CG9415 Xbp1 anon-EST:Liang-1.41 clone 1.41 l(2)k13803 xbp1,maybe,"(TF, short range)"
+FBgn0021875,Zfrp8,Zinc finger protein RP-8,137/5 CG3260 Zfrp8 l(2)k13705 zfrp8,NO,
+FBgn0022238,lolal,lola like,25/12 Ban CG5738 EP0647 EP647 anon-EST:fe3D3 anon-WO0172774.186 l(2)k02512 l(2)kO2512 lolal,NO,"(TF, short range)"
+FBgn0022347,CG11971,CG11971,1E9 Anon1E9 CG11971 anon-EST:fe1E9 anon1E9,maybe,
+FBgn0022665,Dep4,Dep4,DEP4 Dep4,YES,(sequence-specific TF)
+FBgn0022666,Dep3,Dep3,DEP3 Dep3,YES,(sequence-specific TF)
+FBgn0022667,Dep2,Dep2,DEP2 Dep2,YES,(sequence-specific TF)
+FBgn0022699,D19B,D19B,CG10270 D19B,maybe,
+FBgn0022720,zf30C,Zinc finger protein 30C,CG3998 anon-EST:Liang-1.52 clone 1.52 l(2)k02506 zf30C,maybe,"(TF, short range)"
+FBgn0022740,HLH54F,HLH54F,CG5005 HLH102C HLH54F bHLH54F,maybe,"(TF, short range)"
+FBgn0022764,Sin3A,,159A11T 27/3 97/15 CG8815 ES2-3 ESTS:159A11T EY2-9 SIN3 Sin 3A Sin3 Sin3A dSin3 dSin3A l(2)08269 l(2)k02703 l(2)k05415 l(2)k09715 ld sin3 sni3,NO,
+FBgn0022772,Orc1,Origin recognition complex subunit 1,CG10667 DmORC1 ORC ORC1 Orc1 dORC1 rDmORC,NO,
+FBgn0022787,Hel89B,Helicase 89B,89B BTAF1 CG4261 Hel89B,NO,
+FBgn0022935,D19A,D19A,CG10269 D19A,maybe,
+FBgn0022945,CFDD,Common regulatory Factor for DNA replication and DREF genes,CFDD,YES,(sequence-specific TF)
+FBgn0022959,yps,ypsilon schachtel,CG5654 YPS Yps p45 p57 yps,NO,
+FBgn0023076,Clk,Clock,CG7391 CLOCK Clk Jerk Jrk PAS1 clk clock dCLK dCLK/JRK dCLOCK dClck dClk jrk,YES,(sequence-specific TF)
+FBgn0023091,dimm,dimmed,CG8667 Dimm Mistr dimm,maybe,"(TF, short range)"
+FBgn0023094,cyc,cycle,BMAL1 Bmal1 CG8727 CYCLE Cyc Cycle MOP3 Mop3 bMAL1 bmal1 cyc dBMAL dBMAL1 dBma1 dBmal dCYC dbmal dbmal1,YES,(sequence-specific TF)
+FBgn0023097,bon,bonus,0241/08 0249/12 0434/20 0487/06 Bonus CG15687 CG5206 anon-WO0118547.418 bon l(3)S043420,maybe,"(TF, short range)"
+FBgn0023214,edl,ETS-domain lacking,CG15085 EDL Edl Mae anon-WO02077276.2 anon-WO02077276.3 edl edl/mae l(2)k06602 mae,NO,
+FBgn0023215,Mnt,,CG13316 CG2856 DmMnt EG:114E2.2 Mad Mad-3E Mnt dMad dMnt,YES,(sequence-specific TF)
+FBgn0023395,Chd3,Chd3,CG9594 CHD-3 CHD3 Chd3 DmCHD3 chd3,NO,
+FBgn0023417,AP-2,,AP-2 CG7807 DAP-2 dAP-2 dAP-2&agr;,YES,(sequence-specific TF)
+FBgn0023444,ebi,ebi,CG4063 Ebi Tb11 Tbl1 ebi l(2)k16213,NO,
+FBgn0023489,Pph13,PvuII-PstI homology 13,60Mun1 CG2819 Mu PPH13 Pph13,YES,(sequence-specific TF)
+FBgn0023509,mip130,Myb-interacting protein 130,86E4.4 CG3480 EG:86E4.4 Mip130 mip130 twit,NO,
+FBgn0023518,trr,trithorax-related,CG3848 EG:63B12.3 anon-2Bb trr,maybe,"(TF, long range)"
+FBgn0023546,Hr4,Hr4,CG16902 DHR4 EG:133E12.2 GRF Hr4 NR6A2,maybe,"(TF, short range)"
+FBgn0024184,unc-4,unc-4,CG6269 DPHD-1 Dunc-4 unc-4,YES,(sequence-specific TF)
+FBgn0024244,drm,drumstick,CG10016 drm drum,maybe,"(TF, short range)"
+FBgn0024249,cato,cousin of atonal,CG7760 Cato DATH-B cato,maybe,"(TF, short range)"
+FBgn0024250,brk,brinker,Brk CG9653 brk ssg-1,YES,(sequence-specific TF)
+FBgn0024251,bbx,bobby sox,CG1414 CG32527 anon-19Fb bbx tu2,maybe,
+FBgn0024288,Sox100B,Sox100B,CG12098 CG15552 CG18674 SOX100B SOXE Sox100B Sox9 SoxB,maybe,
+FBgn0024308,Smr,Smrter,CG4013 E52 Smr anon-WO0153538.73 l(1)G0361,NO,
+FBgn0024321,NK7.1,NK7.1,CG8524 NK7.1,YES,(sequence-specific TF)
+FBgn0024371,E2f2,E2F transcription factor 2,CG1071 E2F E2F2 E2f2 dE2F-2 dE2F2 dE2f2 de2f2,YES,(sequence-specific TF)
+FBgn0024507,33-13,33-13,33-13,NO,
+FBgn0024887,kin17,kin17,CG5649 kin17,maybe,"(TF, short range)"
+FBgn0024909,Taf7,TBP-associated factor 7,CG2670 E TAF TAF55 TAF7 TAF<down>II</down> TAF<down>II</down>55 TFIID Taf55 Taf7 anon-84Ec dTAF<down>II</down>55,NO,
+FBgn0024968,FebpN,ftz enhancer binding protein N,FebpN,maybe,(sequence-specific TF)
+FBgn0024975,CG2712,CG2712,CG2712 EG:95B7.7 III anon-3Be,maybe,
+FBgn0025140,pit,pitchoune,CG6375 DmRH15 PIT pit,NO,
+FBgn0025185,az2,az2,CG1605 az2 zf43C,maybe,
+FBgn0025334,PHDP,Putative homeodomain protein,CG11182 PHDP anon-60Ac,YES,(sequence-specific TF)
+FBgn0025336,CG4882,CG4882,CG4882 GM14313 LD24471 UD1 anon-60Aa,NO,
+FBgn0025360,Optix,Optix,CG18455 D-Six3 Dsix3 Optix Six3 anon-WO0153538.79 opt optix,YES,(sequence-specific TF)
+FBgn0025455,CycT,Cyclin T,CG6292 CycT Dmcyclin T P-TEFb anon-74EFc dT p124,NO,
+FBgn0025525,bab2,,BAB2 BTB-II BtbII CG13911 CG9102 bab bab-II bab2,YES,(sequence-specific TF)
+FBgn0025635,CG17829,CG17829,CG17829 EG:115C2.6,maybe,
+FBgn0025679,Bteb2,Bteb2,Bteb2 CG2932,maybe,
+FBgn0025680,cry,cryptochrome,CG3772 CRY Cry DCry Dm-CRY1 DmCRY1 anon-WO0140519.17 anon-WO0140519.19 anon-WO0140519.20 anon-WO0172774.15 cry cryb dCRY dCry dcry,NO,
+FBgn0025684,CG15438,CG15438,BEST:CK02623 CG15438 CK02623,NO,
+FBgn0025776,ind,intermediate neuroblasts defective,CG11551 ind,YES,(sequence-specific TF)
+FBgn0025800,Smox,Smad on X,CG2262 DSMAD2 SMAD2 Sad Smad2 Smox dSMAD2 dSmad2 l(1)G0348 sad smad2 smox ted tmp,maybe,"(TF, short range)"
+FBgn0025808,Rad17,Rad17,CG7825 Rad17,NO,
+FBgn0025825,Hdac3,Hdac3,CG2128 DmHDAC3 HDAC HDAC3 Hdac3 dHDAC3 dmHDA402,NO,
+FBgn0025832,Fen1,Flap endonuclease 1,CG8648 DmFEN-1 EG:EG0003.3 FEN1 Fen1,NO,
+FBgn0025874,Meics,Meiotic central spindle,CG8474 Meics,NO,
+FBgn0026058,OdsH,Ods-site homeobox,CG6352 OdsH OdsH<up>mel</up>,YES,(sequence-specific TF)
+FBgn0026080,Tip60,Tip60,CG6121 DmEG0007.7 EG0007.7 EG:EG0007.7 Tip60 dmHAG405,maybe,"(TF, long range)"
+FBgn0026143,CDC45L,CDC45L,CDC45L CG3658 Cdc45 D DmCdc45 EG:BACR7A4.11 anon-1Ec,NO,
+FBgn0026160,tna,tonalli,0583/02 CG7958 anon-WO0118547.590 l(3)L6731 l(3)S058302 l(3)rI075 tna,NO,
+FBgn0026208,mbf1,multiprotein bridging factor 1,BcDNA:GH10148 BcDNA:GM01267 CG4143 MBF1 mbf1,maybe,"(TF, short range)"
+FBgn0026262,bip2,bip2,BIP2 CG2009 TAF3 TAF<down>II</down>155 TAFII155 TFIID bip-II bip2 dBIP2 dTAF<down>II</down>155 i163 i31,NO,
+FBgn0026324,Taf10b,TBP-associated factor 10b,CG3069 TAF TAF10b TAF<down>II</down> TAF<down>II</down>16 TAFII16 TFIID Taf10b Taf16 TafII16 dTAF<down>II</down>16 dmTAF10b dtafII16,NO,
+FBgn0026411,Lim1,,BcDNA:GH04929 CG10760 CG11354 Dlim1 Lim1 dLim1 dlim-1 dlim1,YES,(sequence-specific TF)
+FBgn0026533,Dek,Dek,CG593 CG5935 DEK Dek EG:EG0003.6 anon-WO0172774.191 anon-WO0172774.192 anon-WO0172774.194 dDEK l(2)04154 l(2)k09907,maybe,"(TF, long range)"
+FBgn0026573,CG8290,CG8290,BEST:LD29214 CG8290 LD29214,maybe,
+FBgn0026575,hang,hangover,BcDNA:GM07804 BcDNA:LD22118 CG32575 CG4411 CG4416 LD22118 hang,maybe,
+FBgn0026582,CG9418,CG9418,BEST:LD07122 CG9418 LD07122,maybe,
+FBgn0026751,XRCC1,XRCC1,CG4208 XRCC1 Xrcc1,NO,
+FBgn0026758,Trf2,TATA box binding protein-related factor 2,CG11195 CG18009 TLF TRF2 Trf2 dTRF2 p79/TRF2 trf2,NO,
+FBgn0026876,CG11403,CG11403,CG11403 EG:33C11.2 cg11403,NO,
+FBgn0027339,jim,jim,BcDNA:SD14927 CG11352 OVK jim ovfc.K ovk,maybe,
+FBgn0027364,Six4,Six4,CG3871 D-Six4 Dsix4 Six4 six4 six4/5,YES,(sequence-specific TF)
+FBgn0027378,MRG15,MRG15,CG6363 DmMRG15 Dmrg15 MRG15 dMRG15 l(3)j6A3,NO,
+FBgn0027503,CG11970,CG11970,BcDNA:LD23876 CG11970,NO,
+FBgn0027514,CG1024,CG1024,FBgn0027514 CG1024 BcDNA:LD21969,maybe,
+FBgn0027524,CG3909,CG3909,BcDNA:LD21537 CG3909,NO,
+FBgn0027567,CG8108,CG8108,BcDNA:GH07921 CG8108,maybe,
+FBgn0027599,CG2790,CG2790,BcDNA:GH03108 CG2790,maybe,
+FBgn0027620,Acf1,ATP-dependent chromatin assembly factor large subunit,ACF ACF1 Acf Acf-1 Acf1 CAF CG1966 CHRAC CHRAC-175 acf1 dACF dCHRAC p170/p185,NO,
+FBgn0027783,SMC2,SMC2,CG10212 DmSMC2 SMC2,NO,
+FBgn0027788,Hey,Hairy/E(spl)-related with YRPW motif,CG11194 Hesr-1 Hey d-hey dHey hesr-1,maybe,"(TF, short range)"
+FBgn0027790,GV1,GV1,BcDNA:RH49123 CG12023 DIP1 GV1,NO,
+FBgn0027864,Ogg1,Ogg1,BcDNA:LD19945 CG1795 Ogg1 dOGG1,NO,
+FBgn0027866,CG9776,CG9776,BcDNA:LD19168 CG9776,maybe,
+FBgn0027903,CG12018,CG12018,BcDNA:HL03874 CG12018,NO,
+FBgn0027930,CG1102,CG1102,BEST:GH02921 CG1102 SP25 proPO-AE,NO,
+FBgn0027950,MBD-like,MBD-like,CG8208 Dm Mbd2/3 DmMbd2/3 MBD-like MBD2-3 MBD2/3 dMBD-like dMBD2/3 dMbD2/3,YES,(sequence-specific TF)
+FBgn0027951,MTA1-like,MTA1-like,CG2244 MTA1-like dMTA dMTA1-like p120,YES,"(TF, long range)"
+FBgn0028386,cic,capicua,CG5067 E(Dl)D49 cic fet,maybe,"(TF, short range)"
+FBgn0028387,chm,chameau,CG5229 HAT HAT1 chm dmHAG404,maybe,
+FBgn0028398,Taf10,TBP-associated factor 10,BcDNA:RE73934 CG2859 TAF TAF10 TAF<down>II</down> TAF<down>II</down>24 TFIID Taf10 Taf24 TafII24 dTAF<down>II</down>24 dTAFII24 dmTAF10 dmTaf10 dtafII24 taf24,NO,
+FBgn0028420,Kr-h1,Kruppel homolog 1,44/11 CG18783 CG9167 Kr h Kr-h Kr-h1 P381 Pow l(2)05208 l(2)10642,YES,(sequence-specific TF)
+FBgn0028434,Ercc1,Ercc1,CG10215 ERCC1 Ercc1,NO,
+FBgn0028531,CG15286,CG15286,BG:DS01068.11 CG15286,maybe,
+FBgn0028550,A3-3,A3-3,A3-3 CG11405 EG:33C11.1,maybe,"(TF, short range)"
+FBgn0028642,esn,espinas,CG12833 esn,NO,
+FBgn0028647,CG11902,CG11902,CG11902 anon-96CDa,maybe,
+FBgn0028741,CG6355,CG6355,CG6355 EG:52C10.5,NO,
+FBgn0028789,Doc1,Dorsocross1,CG5133 Dm-DOC1 Doc Doc1 Ect2 Tb66F2,maybe,"(TF, short range)"
+FBgn0028878,CG15269,CG15269,BG:DS04929.3 CG15269 DS04929.3,maybe,
+FBgn0028887,CG3491,CG3491,BG:DS03323.1 CG3491,maybe,
+FBgn0028895,CG17328,CG17328,BG:DS02740.8 CG17328 DS02740.8,maybe,
+FBgn0028926,NC2&bgr;,NC2&bgr;,BG:DS00929.3 CG4185 Dr1 NC2&bgr; NC2beta dDr1 dNC2,maybe,"(TF, short range)"
+FBgn0028931,CG16863,CG16863,BG:DS00797.6 CG16863 DS00797.6,maybe,"(TF, short range)"
+FBgn0028979,tiptop,tiptop,CG12630 tiptop,maybe,
+FBgn0028991,seq,sequoia,49Fc CG17724b CG32904 CG4037 CG4055 l(2)49Fc l(2)vr5 seq vr5,maybe,"(TF, short range)"
+FBgn0028993,scro,scarecrow,CG17594 CG17595 CG18452 scro scrou,YES,(sequence-specific TF)
+FBgn0028996,onecut,onecut,A1 CG1922 onecut,YES,(sequence-specific TF)
+FBgn0028999,nerfin-1,nervous fingers 1,CG13906 nerfin-1,maybe,"(TF, short range)"
+FBgn0029123,SoxN,SoxNeuro,CG18024 SOX29F SOXB1 Sox B1 SoxN soxN,YES,(sequence-specific TF)
+FBgn0029161,slmo,slowmo,CG9131 kisir slmo,NO,
+FBgn0029173,fu2,fu2,CG9233 FU12 fu2,maybe,
+FBgn0029504,CHES-1-like,Checkpoint suppressor homologue,CG12690 CHES-1-like Dmches-1 anon-EST:Posey7,maybe,
+FBgn0029711,Usf,Usf,CG17592 Dm Usf DmUsf Usf,maybe,"(TF, short range)"
+FBgn0029773,CG15782,CG15782,CG15782,YES,(sequence-specific TF)
+FBgn0029775,CG4136,CG4136,CG4136,YES,(sequence-specific TF)
+FBgn0029798,CG4078,CG4078,CG4078,NO,
+FBgn0029822,CG12236,CG12236,CG12236,maybe,
+FBgn0029824,CG3726,CG3726,CG3726,maybe,"(TF, short range)"
+FBgn0029861,CG3815,CG3815,CG3815,maybe,
+FBgn0029867,CG3847,CG3847,CG3847,maybe,
+FBgn0029895,CG14441,CG14441,CG14441,maybe,
+FBgn0029899,CG14438,CG14438,CG14438,maybe,
+FBgn0029905,CG3075,CG3075,CG3075,maybe,
+FBgn0029912,CG4557,CG4557,CG4557,NO,
+FBgn0029920,CG4575,CG4575,CG4575,maybe,"(TF, short range)"
+FBgn0029928,CG3032,CG3032,CG3032,maybe,
+FBgn0029939,CG9650,CG9650,CG9650,maybe,
+FBgn0029941,CG1677,CG1677,CG1677,NO,
+FBgn0030003,CG2116,CG2116,CG2116,maybe,
+FBgn0030005,CG2120,CG2120,CG2120,maybe,
+FBgn0030008,CG2129,CG2129,CG2129,maybe,
+FBgn0030009,CG15336,CG15336,CG15336,maybe,
+FBgn0030010,CG10959,CG10959,CG10959,maybe,
+FBgn0030012,CG18262,CG18262,CG18262,maybe,
+FBgn0030058,CG11294,CG11294,CG11294,YES,(sequence-specific TF)
+FBgn0030065,CG12075,CG12075,CG12075,maybe,
+FBgn0030081,CG7246,CG7246,CG7246,NO,
+FBgn0030082,HP1b,HP1b,CG7041 HP1 HP1b Hp1b,maybe,"(TF, long range)"
+FBgn0030093,dalao,dalao,BAF57 BAP111 Bap111 CG7055 anon-EST:Liang-1.83 clone 1.83 dalao,NO,
+FBgn0030112,CG12124,CG12124,CG12124,maybe,
+FBgn0030170,CG2990,CG2990,CG2990,NO,
+FBgn0030206,CG2889,CG2889,CG2889,maybe,
+FBgn0030219,CG9817,CG9817,CG9817,maybe,
+FBgn0030240,CG2202,CG2202,CG2202,maybe,
+FBgn0030266,CG11122,CG11122,CG11122,maybe,
+FBgn0030314,CG11696,CG11696,CG11696 b,maybe,
+FBgn0030316,CG11695,CG11695,CG11695 c,maybe,
+FBgn0030408,CG11085,CG11085,CG11085,YES,(sequence-specific TF)
+FBgn0030432,CG4404,CG4404,CG4404,maybe,"(TF, short range)"
+FBgn0030455,CG4318,CG4318,CG4318,maybe,
+FBgn0030477,dmrt11E,doublesex-Mab related 11E,CG15749 dmrt11E,YES,(sequence-specific TF)
+FBgn0030486,CG1716,CG1716,CG1716,NO,
+FBgn0030505,NFAT,,CG11172 EP1335 MESR1 NF-AT5 NFAT NFAT5 dNFAT,YES,(sequence-specific TF)
+FBgn0030506,Lig4,Ligase4,CG12176 Lig4 RE37186 lig4,NO,
+FBgn0030532,CG11071,CG11071,CG11071,maybe,
+FBgn0030627,gce,germ cell-expressed bHLH-PAS,CG6211 gce,maybe,"(TF, short range)"
+FBgn0030659,CG9215,CG9215,CG9215,maybe,
+FBgn0030663,CG8117,CG8117,CG8117,NO,
+FBgn0030664,CG8119,CG8119,CG8119,maybe,"(TF, short range)"
+FBgn0030680,CG8944,CG8944,CG8944,maybe,
+FBgn0030699,CG8578,CG8578,CG8578,NO,
+FBgn0030706,CG8909,CG8909,CG8909 CT25574,NO,
+FBgn0030710,CG8924,CG8924,CG8924,maybe,"(TF, short range)"
+FBgn0030787,CG9609,CG9609,CG9609,maybe,
+FBgn0030800,CG9104,CG9104,CG9104,NO,
+FBgn0030878,CG6769,CG6769,CG6769,maybe,
+FBgn0030899,Her,HES-related,CG5927 Her,maybe,"(TF, short range)"
+FBgn0030914,CG6106,CG6106,CG6106,NO,
+FBgn0030933,CG6470,CG6470,CG6470 anon-WO0140519.137,maybe,
+FBgn0030963,CG7101,CG7101,CG7101,maybe,
+FBgn0030965,CG7274,CG7274,CG7274,maybe,
+FBgn0030990,CG7556,CG7556,CG7556,NO,
+FBgn0031023,CG14200,CG14200,CG14200,maybe,
+FBgn0031071,CG12701,CG12701,CG12701,maybe,
+FBgn0031086,CG9571,CG9571,CG9571 Dmcg9571,maybe,"(TF, short range)"
+FBgn0031121,CG15455,CG15455,CG15455,maybe,
+FBgn0031124,CG1379,CG1379,CG1379,maybe,
+FBgn0031144,CG1529,CG1529,CG1529,maybe,
+FBgn0031232,CG11617,CG11617,CG11617,YES,(sequence-specific TF)
+FBgn0031264,CG11835,CG11835,CG11835,NO,
+FBgn0031275,GABA-B-R3,metabotropic GABA-B receptor subtype 3,CG3022 D-GABA<down>B</down>R3 D-Gaba3 GABA-B-R3 GB3 anon-WO0170980.13 anon-WO0170980.14,NO,
+FBgn0031309,Tfb4,Tfb4,CG5041 TFB4 Tfb4,NO,
+FBgn0031375,CG31670,CG31670,CG31670 CG7312,maybe,
+FBgn0031391,CG11723,CG11723,CG11723,maybe,"(TF, short range)"
+FBgn0031444,CG9879,CG9879,CG9879,NO,
+FBgn0031446,CG15398,CG15398,CG15398,NO,
+FBgn0031456,Trn-SR,Transportin-Serine/Arginine rich,CG2848 Trn-SR anon-EST:Posey294 dTRN-SR,NO,
+FBgn0031510,CG18555,CG18555,CG18555,maybe,
+FBgn0031511,CG3485,CG3485,CG3485,maybe,
+FBgn0031556,CG2808,CG2808,CG2808,YES,(sequence-specific TF)
+FBgn0031573,CG3407,CG3407,CG3407,maybe,
+FBgn0031597,CG17612,CG17612,CG17612,maybe,
+FBgn0031607,CG15440,CG15440,CG15440 cg15440,NO,
+FBgn0031608,CG15435,CG15435,CG15435,maybe,
+FBgn0031610,CG15436,CG15436,CG15436,maybe,
+FBgn0031613,CG15636,CG15636,CG15636,NO,
+FBgn0031706,FBgn0031706,,FBgn0031706 nmr2 neuromancer2 neuromancer2 CG6634 H15r H15-related H15r: H15-related neuromancer2,maybe,
+FBgn0031759,lid,little imaginal discs,CG9088 l(2)10424 lid,maybe,"(TF, long range)"
+FBgn0031779,CG9175,CG9175,CG9175,NO,
+FBgn0031868,CG10354,CG10354,CG10354 RAT1 dhp1,NO,
+FBgn0031874,CG13775,CG13775,FBgn0031874 CG13775,maybe,
+FBgn0031894,CG4496,CG4496,CG4496,maybe,
+FBgn0031939,CG13796,CG13796,CG13796 CG18590,NO,
+FBgn0031947,CG7154,CG7154,CG7154,NO,
+FBgn0031967,snoN,snoN,CG7233 snoN,maybe,
+FBgn0031977,CG7380,CG7380,CG7380 anon-WO0172774.178,NO,
+FBgn0031991,CG8506,CG8506,CG8506,maybe,
+FBgn0032016,CG7818,CG7818,CG7818,NO,
+FBgn0032130,CG3838,CG3838,CG3838 NEST:bs09e08 anon-WO0118547.445 bs09e08.y1,maybe,"(TF, short range)"
+FBgn0032150,CG13123,CG13123,CG13123,maybe,
+FBgn0032157,CG5899,CG5899,CG5899,NO,
+FBgn0032202,CG18619,CG18619,BcDNA:RH73910 CG18619,maybe,
+FBgn0032209,Hand,Hand,CG18144 Dhand Hand dHAND dHand hand,maybe,"(TF, short range)"
+FBgn0032210,CYLD,CYLD,CG5603 CYLD,NO,
+FBgn0032223,GATAd,GATAd,CG5034 GATAd dGATA-D dGATAd,maybe,"(TF, short range)"
+FBgn0032227,CG5369,CG5369,CG5369,YES,(sequence-specific TF)
+FBgn0032248,CG5343,CG5343,CG5343,NO,
+FBgn0032291,CG17118,CG17118,CG17118,NO,
+FBgn0032295,CG12299,CG12299,CG12299,maybe,
+FBgn0032321,YL-1,YL-1,FBgn0032321 CG4621,maybe,
+FBgn0032388,CG6686,CG6686,CG6686,maybe,
+FBgn0032401,CG6792,CG6792,CG6792,maybe,
+FBgn0032404,CG5317,CG5317,CG5317,NO,
+FBgn0032469,CG9932,CG9932,CG9932,maybe,
+FBgn0032473,CG5204,CG5204,CG5204 anon-WO0118547.212,maybe,
+FBgn0032475,CG16975,CG16975,CG16975,NO,
+FBgn0032512,CG9305,CG9305,CG9305,maybe,
+FBgn0032517,CG7099,CG7099,CG7099,maybe,
+FBgn0032525,CG16954,CG16954,CG16954,NO,
+FBgn0032600,CG17912,CG17912,BcDNA:LD27810 CG17912,maybe,
+FBgn0032634,Rpb11,Rpb11,BcDNA:GM15177 CG6840 RPB11 Rpb11,NO,
+FBgn0032651,Oli,Olig family,CG5545 Doli Oli,maybe,"(TF, short range)"
+FBgn0032685,CG10211,CG10211,CG10211,NO,
+FBgn0032707,CG10348,CG10348,CG10348,maybe,
+FBgn0032730,CG10431,CG10431,CG10431 dmCG10431,maybe,
+FBgn0032741,Side,similar to Deadpan,CG10446 Side,maybe,"(TF, short range)"
+FBgn0032763,CG17568,CG17568,CG17568,maybe,
+FBgn0032813,CG10262,CG10262,CG10262,NO,
+FBgn0032814,CG10366,CG10366,CG10366,maybe,
+FBgn0032815,CG10462,CG10462,BcDNA:SD07008 CG10462,maybe,
+FBgn0032816,CG10447,CG10447,BcDNA:RH50436 CG10447,NO,
+FBgn0032817,CG10631,CG10631,CG10631,maybe,
+FBgn0032858,CG10949,CG10949,38C.46 CG10949 FBgn0032858,maybe,
+FBgn0032904,CG9342,CG9342,CG9342,maybe,
+FBgn0032940,Mio,Mlx interactor,CG18362 Mio anon-39Da dmondo,YES,(sequence-specific TF)
+FBgn0032978,CG15216,CG15216,CG15216,maybe,
+FBgn0032979,CG1832,CG1832,CG1832,maybe,
+FBgn0033010,CG3136,CG3136,CG3136,maybe,
+FBgn0033015,d4,d4,CG2682 d4 dd4,maybe,
+FBgn0033029,l(2)NC136,lethal (2) NC136,CG8426 NOT3/5 l(2)NC136,NO,
+FBgn0033155,CG1845,CG1845,CG1845,maybe,
+FBgn0033182,CG1621,CG1621,CG1621,maybe,"(TF, short range)"
+FBgn0033183,CG1620,CG1620,CG1620,maybe,
+FBgn0033185,CG1603,CG1603,CG1603,maybe,
+FBgn0033186,CG1602,CG1602,CG1602,maybe,
+FBgn0033252,CG12769,CG12769,CG12769,maybe,
+FBgn0033288,CG11641,CG11641,BcDNA:AT16994 CG11641,YES,(sequence-specific TF)
+FBgn0033310,rgr,regular,CG14751 CG8643 rgr,maybe,"(TF, short range)"
+FBgn0033358,CG8216,CG8216,CG8216,maybe,
+FBgn0033417,Camta,Calmodulin-binding transcription activator,CG8809 Camta DmCAMTA camta,YES,(sequence-specific TF)
+FBgn0033424,CG1884,CG1884,CG1884 NOT1 anon-EST:Liang-1.29 anon-WO0118547.221 clone 1.29,NO,
+FBgn0033449,CG1663,CG1663,CG1663,maybe,
+FBgn0033458,CG18446,CG18446,CG18446,maybe,
+FBgn0033459,CG12744,CG12744,CG12744,maybe,
+FBgn0033491,CG18011,CG18011,CG17847 CG18011,maybe,
+FBgn0033528,translin,translin,CG11761 translin,NO,
+FBgn0033569,CG12942,CG12942,CG12942,maybe,
+FBgn0033581,CG12391,CG12391,CG12391 anon-WO0140519.201,maybe,
+FBgn0033627,CG13204,CG13204,CG13204,maybe,"(TF, short range)"
+FBgn0033661,CG13185,CG13185,CG13185 CG18329,NO,
+FBgn0033744,CG12370,CG12370,CG12370 anon-WO0170980.103 anon-WO0170980.104,maybe,
+FBgn0033748,vis,vismay,CG8821 vis zaa,YES,(sequence-specific TF)
+FBgn0033749,achi,achintya,CG8819 achi zaa,YES,(sequence-specific TF)
+FBgn0033782,sug,sugarbabe,CG3850 sug,maybe,"(TF, short range)"
+FBgn0033846,mip120,Myb-interacting protein 120,CG6061 Mip120 l(3)L4569 mip120 p120,YES,(sequence-specific TF)
+FBgn0033859,CG6197,CG6197,CG6197,NO,
+FBgn0033889,CG6701,CG6701,CG6701 EP(2)2054 EP2054,maybe,
+FBgn0033934,CG17385,CG17385,CG17385,maybe,
+FBgn0033939,CG17390,CG17390,CG17390,maybe,
+FBgn0033971,CG10209,CG10209,FBgn0033971 CG10209,maybe,
+FBgn0033993,CG8089,CG8089,CG8089,maybe,
+FBgn0033998,CG8092,CG8092,CG8092 anon-WO0118547.194,maybe,
+FBgn0034012,CG16801,CG16801,CG16801 NR2E3 PNR,maybe,"(TF, short range)"
+FBgn0034062,CG8388,CG8388,CG8388,maybe,
+FBgn0034065,Rrp42,Rrp42,CG8395 Rrp42 anon-EST:Posey140 anon-EST:Posey187 dRrp42,NO,
+FBgn0034096,CG7786,CG7786,CG7786,maybe,
+FBgn0034114,CG4282,CG4282,CG4282,maybe,
+FBgn0034120,CG15710,CG15710,CG15710,maybe,
+FBgn0034217,Lhr,CG18468,FBgn0034217 CG18468,maybe,
+FBgn0034240,MESR4,Misexpression suppressor of ras 4,CG4903 EP0386 MESR4,maybe,
+FBgn0034379,CG15073,CG15073,CG15073,maybe,
+FBgn0034425,CG11906,CG11906,11906 CG11906,maybe,
+FBgn0034431,CG7417,CG7417,7417 CG7417 ORF1,NO,
+FBgn0034520,CG13424,CG13424,CG13424,YES,(sequence-specific TF)
+FBgn0034534,maf-S,,CG9954 anon-EST:Posey173 maf-S,YES,(sequence-specific TF)
+FBgn0034570,CG10543,CG10543,CG10543,maybe,
+FBgn0034599,CG9437,CG9437,CG9437,maybe,"(TF, short range)"
+FBgn0034643,CG10321,CG10321,CG10321,maybe,
+FBgn0034650,NC2&agr;,NC2&agr;,CG10318 Drap1 NC2&agr; NC2alpha dDrap dDrap1 dDrap1/dNC2a dNC2,maybe,"(TF, short range)"
+FBgn0034667,comr,cookie monster,CG13493 Z2-1340 comr,maybe,"(TF, short range)"
+FBgn0034795,MED23,Mediator complex subunit 23,CG3695 Gal11/SUR2 MED23 Trap150&bgr; dSUR2 dTRAP150&bgr;,NO,
+FBgn0034810,CG9895,CG9895,CG9895,maybe,
+FBgn0034814,CG9890,CG9890,CG9890 anon-EST:Posey169 ld46465,maybe,
+FBgn0034821,CG9876,CG9876,CG9876,YES,(sequence-specific TF)
+FBgn0034878,pita,,CG3941 pita,maybe,
+FBgn0034926,CG5591,CG5591,CG5591,maybe,
+FBgn0034946,CG3065,CG3065,CG3065,maybe,
+FBgn0034975,enok,enoki mushroom,CG11290 S1 anon-60Ba anon-WO0200864.1 anon-WO0200864.2 dmHAG406 enok rot,NO,
+FBgn0034976,CG4049,CG4049,BEST:LD04705 CG4049,NO,
+FBgn0035024,CG11414,CG11414,CG11414,maybe,
+FBgn0035036,CG4707,CG4707,CG4707,maybe,
+FBgn0035106,rno,rhinoceros,CG7036 rno,NO,
+FBgn0035136,CG6905,CG6905,CG6905,NO,
+FBgn0035137,CG1233,CG1233,CG1233,maybe,
+FBgn0035144,CG17181,CG17181,CG17181,maybe,
+FBgn0035153,CG3371,CG3371,CG3371 EP3592,NO,
+FBgn0035158,CG13895,CG13895,CG13895,NO,
+FBgn0035160,CG13897,CG13897,CG13897 anon-WO0118547.557,maybe,"(TF, short range)"
+FBgn0035202,CG9139,CG9139,CG9139,maybe,
+FBgn0035213,CG2199,CG2199,CG2199,maybe,
+FBgn0035292,CG12361,CG12361,CG12361,YES,(sequence-specific TF)
+FBgn0035357,CG1244,CG1244,CG1244 anon-EST:Liang-1.37 anon-WO0118547.584 clone 1.37,maybe,
+FBgn0035405,pfk,piefke,CG15812 pfk,maybe,"(TF, short range)"
+FBgn0035407,CG14962,CG14962,CG14962,maybe,
+FBgn0035454,CG12029,CG12029,CG12029,maybe,
+FBgn0035481,CG12605,CG12605,CG12605 anon-WO0140519.93,maybe,
+FBgn0035518,CG15011,CG15011,CG15011,maybe,
+FBgn0035625,Blimp-1,CG5249,FBgn0035625 Blimp-1 CG5249,maybe,
+FBgn0035626,lin-28,lin-28,BcDNA:RE05342 CG17334 EP(3)0915 lin-28,NO,
+FBgn0035630,CG10576,CG10576,BEST:CK00496 CG10576,NO,
+FBgn0035643,CG13287,CG13287,CG13287,maybe,
+FBgn0035687,CG13296,CG13296,CG13296,maybe,
+FBgn0035690,CG10274,CG10274,CG10274,maybe,
+FBgn0035691,CG7386,CG7386,CG7386,maybe,
+FBgn0035702,CG10147,CG10147,CG10147,maybe,
+FBgn0035769,CTCF,CTCF,CG8591 CTCF dCTCF,YES,"(TF, long range)"
+FBgn0035849,ERR,estrogen-related receptor,CG7404 ERR dERR,YES,(sequence-specific TF)
+FBgn0035889,mkg-p,monkey king protein,CG7163 mkg mkg-p,NO,
+FBgn0035895,CG7015,CG7015,CG7015,maybe,
+FBgn0035903,CG6765,CG6765,CG6765,maybe,
+FBgn0035954,Doc3,Dorsocross3,CG5093 Dm-DOC3 Doc3,maybe,"(TF, short range)"
+FBgn0035956,Doc2,Dorsocross2,CG5187 Dm-DOC2 Doc2,maybe,"(TF, short range)"
+FBgn0035976,PGRP-LC,Peptidoglycan recognition protein LC,CG4432 PGRP-LC PGRP-LCx ird7 tot,NO,
+FBgn0035993,CG3891,CG3891,CG3891,maybe,"(TF, short range)"
+FBgn0035997,phol,pleiohomeotic like,CG3445 phol,YES,"(TF, long range)"
+FBgn0036004,CG3654,CG3654,CG3654,maybe,
+FBgn0036124,CG7839,CG7839,CG7839 anon-EST:fe2H6,maybe,
+FBgn0036126,CG6272,CG6272,BcDNA:GH10915 CG6272,maybe,
+FBgn0036134,Mnf,Mnf,CG11799 DmLD16137 DmMNF MNF Mnf,maybe,"(TF, short range)"
+FBgn0036179,CG7368,CG7368,CG7368,maybe,
+FBgn0036239,CG5684,CG5684,CAF1 CG5684,NO,
+FBgn0036274,CG4328,CG4328,CG4328,YES,(sequence-specific TF)
+FBgn0036285,toe,twin of eyg,CG10704 anon-WO0172774.89 toe,YES,(sequence-specific TF)
+FBgn0036294,CG10654,CG10654,CG10654,maybe,
+FBgn0036331,CG14117,CG14117,BcDNA:RE44251 CG14117,maybe,
+FBgn0036395,CG17361,CG17361,CG17361,maybe,
+FBgn0036396,CG17359,CG17359,CG17359,maybe,
+FBgn0036411,Sox21a,Sox21a,CG7345 SOXB2.3 Sox B2-3 Sox21a SoxB2.3,maybe,
+FBgn0036423,CG3919,CG3919,CG3919,maybe,
+FBgn0036436,CG4914,CG4914,CG4914 SP39,NO,
+FBgn0036451,CG9425,CG9425,CG9425,NO,
+FBgn0036478,CG6854,CG6854,CG6854 anon-WO0172774.90 anon-WO0172774.92,maybe,"(TF, short range)"
+FBgn0036513,Tfb2,Tfb2,CG7764 TFB2 Tfb2 anon-WO0118547.648,NO,
+FBgn0036522,CG7372,CG7372,CG7372,maybe,
+FBgn0036538,CG15715,CG15715,BcDNA:RE26825 CG15715,maybe,
+FBgn0036661,CG9705,CG9705,CG9705,maybe,
+FBgn0036672,Lmpt,Limpet,BcDNA:RE37250 CG11914 CG11916 CG32171 CG9959 Lmpt,maybe,"(TF, short range)"
+FBgn0036725,CG18265,CG18265,CG18265,maybe,
+FBgn0036791,CG7271,CG7271,CG7271,maybe,
+FBgn0036900,CG8765,CG8765,CG8765,maybe,
+FBgn0037031,CG11456,CG11456,CG11456,maybe,
+FBgn0037051,CG10565,CG10565,CG10565,maybe,
+FBgn0037066,Z4,Z4,CG7752 Z4 p160,maybe,
+FBgn0037085,Neu2,Neu2,CG7204 Neu2,maybe,
+FBgn0037120,CG11247,CG11247,CG11247,maybe,
+FBgn0037183,CG14451,CG14451,CG14451,maybe,
+FBgn0037202,Ssl1,Ssl1,CG11115 SSL1 Ssl1,NO,
+FBgn0037262,MED31,Mediator complex subunit 31,BcDNA:GM28912 CG1057 MED31 Trap18 dSOH1 dTRAP18 p36,NO,
+FBgn0037275,CG14655,CG14655,CG14655,maybe,
+FBgn0037301,Mms19,Mms19,CG12005 Mms19 NEST:bs07f08 dMMS19,NO,
+FBgn0037317,CG14667,CG14667,CG14667,maybe,
+FBgn0037359,MED27,Mediator complex subunit 27,CG1245 CRSP34 MED27 Trap37 dCRSP34 dTRAP37,NO,
+FBgn0037379,CG10979,CG10979,CG10979,maybe,
+FBgn0037436,CG10296,CG10296,CG10296 FAX-1 NR2E5,maybe,"(TF, short range)"
+FBgn0037445,CG9727,CG9727,CG9727,maybe,
+FBgn0037446,CG10267,CG10267,CG10267 anon-WO0118547.391,maybe,
+FBgn0037466,CG1965,CG1965,CG1965,NO,
+FBgn0037471,Alh,Alhambra,AF10 Alh CG1070 Dalf anon-WO0118547.226 l(3)j13A6 l(3)j8C8,maybe,"(TF, long range)"
+FBgn0037475,Fer1,48 related 1,BcDNA:RH30329 CG10066 CG14611 CG33323 Fer1,maybe,"(TF, short range)"
+FBgn0037493,CG10032,CG10032,CG10032,NO,
+FBgn0037531,CG10445,CG10445,CG10445,NO,
+FBgn0037540,CG2702,CG2702,BEST:LD28511 CG2702 anon-WO0118547.359,maybe,
+FBgn0037555,Ada2b,Ada2b,Ada2S Ada2b BcDNA:LD24527 CG9638 ada2b dAda2S dAda2b,maybe,
+FBgn0037584,CG7963,CG7963,CG7963,maybe,
+FBgn0037617,CG8145,CG8145,CG8145,maybe,
+FBgn0037618,CG11762,CG11762,CG11762 i36,maybe,
+FBgn0037619,CG8159,CG8159,CG8159,maybe,
+FBgn0037620,CG9793,CG9793,CG9793,maybe,
+FBgn0037621,CG9797,CG9797,CG9797,maybe,
+FBgn0037634,CG8359,CG8359,CG8359,maybe,"(TF, short range)"
+FBgn0037645,CG11966,CG11966,CG11966,maybe,
+FBgn0037655,CG11984,CG11984,CG11984,maybe,
+FBgn0037659,CG11033,CG11033,CG11033,maybe,
+FBgn0037672,sage,salivary gland-expressed bHLH,CG12952 Sage sage,maybe,"(TF, short range)"
+FBgn0037675,CG8120,CG8120,CG8120,NO,
+FBgn0037698,CG16779,CG16779,CG16779,maybe,
+FBgn0037711,CG8228,CG8228,CG8228,maybe,
+FBgn0037717,CG8301,CG8301,CG8301,maybe,
+FBgn0037722,CG8319,CG8319,CG8319,maybe,
+FBgn0037735,CG16899,CG16899,CG16899 Dmcg16899,maybe,"(TF, short range)"
+FBgn0037746,CG8478,CG8478,CG8478,maybe,
+FBgn0037751,topi,matotopetli,CG8484 topi,maybe,"(TF, short range)"
+FBgn0037771,CG11676,CG11676,CG11676,maybe,
+FBgn0037794,CG6254,CG6254,CG6254,maybe,
+FBgn0037800,CG3996,CG3996,CG3996,NO,
+FBgn0037802,Sirt6,Sirt6,CG6284 D.mel4 Sirt6 dSIRT6 dmSRT408,NO,
+FBgn0037813,CG17100,CG17100,AAF24476.1 CG17100 GM05287,maybe,"(TF, short range)"
+FBgn0037844,CG4570,CG4570,CG4570,NO,
+FBgn0037876,CG4820,CG4820,CG4820,maybe,
+FBgn0037877,CG6689,CG6689,CG6689 dmCG6689,maybe,
+FBgn0037918,CG6791,CG6791,CG6791,maybe,
+FBgn0037920,CG14710,CG14710,CG14710,maybe,
+FBgn0037921,CG6808,CG6808,CG31372 CG6808,maybe,
+FBgn0037922,CG14711,CG14711,CG14711,maybe,
+FBgn0037923,CG6813,CG6813,CG31372 CG6813,maybe,
+FBgn0037931,CG18476,CG18476,CG17822 CG18476,maybe,
+FBgn0037937,Fer3,48 related 3,BcDNA:LD04689 CG6913 Dnato3 Fer3 nato3,maybe,(sequence-specific TF)
+FBgn0037947,CG6930,CG6930,CG6930,maybe,
+FBgn0037967,CG3281,CG3281,CG3281 anon-WO0140519.243,maybe,
+FBgn0037981,Spt3,Spt3,CG3169 SPT3 Spt3 TFIID dSpt3,NO,
+FBgn0038016,MBD-R2,MBD-R2,CG10042 CG17393 Dm Tam3 MBD-R2 TAM3 dMBD-R2,maybe,
+FBgn0038046,CG5641,CG5641,CG5641,NO,
+FBgn0038047,CG5245,CG5245,CG5245 anon-WO0118547.611,maybe,
+FBgn0038108,CG7518,CG7518,CG7518,maybe,
+FBgn0038128,Ravus,Ravus,CG15889 Ravus,maybe,"(TF, short range)"
+FBgn0038144,CG8870,CG8870,CG8870 SP38,NO,
+FBgn0038197,foxo,"forkhead box, sub-group O",Afx CG3143 Dfoxo DmQ95V5 FKHR FOXO Foxo Q95V55 anon-WO0118547.374 cg3143 dFOXO foxo,YES,(sequence-specific TF)
+FBgn0038244,CG7987,CG7987,CG7987 anon-WO0118547.245,maybe,
+FBgn0038252,CG3509,CG3509,CG3509,NO,
+FBgn0038301,CG6654,CG6654,CG6654,maybe,
+FBgn0038316,CG6276,,FBgn0038316 CG6276,maybe,
+FBgn0038390,Rbf2,Retinoblastoma-family protein 2,CG5083 RBF2 Rbf2 rbf2,YES,(sequence-specific TF)
+FBgn0038391,GATAe,GATAe,CG10278 GATAe dGATA-E dGATAe,maybe,"(TF, short range)"
+FBgn0038402,Fer2,48 related 2,CG5952 Fer2,maybe,"(TF, short range)"
+FBgn0038418,CG10309,CG10309,CG10309,maybe,
+FBgn0038472,CG3995,CG3995,FBgn0038472 CG3995,maybe,
+FBgn0038547,CG17803,CG17803,CG17803,maybe,
+FBgn0038548,CG17806,CG17806,CG17806,maybe,
+FBgn0038549,CG17802,CG17802,CG17802,maybe,
+FBgn0038550,CG17801,CG17801,CG17801,maybe,
+FBgn0038551,CG7357,CG7357,CG7357,maybe,
+FBgn0038552,CG18012,CG18012,CG18012,NO,
+FBgn0038578,MED17,Mediator complex subunit 17,CG7957 MED17 TRAP80 Trap80 dTRAP80 dTRAP80/SRB4 dTrap80 l(3)s2956 p70,NO,
+FBgn0038592,CG18599,CG18599,FBgn0038592 CG18599,maybe,
+FBgn0038626,CG7691,CG7691,CG7691,maybe,
+FBgn0038661,CG17836,CG17836,CG17836 anon-EST:Liang-2.44 clone 2.44,maybe,
+FBgn0038678,mRpL55,mitochondrial ribosomal protein L55,BcDNA:RH10246 CG14283 MRP-L55 mRpL55 tmb,NO,
+FBgn0038741,CG17186,CG17186,CG17186,maybe,
+FBgn0038765,CG4424,CG4424,CG4424,maybe,
+FBgn0038766,CG4854,CG4854,CG4854,maybe,
+FBgn0038767,CG4413,CG4413,CG4413,maybe,
+FBgn0038768,CG4936,CG4936,CG4936,maybe,
+FBgn0038787,CG4360,CG4360,CG4360,maybe,
+FBgn0038805,TFAM,mitochondrial transcription factor A,CG4217 D-mtTFA TFAM Tfam d-TFAM d-mttfa d-tfam mttfa,YES,(sequence-specific TF)
+FBgn0038833,CG15696,CG15696,CG15696,YES,(sequence-specific TF)
+FBgn0038851,dmrt93B,doublesex-Mab related 93B,CG5737 dmrt93B,maybe,"(TF, short range)"
+FBgn0038852,CG7056,CG7056,CG7056,YES,(sequence-specific TF)
+FBgn0038903,RpI12,RpI12,CG13418 RpI12,NO,
+FBgn0038951,CG5380,CG5380,CG5380,NO,
+FBgn0038978,CG7045,CG7045,CG7045,maybe,
+FBgn0038979,CG7046,CG7046,BcDNA:AT28425 CG7046,maybe,
+FBgn0039019,HP1c,HP1c,CG6990 HP1 HP1c Hp1c,maybe,"(TF, long range)"
+FBgn0039039,lmd,lame duck,CG4677 K Lmd anon-EST:CL2d4 gfl lmd minc,YES,(sequence-specific TF)
+FBgn0039044,p53,,CG10873 CG31325 CG33336 Dm-P53 DmP53 Dmp53 dmp53 dp53 p53 prac,YES,(sequence-specific TF)
+FBgn0039078,CG4374,CG4374,CG4374,maybe,
+FBgn0039108,CG10232,CG10232,CG10232 SP14,NO,
+FBgn0039115,CG10214,CG10214,CG10214,NO,
+FBgn0039164,CG5524,CG5524,CG5524,NO,
+FBgn0039169,CG5669,CG5669,CG5669,maybe,
+FBgn0039201,CG13617,CG13617,CG13617,maybe,
+FBgn0039207,CG5789,CG5789,CG5789,NO,
+FBgn0039209,CG13624,CG13624,CG13624 anon-WO0153538.65,maybe,
+FBgn0039211,CG13620,CG13620,CG13620,maybe,
+FBgn0039218,Rpb10,Rpb10,BcDNA:SD08670 CG13628 RPB10 Rpb10,NO,
+FBgn0039225,Ets96B,Ets96B,CG6892 Ets Ets96B,maybe,"(TF, short range)"
+FBgn0039251,CG17462,CG17462,AAF56369 CG17462,NO,
+FBgn0039283,danr,distal antenna-related,CG13651 danr,NO,
+FBgn0039286,dan,distal antenna,CG11849 Dan dan,NO,
+FBgn0039329,CG10669,CG10669,CG10669,maybe,
+FBgn0039338,XNP,XNP,CG4548 EP(3)0635 EP635 XNP xnp/atr-x,NO,
+FBgn0039355,CG4730,CG4730,CG4730,maybe,
+FBgn0039411,dys,dysfusion,CG12561 CG14552 CG14553 CG14554 CG32474 Dys dys,YES,(sequence-specific TF)
+FBgn0039509,bigmax,bigmax,BIGMAX CG3350 DmMlx bigmax,maybe,"(TF, short range)"
+FBgn0039530,Tusp,Tusp,CG5586 TUSP Tusp,maybe,
+FBgn0039559,Mes-4,Mes-4,CG4976 Mes-4 dMES-4 dMes-4,NO,
+FBgn0039602,CG1647,CG1647,CG1647,maybe,
+FBgn0039631,Sirt7,Sirt7,CG11305 D.mel5 Sirt7 dSIRT7 dmSRT409,NO,
+FBgn0039635,CG11876,CG11876,CG11876,NO,
+FBgn0039680,CAP-D2,CAP-D2 condensin subunit,CAP-D2 CG1911,NO,
+FBgn0039683,dmrt99B,doublesex-Mab related 99B,CG15504 dmrt99B,maybe,"(TF, short range)"
+FBgn0039712,CG15514,CG15514,CG15514,maybe,
+FBgn0039735,CG7911,CG7911,CG7911,NO,
+FBgn0039740,CG7928,CG7928,CG7928,maybe,
+FBgn0039808,CG12071,CG12071,CG12071,maybe,
+FBgn0039816,CG11317,CG11317,CG11317,maybe,
+FBgn0039831,CG12054,CG12054,CG12054,maybe,
+FBgn0039860,CG1792,CG1792,CG1792,maybe,
+FBgn0039904,Hcf,Host cell factor,CG1710 HCF Hcf anon-WO0172774.48 dHCF,NO,
+FBgn0039905,CG2052,CG2052,CG10204 CG2052,maybe,
+FBgn0039923,MED26,Mediator complex subunit 26,Arc70 CG1793 CG1823 MED26 dARC70,NO,
+FBgn0039937,CG11152,CG11152,CG11152 Dmcg11152,maybe,"(TF, short range)"
+FBgn0039938,Sox102F,Sox102F,CG11153 SOX102D SOXD Sox D Sox102D Sox102F SoxD,maybe,
+FBgn0039946,ATbp,(A+T)-stretch binding protein,ATBP ATbp CG17172 CG40145,YES,(sequence-specific TF)
+FBgn0040022,CG40351,CG40351,CG17395 CG17396 CG40351 aaf45425 Dm,NO,
+FBgn0040059,CG14578,CG14578,CG14578 CG40105,NO,
+FBgn0040077,primo-1,primo-1,CG31311 CG33748 CG9599 LMW-PTP primo primo-1,NO,
+FBgn0040268,Top3&agr;,Topoisomerase 3&agr;,CG10123 Top3&agr; Top3a dTopoIIIa,NO,
+FBgn0040283,SMC1,SMC1,CG6057 DmSMC1 SMC1,NO,
+FBgn0040305,MTF-1,MTF-1,CG3743 MTF-1 anon-WO0118547.411 dMTF-1 mtf-1,YES,(sequence-specific TF)
+FBgn0040318,HGTX,HGTX,CG13475 CG4745 HGTX Nk6,YES,(sequence-specific TF)
+FBgn0040338,TfIIA-S-2,TfIIA-S-2,CG11639 EG:BACR7A4.7 TFIIA TfIIA-S-2,NO,
+FBgn0040344,CG3711,CG3711,CG3711 EG:BACR7A4.19,NO,
+FBgn0040355,CG3526,CG3526,CG3526 EG:BACR43E12.4,maybe,
+FBgn0040366,CG11398,CG11398,CG11398 EG:BACR42I17.11,maybe,
+FBgn0040372,CG2995,CG2995,CG2995 EG:BACR37P7.2 cab65850 G9a Dm,NO,
+FBgn0040394,CG16903,CG16903,CG16903 EG:67A9.2 anon-WO03040301.211,NO,
+FBgn0040465,Dip3,Dorsal interacting protein 3,CG12767 Dip3 anon-WO0118547.169 dip3,YES,(sequence-specific TF)
+FBgn0040765,luna,luna,CG17326 CG33473 CG9087 DKLF Klf luna,YES,(sequence-specific TF)
+FBgn0040918,Lag1,Longevity assurance gene 1,CG15898 CG3576 DLAG1 Dlag1 Lag1 l(1)G0061 l(1)G0365 l(1)G0489 lon,YES,(sequence-specific TF)
+FBgn0041092,tai,taiman,58/2 CG13109 CG18494 DAIB1 DmTaiman EP(2)2630 NEST:bs13g05 bs13g05.y1 l(2)01351 l(2)k05802 l(2)k05809 tai,maybe,"(TF, short range)"
+FBgn0041105,nerfin-2,nervous fingers 2,CG12809 nerfin-2,maybe,"(TF, short range)"
+FBgn0041111,lilli,lilliputian,BEST:GH09955 BcDNA:GM02019 CG8817 SS2-1 SY2-1 Su(Raf)2A Su(Raf)2a l(2)00632 l(2)23Cc l(2)K00632 l(2)K07920 l(2)k07920 l(2)k16124 lilli,maybe,"(TF, short range)"
+FBgn0041145,jing,,CG9403 jing l(2)01094 l(2)22F3,maybe,"(TF, short range)"
+FBgn0041156,exex,extra-extra,CG8254 DHB9 HB9 Hb9 dHb9 exex,YES,(sequence-specific TF)
+FBgn0041205,key,kenny,CG16910 DmIKK&ggr; Dmikk&ggr; IKK&ggr; IKK-&ggr; Kenny dIKK dmIKK&ggr; key,NO,
+FBgn0041229,Gr93a,Gustatory receptor 93a,93F.1 CG13417 GR93F.1 Gr93F1 Gr93a,NO,
+FBgn0042085,Bap170,Brahma associated protein 170kD,BAP170 Bap170 BcDNA:GH12174 CG3274,NO,
+FBgn0042092,CG13773,CG13773,BEST:GH23590 CG13773,NO,
+FBgn0042205,CG18764,CG18764,CG18764,maybe,
+FBgn0042630,Sox21b,Sox21b,CG13483 CG32139 CG6419 SOXB2.2 Sox B2-2 Sox21b SoxB2.2,maybe,"(TF, short range)"
+FBgn0042650,disco-r,disco-related,CG32577 CG9219 CG9223 disco-r,maybe,"(TF, short range)"
+FBgn0042696,NfI,Nuclear factor I,CG2380 NFI NfI,maybe,"(TF, short range)"
+FBgn0043364,cbt,cbt,CG4427 EP(2)2237 EP2237 cabut cbt,maybe,"(TF, short range)"
+FBgn0043472,tef,teflon,CG8961 tef,maybe,
+FBgn0043796,CG12219,CG12219,BEST:LD26135 CG12219,maybe,
+FBgn0043799,CG31381,CG31381,BEST:LD10347 CG31381,NO,
+FBgn0043900,pygo,pygopus,BEST:LD21971 CG11518 Pygo anon-WO02077023.1 gam pNB5.2 pygo,NO,
+FBgn0044056,Gpal,Gpal,GPAL Gpal,YES,(sequence-specific TF)
+FBgn0045759,bin,biniou,CG18647 Dmbin FoxF XIV bin l(3)65CEe,YES,(sequence-specific TF)
+FBgn0045852,ham,hamlet,CG10568 CG15906 CG15907 CG31753 ham,maybe,"(TF, short range)"
+FBgn0046323,Ory,Occludin-Related Y,CG40446 ORY Ory ory,NO,
+FBgn0050011,gem,gemini,BcDNA:HL07889 CG11867 CG30011 CG3459 anon-AE003830.1 dCP2 gem,maybe,"(TF, short range)"
+FBgn0050020,CG30020,CG30020,BEST:LD40262 CG12941 CG18353 CG30020 p190,maybe,
+FBgn0050077,CG30077,CG30077,CG10127 CG30077,maybe,
+FBgn0050080,CG30080,CG30080,BcDNA:RE42467 BcDNA:RE70859 CG12965 CG30080,NO,
+FBgn0050401,CG30401,CG30401,CG13496 CG30401,NO,
+FBgn0050420,CG30420,CG30420,CG12850 CG30420 CG3749,maybe,"(TF, short range)"
+FBgn0050426,FBgn0050426,,FBgn0050426 CG30426 FBgn0035061 BcDNA:AT13877 AAF47268 Dm Dm Set1 CG12196,maybe,
+FBgn0050431,CG30431,CG30431,CG30431 CG8324 CG8341,maybe,
+FBgn0050443,CG30443,CG30443,BcDNA:RE37461 CG12397 CG30443,maybe,
+FBgn0051040,Cog7,Cog7,CG31040 CG7880 Cog7,NO,
+FBgn0051111,CG31111,CG31111,CG13649 CG31111,NO,
+FBgn0051169,CG31169,CG31169,CG12757 CG18427 CG31169 NEST:bs15d11 NEST:bs16c09 bs16c09.y1,maybe,
+FBgn0051212,CG31212,CG31212,CG14279 CG18491 CG31212 CG3602,NO,
+FBgn0051224,CG31224,CG31224,CG17796 CG31224 CG7696,maybe,
+FBgn0051258,CG31258,CG31258,CG11745 CG11746 CG31258,maybe,
+FBgn0051365,CG31365,CG31365,CG31365 CG4639,maybe,
+FBgn0051367,CG31367,CG31367,CG15187 CG31367,NO,
+FBgn0051388,CG31388,CG31388,BcDNA:GH10523 CG17722 CG31388 CG5135,maybe,
+FBgn0051390,MED7,Mediator complex subunit 7,CG31390 CG6529 MED7 Med7 dMED7 dTRAP34,NO,
+FBgn0051392,CG31392,CG31392,CG12258 CG31392,maybe,
+FBgn0051441,CG31441,CG31441,CG31441 CG5135,maybe,
+FBgn0051460,CG31460,CG31460,BcDNA:RE67710 CG11745 CG31460,maybe,
+FBgn0051481,pb,proboscipedia,BG:DS01719.1 CG17880 CG31481 PB l(3)04498 pb pd,YES,(sequence-specific TF)
+FBgn0051510,CG31510,CG31510,CG10057 CG31510,maybe,
+FBgn0051611,His4:CG31611,His4:CG31611,CG31611 His4:CG31611,NO,
+FBgn0051612,CG31612,CG31612,CG11631 CG11632 CG31612,maybe,
+FBgn0051617,His1:CG31617,His1:CG31617,CG31617 His1:CG31617,NO,
+FBgn0051632,CG31632,CG31632,CG11243 CG17373 CG31632,maybe,
+FBgn0051642,CG31642,CG31642,CG31642 CG5981,maybe,
+FBgn0051666,CG31666,CG31666,CG10871 CG17156 CG17649 CG31666,maybe,"(TF, short range)"
+FBgn0051759,CG31759,CG31759,BcDNA:AT13596 BcDNA:LD05405 CG31759 ms(2)01284,NO,
+FBgn0051782,CG31782,CG31782,BcDNA:GM06363 CG31782 l(2)SH1590,maybe,
+FBgn0051835,CG31835,CG31835,BG:DS00810.1 CG31835,maybe,
+FBgn0051875,CG31875,CG31875,BcDNA:AT29184 CG31875 CG5831,maybe,
+FBgn0051922,CG31922,CG31922,CG31922 anon-AE003587.1,NO,
+FBgn0052006,CG32006,CG32006,BcDNA:RE51913 CG32006 DmCg32006,maybe,"(TF, short range)"
+FBgn0052105,CG32105,CG32105,CG10432 CG17615 CG32105,YES,(sequence-specific TF)
+FBgn0052121,CG32121,CG32121,CG32121,maybe,
+FBgn0052296,Mrtf,Myocardin-related transcription factor,CG12188 CG14951 CG32296 DMRTF Mrtf mal-d,YES,(sequence-specific TF)
+FBgn0052343,CG32343,CG32343,CG32343 CG6994 cg6994,NO,
+FBgn0052438,Smc5,Smc5,CG32438 CG7783 DmSMC5 SMC5 Smc5,NO,
+FBgn0052532,CG32532,CG32532,CG14201 CG14202 CG14203 CG32532,YES,(sequence-specific TF)
+FBgn0052533,CG32533,CG32533,CG12211 CG14198 CG32533 cg12211,NO,
+FBgn0052601,CG32601,CG32601,CG32601 CG9404,NO,
+FBgn0052611,CG32611,CG32611,CG11075 CG11082 CG32611,maybe,
+FBgn0052719,CG32719,CG32719,CG32719,maybe,
+FBgn0052767,CG32767,CG32767,BcDNA:GM08530 CG32767 CG5086 CG5113 LD34931 i7,maybe,
+FBgn0052772,CG32772,CG32772,CG15469 CG32772 CG6911,maybe,
+FBgn0052778,CG32778,CG32778,CG32778 CG4985,maybe,
+FBgn0052830,CG32830,CG32830,CG32830,maybe,
+FBgn0052831,CG33695,CG33695,CG16917 CG32831 CG32955 CG32955-ORFB CG33695 CG4831 l(2)k07716,maybe,
+FBgn0053097,CG33097,CG33097,CG15187 CG33097,NO,
+FBgn0053196,dp,dumpy,BcDNA:SD02173 CG15637 CG31724 CG31725 CG31726 CG31727 CG31964 CG31965 CG31966 CG31967 CG31968 CG33000 CG33086 CG33196 CR33195 CT35799 DP Dp SP460 dp l(2)24Fd olv<up>D</up>,NO,
+FBgn0053197,mbl,muscleblind,CG10941 CG14477 CG33197 l(2)01038 l(2)k01212 l(2)k05507 mbl mm n(2)k07110,NO,
+FBgn0053213,CG33213,CG33213,CG12260 CG33213,maybe,
+FBgn0053221,CG33221,CG33221,CG12260 CG33221,maybe,
+FBgn0053520,Rpb4,Rpb4,ADA2A Ada2A Ada2a CG31237 CG31318 CG33520 CG7150 RPB4 Rpb4 anon-WO0118547.402 dAda2A dAda2a dRpb4,NO,
+FBgn0053525,CG33525,CG33525,BcDNA:GH01486 BcDNA:LD11215 CG32535 CG33525 CG3878 i169,NO,
+FBgn0053526,PNUTS,PNUTS,CG31657 CG33526 CG4124 PNUTS PNUTSDm,NO,
+FBgn0053545,nab,,CG15000 CG15001 CG33545 dnab l(3)64Aj l(3)SH21 nab,NO,
+FBgn0053555,btsz,bitesize,BcDNA:GH06647 CG14858 CG18280 CG31306 CG33555 CG7343 btsz l(3)10418,NO,
+FBgn0053557,CG33557,CG33557,CG12648 CG33557,maybe,"(TF, short range)"
+FBgn0053936,FBgn0053936,,FBgn0053936 CG33936 FBgn0020321 CG33188 CG33188f01391 CG33188PBss CG16750 CG33187 unnamed CG33188EP3270 CG16751 BcDNA:RE70963 anon-85Da,maybe,
+FBgn0061173,fd3F,forkhead domain 3F,CG12632 fd3F,maybe,"(TF, short range)"
+FBgn0061362,CG33785,CG33785,CG10438 CG10438a CG30144 CG33005 CG33005-ORFA CG33785,NO,
+FBgn0069093,p170,p170,p170,YES,(sequence-specific TF)
+FBgn0082831,CG6525,CG6525,CG6525 SPP Spp spp,NO,
