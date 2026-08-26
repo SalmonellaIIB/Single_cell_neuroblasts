@@ -1,0 +1,629 @@
+#SUBMITTED ID	FBID_KEY	ANNOTATION_SYMBOL	FEATURE_TYPE	GENE_MODEL_STATUS	GENUS	NAME	SPECIES	SPECIES_ABBREVIATION	SYMBOL
+FBgn0264442	FBgn0264442	CG43860	SO0001217:protein_coding_gene	Current	Drosophila	abrupt	melanogaster	Dmel	ab
+FBgn0000014	FBgn0000014	CG10325	SO0001217:protein_coding_gene	Current	Drosophila	abdominal A	melanogaster	Dmel	abd-A
+FBgn0000015	FBgn0000015	CG11648	SO0001217:protein_coding_gene	Current	Drosophila	Abdominal B	melanogaster	Dmel	Abd-B
+FBgn0000022	FBgn0000022	CG3796	SO0001217:protein_coding_gene	Current	Drosophila	achaete	melanogaster	Dmel	ac
+FBgn0033749	FBgn0033749	CG8819	SO0001217:protein_coding_gene	Current	Drosophila	achintya	melanogaster	Dmel	achi
+FBgn0000028	FBgn0000028	CG9151	SO0001217:protein_coding_gene	Current	Drosophila	abnormal chemosensory jump 6	melanogaster	Dmel	acj6
+FBgn0284249	FBgn0284249	CG15845	SO0001217:protein_coding_gene	Current	Drosophila	Adh transcription factor 1	melanogaster	Dmel	Adf1
+FBgn0005694	FBgn0005694	CG5683	SO0001217:protein_coding_gene	Current	Drosophila	Adult enhancer factor 1	melanogaster	Dmel	Aef1
+FBgn0000061	FBgn0000061	CG3935	SO0001217:protein_coding_gene	Current	Drosophila	aristaless	melanogaster	Dmel	al
+FBgn0003270	FBgn0003270	CG10393	SO0001217:protein_coding_gene	Current	Drosophila	absent MD neurons and olfactory sensilla	melanogaster	Dmel	amos
+FBgn0260642	FBgn0260642	CG1028	SO0001217:protein_coding_gene	Current	Drosophila	Antennapedia	melanogaster	Dmel	Antp
+FBgn0000097	FBgn0000097	CG3166	SO0001217:protein_coding_gene	Current	Drosophila	anterior open	melanogaster	Dmel	aop
+FBgn0267978	FBgn0267978	CG8376	SO0001217:protein_coding_gene	Current	Drosophila	apterous	melanogaster	Dmel	ap
+FBgn0015903	FBgn0015903	CG5393	SO0001217:protein_coding_gene	Current	Drosophila	apontic	melanogaster	Dmel	apt
+FBgn0015904	FBgn0015904	CG10571	SO0001217:protein_coding_gene	Current	Drosophila	araucan	melanogaster	Dmel	ara
+FBgn0035407	FBgn0035407	CG14962	SO0001217:protein_coding_gene	Current	Drosophila	ASCIZ zinc finger protein	melanogaster	Dmel	Asciz
+FBgn0000137	FBgn0000137	CG3258	SO0001217:protein_coding_gene	Current	Drosophila	asense	melanogaster	Dmel	ase
+FBgn0039946	FBgn0039946	CG17172	SO0001217:protein_coding_gene	Current	Drosophila	(A+T)-stretch binding protein	melanogaster	Dmel	ATbp
+FBgn0265193	FBgn0265193	CG44246	SO0001217:protein_coding_gene	Current	Drosophila	Activating transcription factor-2	melanogaster	Dmel	Atf-2
+FBgn0028550	FBgn0028550	CG11405	SO0001217:protein_coding_gene	Current	Drosophila	Activating transcription factor 3	melanogaster	Dmel	Atf3
+FBgn0033010	FBgn0033010	CG3136	SO0001217:protein_coding_gene	Current	Drosophila	Atf6	melanogaster	Dmel	Atf6
+FBgn0010433	FBgn0010433	CG7508	SO0001217:protein_coding_gene	Current	Drosophila	atonal	melanogaster	Dmel	ato
+FBgn0013751	FBgn0013751	CG1072	SO0001217:protein_coding_gene	Current	Drosophila	Arrowhead	melanogaster	Dmel	Awh
+FBgn0025185	FBgn0025185	CG1605	SO0001217:protein_coding_gene	Current	Drosophila	az2	melanogaster	Dmel	az2
+FBgn0004870	FBgn0004870	CG9097	SO0001217:protein_coding_gene	Current	Drosophila	bric a brac 1	melanogaster	Dmel	bab1
+FBgn0025525	FBgn0025525	CG9102	SO0001217:protein_coding_gene	Current	Drosophila	bric a brac 2	melanogaster	Dmel	bab2
+FBgn0004862	FBgn0004862	CG7902	SO0001217:protein_coding_gene	Current	Drosophila	bagpipe	melanogaster	Dmel	bap
+FBgn0030093	FBgn0030093	CG7055	SO0001217:protein_coding_gene	Current	Drosophila	Brahma associated protein 111kD	melanogaster	Dmel	Bap111
+FBgn0024251	FBgn0024251	CG1414	SO0001217:protein_coding_gene	Current	Drosophila	bobby sox	melanogaster	Dmel	bbx
+FBgn0000166	FBgn0000166	CG1034	SO0001217:protein_coding_gene	Current	Drosophila	bicoid	melanogaster	Dmel	bcd
+FBgn0032512	FBgn0032512	CG9305	SO0001217:protein_coding_gene	Current	Drosophila	B double prime 1	melanogaster	Dmel	Bdp1
+FBgn0011758	FBgn0011758	CG5529	SO0001217:protein_coding_gene	Current	Drosophila	BarH1	melanogaster	Dmel	B-H1
+FBgn0004854	FBgn0004854	CG5488	SO0001217:protein_coding_gene	Current	Drosophila	BarH2	melanogaster	Dmel	B-H2
+FBgn0000179	FBgn0000179	CG3578	SO0001217:protein_coding_gene	Current	Drosophila	bifid	melanogaster	Dmel	bi
+FBgn0039509	FBgn0039509	CG3350	SO0001217:protein_coding_gene	Current	Drosophila	bigmax	melanogaster	Dmel	bigmax
+FBgn0045759	FBgn0045759	CG18647	SO0001217:protein_coding_gene	Current	Drosophila	biniou	melanogaster	Dmel	bin
+FBgn0035625	FBgn0035625	CG5249	SO0001217:protein_coding_gene	Current	Drosophila	Blimp-1	melanogaster	Dmel	Blimp-1
+FBgn0053213	FBgn0053213	CG33213	SO0001217:protein_coding_gene	Current	Drosophila	Buddy of Hmr 1	melanogaster	Dmel	Boh1
+FBgn0004893	FBgn0004893	CG10021	SO0001217:protein_coding_gene	Current	Drosophila	brother of odd with entrails limited	melanogaster	Dmel	bowl
+FBgn0283451	FBgn0283451	CG11491	SO0001217:protein_coding_gene	Current	Drosophila	broad	melanogaster	Dmel	br
+FBgn0033155	FBgn0033155	CG1845	SO0001217:protein_coding_gene	Current	Drosophila	Bromodomain-containing protein, 140kD	melanogaster	Dmel	Br140
+FBgn0024250	FBgn0024250	CG9653	SO0001217:protein_coding_gene	Current	Drosophila	brinker	melanogaster	Dmel	brk
+FBgn0004101	FBgn0004101	CG3411	SO0001217:protein_coding_gene	Current	Drosophila	blistered	melanogaster	Dmel	bs
+FBgn0000529	FBgn0000529	CG10604	SO0001217:protein_coding_gene	Current	Drosophila	brain-specific homeobox	melanogaster	Dmel	bsh
+FBgn0263108	FBgn0263108	CG43365	SO0001217:protein_coding_gene	Current	Drosophila	BTB-protein-VII	melanogaster	Dmel	BtbVII
+FBgn0000233	FBgn0000233	CG12653	SO0001217:protein_coding_gene	Current	Drosophila	buttonhead	melanogaster	Dmel	btd
+FBgn0014949	FBgn0014949	CG5264	SO0001217:protein_coding_gene	Current	Drosophila	buttonless	melanogaster	Dmel	btn
+FBgn0032600	FBgn0032600	CG17912	SO0001217:protein_coding_gene	Current	Drosophila	Bub3 interacting GLEBS and Zinc finger domain protein	melanogaster	Dmel	BuGZ
+FBgn0259176	FBgn0259176	CG42281	SO0001217:protein_coding_gene	Current	Drosophila	bunched	melanogaster	Dmel	bun
+FBgn0011723	FBgn0011723	CG7260	SO0001217:protein_coding_gene	Current	Drosophila	brachyenteron	melanogaster	Dmel	byn
+FBgn0004863	FBgn0004863	CG7937	SO0001217:protein_coding_gene	Current	Drosophila	C15	melanogaster	Dmel	C15
+FBgn0000251	FBgn0000251	CG1759	SO0001217:protein_coding_gene	Current	Drosophila	caudal	melanogaster	Dmel	cad
+FBgn0287478	FBgn0287478	CG42332	SO0001217:protein_coding_gene	Current	Drosophila	Calmodulin-binding transcription activator	melanogaster	Dmel	Camta
+FBgn0004878	FBgn0004878	CG2102	SO0001217:protein_coding_gene	Current	Drosophila	castor	melanogaster	Dmel	cas
+FBgn0024249	FBgn0024249	CG7760	SO0001217:protein_coding_gene	Current	Drosophila	cousin of atonal	melanogaster	Dmel	cato
+FBgn0015919	FBgn0015919	CG10605	SO0001217:protein_coding_gene	Current	Drosophila	caupolican	melanogaster	Dmel	caup
+FBgn0043364	FBgn0043364	CG4427	SO0001217:protein_coding_gene	Current	Drosophila	cabut	melanogaster	Dmel	cbt
+FBgn0000286	FBgn0000286	CG11924	SO0001217:protein_coding_gene	Current	Drosophila	Chorion factor 2	melanogaster	Dmel	Cf2
+FBgn0000289	FBgn0000289	CG8367	SO0001217:protein_coding_gene	Current	Drosophila	combgap	melanogaster	Dmel	cg
+FBgn0027514	FBgn0027514	CG1024	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG1024
+FBgn0035137	FBgn0035137	CG1233	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG1233
+FBgn0031144	FBgn0031144	CG1529	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG1529
+FBgn0033186	FBgn0033186	CG1602	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG1602
+FBgn0033185	FBgn0033185	CG1603	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG1603
+FBgn0039602	FBgn0039602	CG1647	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG1647
+FBgn0033449	FBgn0033449	CG1663	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG1663
+FBgn0039860	FBgn0039860	CG1792	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG1792
+FBgn0030003	FBgn0030003	CG2116	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG2116
+FBgn0030005	FBgn0030005	CG2120	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG2120
+FBgn0030008	FBgn0030008	CG2129	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG2129
+FBgn0035213	FBgn0035213	CG2199	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG2199
+FBgn0030240	FBgn0030240	CG2202	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG2202
+FBgn0014931	FBgn0014931	CG2678	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG2678
+FBgn0024975	FBgn0024975	CG2712	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG2712
+FBgn0030206	FBgn0030206	CG2889	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG2889
+FBgn0029928	FBgn0029928	CG3032	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG3032
+FBgn0034946	FBgn0034946	CG3065	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG3065
+FBgn0260741	FBgn0260741	CG3281	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG3281
+FBgn0031573	FBgn0031573	CG3407	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG3407
+FBgn0029824	FBgn0029824	CG3726	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG3726
+FBgn0029867	FBgn0029867	CG3847	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG3847
+FBgn0038472	FBgn0038472	CG3995	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG3995
+FBgn0034114	FBgn0034114	CG4282	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG4282
+FBgn0030455	FBgn0030455	CG4318	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG4318
+FBgn0036274	FBgn0036274	CG4328	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG4328
+FBgn0038787	FBgn0038787	CG4360	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG4360
+FBgn0039078	FBgn0039078	CG4374	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG4374
+FBgn0038765	FBgn0038765	CG4424	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG4424
+FBgn0031894	FBgn0031894	CG4496	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG4496
+FBgn0029936	FBgn0029936	CG4617	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG4617
+FBgn0035036	FBgn0035036	CG4707	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG4707
+FBgn0039355	FBgn0039355	CG4730	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG4730
+FBgn0037876	FBgn0037876	CG4820	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG4820
+FBgn0038766	FBgn0038766	CG4854	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG4854
+FBgn0038768	FBgn0038768	CG4936	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG4936
+FBgn0038047	FBgn0038047	CG5245	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG5245
+FBgn0037794	FBgn0037794	CG6254	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG6254
+FBgn0038301	FBgn0038301	CG6654	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG6654
+FBgn0037877	FBgn0037877	CG6689	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG6689
+FBgn0035903	FBgn0035903	CG6765	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG6765
+FBgn0037918	FBgn0037918	CG6791	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG6791
+FBgn0037923	FBgn0037923	CG6813	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG6813
+FBgn0030963	FBgn0030963	CG7101	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG7101
+FBgn0036791	FBgn0036791	CG7271	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG7271
+FBgn0036179	FBgn0036179	CG7368	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG7368
+FBgn0035691	FBgn0035691	CG7386	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG7386
+FBgn0038626	FBgn0038626	CG7691	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG7691
+FBgn0034096	FBgn0034096	CG7786	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG7786
+FBgn0037584	FBgn0037584	CG7963	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG7963
+FBgn0038244	FBgn0038244	CG7987	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG7987
+FBgn0033993	FBgn0033993	CG8089	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG8089
+FBgn0037619	FBgn0037619	CG8159	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG8159
+FBgn0037717	FBgn0037717	CG8301	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG8301
+FBgn0037722	FBgn0037722	CG8319	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG8319
+FBgn0034062	FBgn0034062	CG8388	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG8388
+FBgn0037746	FBgn0037746	CG8478	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG8478
+FBgn0030710	FBgn0030710	CG8924	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG8924
+FBgn0030680	FBgn0030680	CG8944	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG8944
+FBgn0030659	FBgn0030659	CG9215	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG9215
+FBgn0030787	FBgn0030787	CG9609	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG9609
+FBgn0029939	FBgn0029939	CG9650	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG9650
+FBgn0037445	FBgn0037445	CG9727	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG9727
+FBgn0034821	FBgn0034821	CG9876	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG9876
+FBgn0034814	FBgn0034814	CG9890	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG9890
+FBgn0262160	FBgn0262160	CG9932	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG9932
+FBgn0035702	FBgn0035702	CG10147	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG10147
+FBgn0035690	FBgn0035690	CG10274	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG10274
+FBgn0034643	FBgn0034643	CG10321	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG10321
+FBgn0032707	FBgn0032707	CG10348	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG10348
+FBgn0032814	FBgn0032814	CG10366	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG10366
+FBgn0032730	FBgn0032730	CG10431	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG10431
+FBgn0032815	FBgn0032815	CG10462	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG10462
+FBgn0034570	FBgn0034570	CG10543	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG10543
+FBgn0032817	FBgn0032817	CG10631	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG10631
+FBgn0036294	FBgn0036294	CG10654	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG10654
+FBgn0039329	FBgn0039329	CG10669	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG10669
+FBgn0030010	FBgn0030010	CG10959	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG10959
+FBgn0037379	FBgn0037379	CG10979	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG10979
+FBgn0030408	FBgn0030408	CG11085	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG11085
+FBgn0037120	FBgn0037120	CG11247	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG11247
+FBgn0030058	FBgn0030058	CG11294	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG11294
+FBgn0040366	FBgn0040366	CG11398	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG11398
+FBgn0037031	FBgn0037031	CG11456	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG11456
+FBgn0036249	FBgn0036249	CG11560	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG11560
+FBgn0031232	FBgn0031232	CG11617	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG11617
+FBgn0030316	FBgn0030316	CG11695	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG11695
+FBgn0030314	FBgn0030314	CG11696	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG11696
+FBgn0028647	FBgn0028647	CG11902	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG11902
+FBgn0034425	FBgn0034425	CG11906	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG11906
+FBgn0027503	FBgn0027503	CG11970	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG11970
+FBgn0039831	FBgn0039831	CG12054	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG12054
+FBgn0039808	FBgn0039808	CG12071	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG12071
+FBgn0035238	FBgn0035238	CG12104	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG12104
+FBgn0043796	FBgn0043796	CG12219	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG12219
+FBgn0029822	FBgn0029822	CG12236	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG12236
+FBgn0032295	FBgn0032295	CG12299	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG12299
+FBgn0033581	FBgn0033581	CG12391	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG12391
+FBgn0035481	FBgn0035481	CG12605	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG12605
+FBgn0040929	FBgn0040929	CG12659	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG12659
+FBgn0033459	FBgn0033459	CG12744	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG12744
+FBgn0033252	FBgn0033252	CG12769	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG12769
+FBgn0033569	FBgn0033569	CG12942	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG12942
+FBgn0032150	FBgn0032150	CG13123	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG13123
+FBgn0035643	FBgn0035643	CG13287	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG13287
+FBgn0031874	FBgn0031874	CG13775	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG13775
+FBgn0035157	FBgn0035157	CG13894	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG13894
+FBgn0040392	FBgn0040392	CG14050	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG14050
+FBgn0029895	FBgn0029895	CG14441	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG14441
+FBgn0037275	FBgn0037275	CG14655	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG14655
+FBgn0037317	FBgn0037317	CG14667	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG14667
+FBgn0037920	FBgn0037920	CG14710	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG14710
+FBgn0037922	FBgn0037922	CG14711	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG14711
+FBgn0038273	FBgn0038273	CG14860	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG14860
+FBgn0035414	FBgn0035414	CG14965	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG14965
+FBgn0035518	FBgn0035518	CG15011	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG15011
+FBgn0034379	FBgn0034379	CG15073	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG15073
+FBgn0028878	FBgn0028878	CG15269	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG15269
+FBgn0030009	FBgn0030009	CG15336	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG15336
+FBgn0031608	FBgn0031608	CG15435	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG15435
+FBgn0039712	FBgn0039712	CG15514	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG15514
+FBgn0038833	FBgn0038833	CG15696	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG15696
+FBgn0034120	FBgn0034120	CG15710	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG15710
+FBgn0035405	FBgn0035405	CG15812	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG15812
+FBgn0037698	FBgn0037698	CG16779	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG16779
+FBgn0028931	FBgn0028931	CG16863	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG16863
+FBgn0038741	FBgn0038741	CG17186	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG17186
+FBgn0028895	FBgn0028895	CG17328	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG17328
+FBgn0036396	FBgn0036396	CG17359	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG17359
+FBgn0036395	FBgn0036395	CG17361	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG17361
+FBgn0033934	FBgn0033934	CG17385	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG17385
+FBgn0032763	FBgn0032763	CG17568	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG17568
+FBgn0031597	FBgn0031597	CG17612	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG17612
+FBgn0038550	FBgn0038550	CG17801	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG17801
+FBgn0038547	FBgn0038547	CG17803	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG17803
+FBgn0038548	FBgn0038548	CG17806	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG17806
+FBgn0033491	FBgn0033491	CG18011	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG18011
+FBgn0030012	FBgn0030012	CG18262	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG18262
+FBgn0036725	FBgn0036725	CG18265	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG18265
+FBgn0037931	FBgn0037931	CG18476	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG18476
+FBgn0038592	FBgn0038592	CG18599	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG18599
+FBgn0042205	FBgn0042205	CG18764	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG18764
+FBgn0050020	FBgn0050020	CG30020	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG30020
+FBgn0050431	FBgn0050431	CG30431	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG30431
+FBgn0051224	FBgn0051224	CG31224	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG31224
+FBgn0051365	FBgn0051365	CG31365	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG31365
+FBgn0051388	FBgn0051388	CG31388	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG31388
+FBgn0051441	FBgn0051441	CG31441	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG31441
+FBgn0051612	FBgn0051612	CG31612	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG31612
+FBgn0052006	FBgn0052006	CG32006	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG32006
+FBgn0052121	FBgn0052121	CG32121	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG32121
+FBgn0052532	FBgn0052532	CG32532	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG32532
+FBgn0052767	FBgn0052767	CG32767	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG32767
+FBgn0052772	FBgn0052772	CG32772	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG32772
+FBgn0053557	FBgn0053557	CG33557	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG33557
+FBgn0054031	FBgn0054031	CG34031	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG34031
+FBgn0085396	FBgn0085396	CG34367	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG34367
+FBgn0085405	FBgn0085405	CG34376	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG34376
+FBgn0261679	FBgn0261679	CG42726	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG42726
+FBgn0261705	FBgn0261705	CG42741	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG42741
+FBgn0263072	FBgn0263072	CG43347	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG43347
+FBgn0263772	FBgn0263772	CG43689	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG43689
+FBgn0264744	FBgn0264744	CG44002	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	CG44002
+FBgn0029504	FBgn0029504	CG12690	SO0001217:protein_coding_gene	Current	Drosophila	Checkpoint suppressor 1-like	melanogaster	Dmel	CHES-1-like
+FBgn0086758	FBgn0086758	CG31666	SO0001217:protein_coding_gene	Current	Drosophila	Chronologically inappropriate morphogenesis	melanogaster	Dmel	chinmo
+FBgn0015371	FBgn0015371	CG11798	SO0001217:protein_coding_gene	Current	Drosophila	charlatan	melanogaster	Dmel	chn
+FBgn0004859	FBgn0004859	CG2125	SO0001217:protein_coding_gene	Current	Drosophila	cubitus interruptus	melanogaster	Dmel	ci
+FBgn0262582	FBgn0262582	CG43122	SO0001217:protein_coding_gene	Current	Drosophila	capicua	melanogaster	Dmel	cic
+FBgn0015025	FBgn0015025	CG6215	SO0001217:protein_coding_gene	Current	Drosophila	CKII-alpha subunit interactor-1	melanogaster	Dmel	CkIIalpha-i1
+FBgn0032979	FBgn0032979	CG1832	SO0001217:protein_coding_gene	Current	Drosophila	Chromatin-linked adaptor for MSL proteins	melanogaster	Dmel	Clamp
+FBgn0023076	FBgn0023076	CG7391	SO0001217:protein_coding_gene	Current	Drosophila	Clock	melanogaster	Dmel	Clk
+FBgn0262975	FBgn0262975	CG43286	SO0001217:protein_coding_gene	Current	Drosophila	cap-n-collar	melanogaster	Dmel	cnc
+FBgn0000283	FBgn0000283	CG6384	SO0001217:protein_coding_gene	Current	Drosophila	Centrosomal protein 190kD	melanogaster	Dmel	Cp190
+FBgn0000370	FBgn0000370	CG8669	SO0001217:protein_coding_gene	Current	Drosophila	cryptocephal	melanogaster	Dmel	crc
+FBgn0004396	FBgn0004396	CG7450	SO0001217:protein_coding_gene	Current	Drosophila	Cyclic-AMP response element binding protein A	melanogaster	Dmel	CrebA
+FBgn0265784	FBgn0265784	CG6103	SO0001217:protein_coding_gene	Current	Drosophila	Cyclic-AMP response element binding protein B	melanogaster	Dmel	CrebB
+FBgn0021738	FBgn0021738	CG32788	SO0001217:protein_coding_gene	Uncertain	Drosophila	Circadianly Regulated Gene	melanogaster	Dmel	Crg-1
+FBgn0014143	FBgn0014143	CG5069	SO0001217:protein_coding_gene	Current	Drosophila	crocodile	melanogaster	Dmel	croc
+FBgn0020309	FBgn0020309	CG14938	SO0001217:protein_coding_gene	Current	Drosophila	crooked legs	melanogaster	Dmel	crol
+FBgn0001994	FBgn0001994	CG7664	SO0001217:protein_coding_gene	Current	Drosophila	cropped	melanogaster	Dmel	crp
+FBgn0004198	FBgn0004198	CG11387	SO0001217:protein_coding_gene	Current	Drosophila	cut	melanogaster	Dmel	ct
+FBgn0035769	FBgn0035769	CG8591	SO0001217:protein_coding_gene	Current	Drosophila	CTCF	melanogaster	Dmel	CTCF
+FBgn0259938	FBgn0259938	CG17100	SO0001217:protein_coding_gene	Current	Drosophila	clockwork orange	melanogaster	Dmel	cwo
+FBgn0023094	FBgn0023094	CG8727	SO0001217:protein_coding_gene	Current	Drosophila	cycle	melanogaster	Dmel	cyc
+FBgn0000411	FBgn0000411	CG5893	SO0001217:protein_coding_gene	Current	Drosophila	Dichaete	melanogaster	Dmel	D
+FBgn0000412	FBgn0000412	CG9745	SO0001217:protein_coding_gene	Current	Drosophila	D1 chromosomal protein	melanogaster	Dmel	D1
+FBgn0022935	FBgn0022935	CG10269	SO0001217:protein_coding_gene	Current	Drosophila	D19A	melanogaster	Dmel	D19A
+FBgn0022699	FBgn0022699	CG10270	SO0001217:protein_coding_gene	Current	Drosophila	D19B	melanogaster	Dmel	D19B
+FBgn0267821	FBgn0267821	CG5102	SO0001217:protein_coding_gene	Current	Drosophila	daughterless	melanogaster	Dmel	da
+FBgn0005677	FBgn0005677	CG4952	SO0001217:protein_coding_gene	Current	Drosophila	dachshund	melanogaster	Dmel	dac
+FBgn0039286	FBgn0039286	CG11849	SO0001217:protein_coding_gene	Current	Drosophila	distal antenna	melanogaster	Dmel	dan
+FBgn0039283	FBgn0039283	CG13651	SO0001217:protein_coding_gene	Current	Drosophila	distal antenna-related	melanogaster	Dmel	danr
+FBgn0050401	FBgn0050401	CG30401	SO0001217:protein_coding_gene	Current	Drosophila	distal antenna-young	melanogaster	Dmel	dany
+FBgn0263239	FBgn0263239	CG12029	SO0001217:protein_coding_gene	Current	Drosophila	dendritic arbor reduction 1	melanogaster	Dmel	dar1
+FBgn0262636	FBgn0262636	CG2052	SO0001217:protein_coding_gene	Current	Drosophila	datilografo	melanogaster	Dmel	dati
+FBgn0067779	FBgn0067779	CG11371	SO0001217:protein_coding_gene	Current	Drosophila	debra	melanogaster	Dmel	dbr
+FBgn0261723	FBgn0261723	CG42234	SO0001217:protein_coding_gene	Current	Drosophila	Dbx	melanogaster	Dmel	Dbx
+FBgn0013799	FBgn0013799	CG8567	SO0001217:protein_coding_gene	Current	Drosophila	Deformed epidermal autoregulatory factor-1	melanogaster	Dmel	Deaf1
+FBgn0000439	FBgn0000439	CG2189	SO0001217:protein_coding_gene	Current	Drosophila	Deformed	melanogaster	Dmel	Dfd
+FBgn0011274	FBgn0011274	CG6794	SO0001217:protein_coding_gene	Current	Drosophila	Dorsal-related immunity factor	melanogaster	Dmel	Dif
+FBgn0023091	FBgn0023091	CG8667	SO0001217:protein_coding_gene	Current	Drosophila	dimmed	melanogaster	Dmel	dimm
+FBgn0000459	FBgn0000459	CG9908	SO0001217:protein_coding_gene	Current	Drosophila	disconnected	melanogaster	Dmel	disco
+FBgn0285879	FBgn0285879	CG32577	SO0001217:protein_coding_gene	Current	Drosophila	disco-related	melanogaster	Dmel	disco-r
+FBgn0260632	FBgn0260632	CG6667	SO0001217:protein_coding_gene	Current	Drosophila	dorsal	melanogaster	Dmel	dl
+FBgn0040467	FBgn0040467	CG15367	SO0001217:protein_coding_gene	Current	Drosophila	Dorsal interacting protein 1	melanogaster	Dmel	Dlip1
+FBgn0040466	FBgn0040466	CG9771	SO0001217:protein_coding_gene	Current	Drosophila	Dorsal interacting protein 2	melanogaster	Dmel	Dlip2
+FBgn0040465	FBgn0040465	CG12767	SO0001217:protein_coding_gene	Current	Drosophila	Dorsal interacting protein 3	melanogaster	Dmel	Dlip3
+FBgn0000157	FBgn0000157	CG3629	SO0001217:protein_coding_gene	Current	Drosophila	Distal-less	melanogaster	Dmel	Dll
+FBgn0030477	FBgn0030477	CG15749	SO0001217:protein_coding_gene	Current	Drosophila	doublesex-Mab related 11E	melanogaster	Dmel	dmrt11E
+FBgn0038851	FBgn0038851	CG5737	SO0001217:protein_coding_gene	Current	Drosophila	doublesex-Mab related 93B	melanogaster	Dmel	dmrt93B
+FBgn0039683	FBgn0039683	CG15504	SO0001217:protein_coding_gene	Current	Drosophila	doublesex-Mab related 99B	melanogaster	Dmel	dmrt99B
+FBgn0028789	FBgn0028789	CG5133	SO0001217:protein_coding_gene	Current	Drosophila	Dorsocross1	melanogaster	Dmel	Doc1
+FBgn0035956	FBgn0035956	CG5187	SO0001217:protein_coding_gene	Current	Drosophila	Dorsocross2	melanogaster	Dmel	Doc2
+FBgn0035954	FBgn0035954	CG5093	SO0001217:protein_coding_gene	Current	Drosophila	Dorsocross3	melanogaster	Dmel	Doc3
+FBgn0011763	FBgn0011763	CG4654	SO0001217:protein_coding_gene	Current	Drosophila	DP transcription factor	melanogaster	Dmel	Dp
+FBgn0010109	FBgn0010109	CG8704	SO0001217:protein_coding_gene	Current	Drosophila	deadpan	melanogaster	Dmel	dpn
+FBgn0000492	FBgn0000492	CG1897	SO0001217:protein_coding_gene	Current	Drosophila	Drop	melanogaster	Dmel	Dr
+FBgn0015664	FBgn0015664	CG5838	SO0001217:protein_coding_gene	Current	Drosophila	DNA replication-related element factor	melanogaster	Dmel	Dref
+FBgn0085369	FBgn0085369	CG34340	SO0001217:protein_coding_gene	Current	Drosophila	Dorsal root ganglia homeobox	melanogaster	Dmel	Drgx
+FBgn0024244	FBgn0024244	CG10016	SO0001217:protein_coding_gene	Current	Drosophila	drumstick	melanogaster	Dmel	drm
+FBgn0015381	FBgn0015381	CG9019	SO0001217:protein_coding_gene	Current	Drosophila	dissatisfaction	melanogaster	Dmel	dsf
+FBgn0278608	FBgn0278608	CG12223	SO0001217:protein_coding_gene	Current	Drosophila	Dorsal switch protein 1	melanogaster	Dmel	Dsp1
+FBgn0000504	FBgn0000504	CG11094	SO0001217:protein_coding_gene	Current	Drosophila	doublesex	melanogaster	Dmel	dsx
+FBgn0020307	FBgn0020307	CG5799	SO0001217:protein_coding_gene	Current	Drosophila	defective proventriculus	melanogaster	Dmel	dve
+FBgn0000520	FBgn0000520	CG2711	SO0001217:protein_coding_gene	Current	Drosophila	deformed wings	melanogaster	Dmel	dwg
+FBgn0039411	FBgn0039411	CG32474	SO0001217:protein_coding_gene	Current	Drosophila	dysfusion	melanogaster	Dmel	dysf
+FBgn0039201	FBgn0039201	CG13617	SO0001217:protein_coding_gene	Current	Drosophila	-	melanogaster	Dmel	DZIP1
+FBgn0011766	FBgn0011766	CG6376	SO0001217:protein_coding_gene	Current	Drosophila	E2F transcription factor 1	melanogaster	Dmel	E2f1
+FBgn0024371	FBgn0024371	CG1071	SO0001217:protein_coding_gene	Current	Drosophila	E2F transcription factor 2	melanogaster	Dmel	E2f2
+FBgn0008646	FBgn0008646	CG9930	SO0001217:protein_coding_gene	Current	Drosophila	E5	melanogaster	Dmel	E5
+FBgn0000541	FBgn0000541	CG32346	SO0001217:protein_coding_gene	Current	Drosophila	Enhancer of bithorax	melanogaster	Dmel	E(bx)
+FBgn0002609	FBgn0002609	CG8346	SO0001217:protein_coding_gene	Current	Drosophila	Enhancer of split m3, helix-loop-helix	melanogaster	Dmel	E(spl)m3-HLH
+FBgn0002631	FBgn0002631	CG6096	SO0001217:protein_coding_gene	Current	Drosophila	Enhancer of split m5, helix-loop-helix	melanogaster	Dmel	E(spl)m5-HLH
+FBgn0002633	FBgn0002633	CG8361	SO0001217:protein_coding_gene	Current	Drosophila	Enhancer of split m7, helix-loop-helix	melanogaster	Dmel	E(spl)m7-HLH
+FBgn0000591	FBgn0000591	CG8365	SO0001217:protein_coding_gene	Current	Drosophila	Enhancer of split m8, helix-loop-helix	melanogaster	Dmel	E(spl)m8-HLH
+FBgn0002733	FBgn0002733	CG14548	SO0001217:protein_coding_gene	Current	Drosophila	Enhancer of split mbeta, helix-loop-helix	melanogaster	Dmel	E(spl)mbeta-HLH
+FBgn0002735	FBgn0002735	CG8333	SO0001217:protein_coding_gene	Current	Drosophila	Enhancer of split mgamma, helix-loop-helix	melanogaster	Dmel	E(spl)mgamma-HLH
+FBgn0002734	FBgn0002734	CG8328	SO0001217:protein_coding_gene	Current	Drosophila	Enhancer of split mdelta, helix-loop-helix	melanogaster	Dmel	E(spl)mdelta-HLH
+FBgn0000546	FBgn0000546	CG1765	SO0001217:protein_coding_gene	Current	Drosophila	Ecdysone receptor	melanogaster	Dmel	EcR
+FBgn0000560	FBgn0000560	CG7383	SO0001217:protein_coding_gene	Current	Drosophila	eagle	melanogaster	Dmel	eg
+FBgn0000567	FBgn0000567	CG32180	SO0001217:protein_coding_gene	Current	Drosophila	Ecdysone-induced protein 74EF	melanogaster	Dmel	Eip74EF
+FBgn0000568	FBgn0000568	CG8127	SO0001217:protein_coding_gene	Current	Drosophila	Ecdysone-induced protein 75B	melanogaster	Dmel	Eip75B
+FBgn0004865	FBgn0004865	CG18023	SO0001217:protein_coding_gene	Current	Drosophila	Ecdysone-induced protein 78C	melanogaster	Dmel	Eip78C
+FBgn0264490	FBgn0264490	CG18389	SO0001217:protein_coding_gene	Current	Drosophila	Ecdysone-induced protein 93F	melanogaster	Dmel	Eip93F
+FBgn0004858	FBgn0004858	CG4220	SO0001217:protein_coding_gene	Current	Drosophila	elbow B	melanogaster	Dmel	elB
+FBgn0000575	FBgn0000575	CG1007	SO0001217:protein_coding_gene	Current	Drosophila	extra macrochaetae	melanogaster	Dmel	emc
+FBgn0000576	FBgn0000576	CG2988	SO0001217:protein_coding_gene	Current	Drosophila	empty spiracles	melanogaster	Dmel	ems
+FBgn0000577	FBgn0000577	CG9015	SO0001217:protein_coding_gene	Current	Drosophila	engrailed	melanogaster	Dmel	en
+FBgn0031375	FBgn0031375	CG31670	SO0001217:protein_coding_gene	Current	Drosophila	earmuff	melanogaster	Dmel	erm
+FBgn0035849	FBgn0035849	CG7404	SO0001217:protein_coding_gene	Current	Drosophila	estrogen-related receptor	melanogaster	Dmel	ERR
+FBgn0287768	FBgn0287768	CG3758	SO0001217:protein_coding_gene	Current	Drosophila	escargot	melanogaster	Dmel	esg
+FBgn0005660	FBgn0005660	CG2914	SO0001217:protein_coding_gene	Current	Drosophila	Ets at 21C	melanogaster	Dmel	Ets21C
+FBgn0005658	FBgn0005658	CG7018	SO0001217:protein_coding_gene	Current	Drosophila	Ets at 65A	melanogaster	Dmel	Ets65A
+FBgn0039225	FBgn0039225	CG6892	SO0001217:protein_coding_gene	Current	Drosophila	Ets96B	melanogaster	Dmel	Ets96B
+FBgn0004510	FBgn0004510	CG6338	SO0001217:protein_coding_gene	Current	Drosophila	Ets at 97D	melanogaster	Dmel	Ets97D
+FBgn0005659	FBgn0005659	CG5583	SO0001217:protein_coding_gene	Current	Drosophila	Ets at 98B	melanogaster	Dmel	Ets98B
+FBgn0000606	FBgn0000606	CG2328	SO0001217:protein_coding_gene	Current	Drosophila	even skipped	melanogaster	Dmel	eve
+FBgn0005427	FBgn0005427	CG3114	SO0001217:protein_coding_gene	Current	Drosophila	erect wing	melanogaster	Dmel	ewg
+FBgn0000611	FBgn0000611	CG8933	SO0001217:protein_coding_gene	Current	Drosophila	extradenticle	melanogaster	Dmel	exd
+FBgn0041156	FBgn0041156	CG8254	SO0001217:protein_coding_gene	Current	Drosophila	extra-extra	melanogaster	Dmel	exex
+FBgn0005558	FBgn0005558	CG1464	SO0001217:protein_coding_gene	Current	Drosophila	eyeless	melanogaster	Dmel	ey
+FBgn0000625	FBgn0000625	CG10488	SO0001217:protein_coding_gene	Current	Drosophila	eyegone	melanogaster	Dmel	eyg
+FBgn0264954	FBgn0264954	CG44123	SO0001217:protein_coding_gene	Current	Drosophila	forkhead domain 3F	melanogaster	Dmel	fd3F
+FBgn0031086	FBgn0031086	CG9571	SO0001217:protein_coding_gene	Current	Drosophila	forkhead domain 19B	melanogaster	Dmel	fd19B
+FBgn0004896	FBgn0004896	CG3668	SO0001217:protein_coding_gene	Current	Drosophila	forkhead domain 59A	melanogaster	Dmel	fd59A
+FBgn0004897	FBgn0004897	CG11921	SO0001217:protein_coding_gene	Current	Drosophila	forkhead domain 96Ca	melanogaster	Dmel	fd96Ca
+FBgn0004898	FBgn0004898	CG11922	SO0001217:protein_coding_gene	Current	Drosophila	forkhead domain 96Cb	melanogaster	Dmel	fd96Cb
+FBgn0039937	FBgn0039937	CG11152	SO0001217:protein_coding_gene	Current	Drosophila	forkhead domain 102C	melanogaster	Dmel	fd102C
+FBgn0037475	FBgn0037475	CG33323	SO0001217:protein_coding_gene	Current	Drosophila	48 related 1	melanogaster	Dmel	Fer1
+FBgn0038402	FBgn0038402	CG5952	SO0001217:protein_coding_gene	Current	Drosophila	48 related 2	melanogaster	Dmel	Fer2
+FBgn0037937	FBgn0037937	CG6913	SO0001217:protein_coding_gene	Current	Drosophila	48 related 3	melanogaster	Dmel	Fer3
+FBgn0000659	FBgn0000659	CG10002	SO0001217:protein_coding_gene	Current	Drosophila	fork head	melanogaster	Dmel	fkh
+FBgn0036134	FBgn0036134	CG11799	SO0001217:protein_coding_gene	Current	Drosophila	Forkhead box K	melanogaster	Dmel	FoxK
+FBgn0004895	FBgn0004895	CG1132	SO0001217:protein_coding_gene	Current	Drosophila	Forkhead box L1	melanogaster	Dmel	FoxL1
+FBgn0038197	FBgn0038197	CG3143	SO0001217:protein_coding_gene	Current	Drosophila	forkhead box, sub-group O	melanogaster	Dmel	foxo
+FBgn0262477	FBgn0262477	CG43067	SO0001217:protein_coding_gene	Current	Drosophila	Forkhead box P	melanogaster	Dmel	FoxP
+FBgn0004652	FBgn0004652	CG14307	SO0001217:protein_coding_gene	Current	Drosophila	fruitless	melanogaster	Dmel	fru
+FBgn0004656	FBgn0004656	CG2252	SO0001217:protein_coding_gene	Current	Drosophila	female sterile (1) homeotic	melanogaster	Dmel	fs(1)h
+FBgn0001077	FBgn0001077	CG2047	SO0001217:protein_coding_gene	Current	Drosophila	fushi tarazu	melanogaster	Dmel	ftz
+FBgn0001078	FBgn0001078	CG4059	SO0001217:protein_coding_gene	Current	Drosophila	ftz transcription factor 1	melanogaster	Dmel	ftz-f1
+FBgn0039932	FBgn0039932	CG11093	SO0001217:protein_coding_gene	Current	Drosophila	fussel	melanogaster	Dmel	fuss
+FBgn0032223	FBgn0032223	CG5034	SO0001217:protein_coding_gene	Current	Drosophila	GATAd	melanogaster	Dmel	GATAd
+FBgn0038391	FBgn0038391	CG10278	SO0001217:protein_coding_gene	Current	Drosophila	GATAe	melanogaster	Dmel	GATAe
+FBgn0261703	FBgn0261703	CG42739	SO0001217:protein_coding_gene	Current	Drosophila	germ cell-expressed bHLH-PAS	melanogaster	Dmel	gce
+FBgn0014179	FBgn0014179	CG12245	SO0001217:protein_coding_gene	Current	Drosophila	glial cells missing	melanogaster	Dmel	gcm
+FBgn0019809	FBgn0019809	CG3858	SO0001217:protein_coding_gene	Current	Drosophila	gcm2	melanogaster	Dmel	gcm2
+FBgn0050011	FBgn0050011	CG30011	SO0001217:protein_coding_gene	Current	Drosophila	gemini	melanogaster	Dmel	gem
+FBgn0004618	FBgn0004618	CG7672	SO0001217:protein_coding_gene	Current	Drosophila	glass	melanogaster	Dmel	gl
+FBgn0267336	FBgn0267336	CG34360	SO0001217:protein_coding_gene	Current	Drosophila	Glucose transporter 4 enhancer factor	melanogaster	Dmel	Glut4EF
+FBgn0001133	FBgn0001133	CG33133	SO0001217:protein_coding_gene	Current	Drosophila	grauzone	melanogaster	Dmel	grau
+FBgn0259211	FBgn0259211	CG42311	SO0001217:protein_coding_gene	Current	Drosophila	grainy head	melanogaster	Dmel	grh
+FBgn0001138	FBgn0001138	CG9656	SO0001217:protein_coding_gene	Current	Drosophila	grain	melanogaster	Dmel	grn
+FBgn0001148	FBgn0001148	CG3388	SO0001217:protein_coding_gene	Current	Drosophila	gooseberry	melanogaster	Dmel	gsb
+FBgn0001147	FBgn0001147	CG2692	SO0001217:protein_coding_gene	Current	Drosophila	gooseberry-neuro	melanogaster	Dmel	gsb-n
+FBgn0010323	FBgn0010323	CG2851	SO0001217:protein_coding_gene	Current	Drosophila	Goosecoid	melanogaster	Dmel	Gsc
+FBgn0001150	FBgn0001150	CG7952	SO0001217:protein_coding_gene	Current	Drosophila	giant	melanogaster	Dmel	gt
+FBgn0001168	FBgn0001168	CG6494	SO0001217:protein_coding_gene	Current	Drosophila	hairy	melanogaster	Dmel	h
+FBgn0001170	FBgn0001170	CG11607	SO0001217:protein_coding_gene	Current	Drosophila	Homeodomain protein 2.0	melanogaster	Dmel	H2.0
+FBgn0016660	FBgn0016660	CG6604	SO0001217:protein_coding_gene	Current	Drosophila	H15	melanogaster	Dmel	H15
+FBgn0045852	FBgn0045852	CG31753	SO0001217:protein_coding_gene	Current	Drosophila	hamlet	melanogaster	Dmel	ham
+FBgn0032209	FBgn0032209	CG18144	SO0001217:protein_coding_gene	Current	Drosophila	Hand	melanogaster	Dmel	Hand
+FBgn0026575	FBgn0026575	CG32575	SO0001217:protein_coding_gene	Current	Drosophila	hangover	melanogaster	Dmel	hang
+FBgn0001180	FBgn0001180	CG9786	SO0001217:protein_coding_gene	Current	Drosophila	hunchback	melanogaster	Dmel	hb
+FBgn0008636	FBgn0008636	CG33152	SO0001217:protein_coding_gene	Current	Drosophila	homeobrain	melanogaster	Dmel	hbn
+FBgn0001185	FBgn0001185	CG4694	SO0001217:protein_coding_gene	Current	Drosophila	hermaphrodite	melanogaster	Dmel	her
+FBgn0030899	FBgn0030899	CG5927	SO0001217:protein_coding_gene	Current	Drosophila	HES-related	melanogaster	Dmel	Hesr
+FBgn0027788	FBgn0027788	CG11194	SO0001217:protein_coding_gene	Current	Drosophila	Hairy/E(spl)-related with YRPW motif	melanogaster	Dmel	Hey
+FBgn0040318	FBgn0040318	CG13475	SO0001217:protein_coding_gene	Current	Drosophila	HGTX	melanogaster	Dmel	HGTX
+FBgn0038852	FBgn0038852	CG7056	SO0001217:protein_coding_gene	Current	Drosophila	Hematopoietically expressed homeobox	melanogaster	Dmel	HHEX
+FBgn0025635	FBgn0025635	CG17829	SO0001217:protein_coding_gene	Current	Drosophila	Histone H4 transcription factor	melanogaster	Dmel	Hinfp
+FBgn0261434	FBgn0261434	CG9768	SO0001217:protein_coding_gene	Current	Drosophila	huckebein	melanogaster	Dmel	hkb
+FBgn0011276	FBgn0011276	CG2655	SO0001217:protein_coding_gene	Current	Drosophila	Helix loop helix protein 3B	melanogaster	Dmel	HLH3B
+FBgn0011277	FBgn0011277	CG3052	SO0001217:protein_coding_gene	Current	Drosophila	Helix loop helix protein 4C	melanogaster	Dmel	HLH4C
+FBgn0022740	FBgn0022740	CG5005	SO0001217:protein_coding_gene	Current	Drosophila	HLH54F	melanogaster	Dmel	HLH54F
+FBgn0026582	FBgn0026582	CG9418	SO0001217:protein_coding_gene	Current	Drosophila	High mobility group protein 2	melanogaster	Dmel	Hmg-2
+FBgn0004362	FBgn0004362	CG17950	SO0001217:protein_coding_gene	Current	Drosophila	High mobility group protein D	melanogaster	Dmel	HmgD
+FBgn0010228	FBgn0010228	CG17921	SO0001217:protein_coding_gene	Current	Drosophila	HMG protein Z	melanogaster	Dmel	HmgZ
+FBgn0264005	FBgn0264005	CG43748	SO0001217:protein_coding_gene	Current	Drosophila	H6-like-homeobox	melanogaster	Dmel	Hmx
+FBgn0004914	FBgn0004914	CG9310	SO0001217:protein_coding_gene	Current	Drosophila	Hepatocyte nuclear factor 4	melanogaster	Dmel	Hnf4
+FBgn0000448	FBgn0000448	CG33183	SO0001217:protein_coding_gene	Current	Drosophila	Hormone receptor 3	melanogaster	Dmel	Hr3
+FBgn0264562	FBgn0264562	CG43934	SO0001217:protein_coding_gene	Current	Drosophila	Hormone receptor 4	melanogaster	Dmel	Hr4
+FBgn0014859	FBgn0014859	CG1864	SO0001217:protein_coding_gene	Current	Drosophila	Hormone receptor-like in 38	melanogaster	Dmel	Hr38
+FBgn0261239	FBgn0261239	CG8676	SO0001217:protein_coding_gene	Current	Drosophila	Hormone receptor-like in 39	melanogaster	Dmel	Hr39
+FBgn0034012	FBgn0034012	CG16801	SO0001217:protein_coding_gene	Current	Drosophila	Hormone receptor 51	melanogaster	Dmel	Hr51
+FBgn0015239	FBgn0015239	CG7199	SO0001217:protein_coding_gene	Current	Drosophila	Hormone-receptor-like in 78	melanogaster	Dmel	Hr78
+FBgn0037436	FBgn0037436	CG10296	SO0001217:protein_coding_gene	Current	Drosophila	Hormone receptor 83	melanogaster	Dmel	Hr83
+FBgn0015240	FBgn0015240	CG11783	SO0001217:protein_coding_gene	Current	Drosophila	Hormone receptor-like in 96	melanogaster	Dmel	Hr96
+FBgn0001222	FBgn0001222	CG5748	SO0001217:protein_coding_gene	Current	Drosophila	Heat shock factor	melanogaster	Dmel	Hsf
+FBgn0001235	FBgn0001235	CG17117	SO0001217:protein_coding_gene	Current	Drosophila	homothorax	melanogaster	Dmel	hth
+FBgn0286204	FBgn0286204	CG11966	SO0001217:protein_coding_gene	Current	Drosophila	ichor	melanogaster	Dmel	ich
+FBgn0025776	FBgn0025776	CG11551	SO0001217:protein_coding_gene	Current	Drosophila	intermediate neuroblasts defective	melanogaster	Dmel	ind
+FBgn0031434	FBgn0031434	CG3227	SO0001217:protein_coding_gene	Current	Drosophila	insensitive	melanogaster	Dmel	insv
+FBgn0001269	FBgn0001269	CG17835	SO0001217:protein_coding_gene	Current	Drosophila	invected	melanogaster	Dmel	inv
+FBgn0036126	FBgn0036126	CG6272	SO0001217:protein_coding_gene	Current	Drosophila	Inverted repeat binding protein 18 kDa	melanogaster	Dmel	Irbp18
+FBgn0027339	FBgn0027339	CG11352	SO0001217:protein_coding_gene	Current	Drosophila	jim	melanogaster	Dmel	jim
+FBgn0086655	FBgn0086655	CG9397	SO0001217:protein_coding_gene	Current	Drosophila	jing	melanogaster	Dmel	jing
+FBgn0001291	FBgn0001291	CG2275	SO0001217:protein_coding_gene	Current	Drosophila	Jun-related antigen	melanogaster	Dmel	Jra
+FBgn0015396	FBgn0015396	CG4029	SO0001217:protein_coding_gene	Current	Drosophila	jumeau	melanogaster	Dmel	jumu
+FBgn0035144	FBgn0035144	CG17181	SO0001217:protein_coding_gene	Current	Drosophila	Kahuli	melanogaster	Dmel	Kah
+FBgn0001297	FBgn0001297	CG33956	SO0001217:protein_coding_gene	Current	Drosophila	kayak	melanogaster	Dmel	kay
+FBgn0011236	FBgn0011236	CG5575	SO0001217:protein_coding_gene	Current	Drosophila	ken and barbie	melanogaster	Dmel	ken
+FBgn0025679	FBgn0025679	CG2932	SO0001217:protein_coding_gene	Current	Drosophila	Kruppel-like factor 15	melanogaster	Dmel	Klf15
+FBgn0013469	FBgn0013469	CG12296	SO0001217:protein_coding_gene	Current	Drosophila	klumpfuss	melanogaster	Dmel	klu
+FBgn0032473	FBgn0032473	CG5204	SO0001217:protein_coding_gene	Current	Drosophila	kumgang	melanogaster	Dmel	kmg
+FBgn0001319	FBgn0001319	CG10197	SO0001217:protein_coding_gene	Current	Drosophila	knot	melanogaster	Dmel	kn
+FBgn0001320	FBgn0001320	CG4717	SO0001217:protein_coding_gene	Current	Drosophila	knirps	melanogaster	Dmel	kni
+FBgn0001323	FBgn0001323	CG4761	SO0001217:protein_coding_gene	Current	Drosophila	knirps-like	melanogaster	Dmel	knrl
+FBgn0001325	FBgn0001325	CG3340	SO0001217:protein_coding_gene	Current	Drosophila	Kruppel	melanogaster	Dmel	Kr
+FBgn0266450	FBgn0266450	CG45074	SO0001217:protein_coding_gene	Current	Drosophila	Kruppel homolog 1	melanogaster	Dmel	Kr-h1
+FBgn0288433	FBgn0288433	CG42702	SO0001217:protein_coding_gene	Current	Drosophila	Lobe	melanogaster	Dmel	L
+FBgn0002561	FBgn0002561	CG3839	SO0001217:protein_coding_gene	Current	Drosophila	lethal of scute	melanogaster	Dmel	l(1)sc
+FBgn0265276	FBgn0265276	CG6930	SO0001217:protein_coding_gene	Current	Drosophila	lethal (3) neo38	melanogaster	Dmel	l(3)neo38
+FBgn0002522	FBgn0002522	CG1264	SO0001217:protein_coding_gene	Current	Drosophila	labial	melanogaster	Dmel	lab
+FBgn0011278	FBgn0011278	CG6545	SO0001217:protein_coding_gene	Current	Drosophila	ladybird early	melanogaster	Dmel	lbe
+FBgn0008651	FBgn0008651	CG6570	SO0001217:protein_coding_gene	Current	Drosophila	ladybird late	melanogaster	Dmel	lbl
+FBgn0041111	FBgn0041111	CG8817	SO0001217:protein_coding_gene	Current	Drosophila	lilliputian	melanogaster	Dmel	lilli
+FBgn0026411	FBgn0026411	CG11354	SO0001217:protein_coding_gene	Current	Drosophila	LIM homeobox 1	melanogaster	Dmel	Lim1
+FBgn0002023	FBgn0002023	CG10699	SO0001217:protein_coding_gene	Current	Drosophila	Lim3	melanogaster	Dmel	Lim3
+FBgn0033458	FBgn0033458	CG18446	SO0001217:protein_coding_gene	Current	Drosophila	Linking immunity and metabolism	melanogaster	Dmel	Lime
+FBgn0039039	FBgn0039039	CG4677	SO0001217:protein_coding_gene	Current	Drosophila	lame duck	melanogaster	Dmel	lmd
+FBgn0034520	FBgn0034520	CG13424	SO0001217:protein_coding_gene	Current	Drosophila	lateral muscles scarcer	melanogaster	Dmel	lms
+FBgn0052105	FBgn0052105	CG32105	SO0001217:protein_coding_gene	Current	Drosophila	LIM homeobox transcription factor 1 alpha	melanogaster	Dmel	Lmx1a
+FBgn0283521	FBgn0283521	CG12052	SO0001217:protein_coding_gene	Current	Drosophila	longitudinals lacking	melanogaster	Dmel	lola
+FBgn0266129	FBgn0266129	CG16778	SO0001217:protein_coding_gene	Current	Drosophila	jim lovell	melanogaster	Dmel	lov
+FBgn0263667	FBgn0263667	CG5591	SO0001217:protein_coding_gene	Current	Drosophila	Lost PHDs of trr	melanogaster	Dmel	Lpt
+FBgn0040765	FBgn0040765	CG33473	SO0001217:protein_coding_gene	Current	Drosophila	luna	melanogaster	Dmel	luna
+FBgn0002576	FBgn0002576	CG1689	SO0001217:protein_coding_gene	Current	Drosophila	lozenge	melanogaster	Dmel	lz
+FBgn0037621	FBgn0037621	CG9797	SO0001217:protein_coding_gene	Current	Drosophila	Motif 1 Binding Protein	melanogaster	Dmel	M1BP
+FBgn0032493	FBgn0032493	CG15479	SO0001217:protein_coding_gene	Current	Drosophila	Mabiki	melanogaster	Dmel	Mabi
+FBgn0011648	FBgn0011648	CG12399	SO0001217:protein_coding_gene	Current	Drosophila	Mothers against dpp	melanogaster	Dmel	Mad
+FBgn0034534	FBgn0034534	CG9954	SO0001217:protein_coding_gene	Current	Drosophila	maf-S	melanogaster	Dmel	maf-S
+FBgn0267033	FBgn0267033	CG45477	SO0001217:protein_coding_gene	Current	Drosophila	maternal gene required for meiosis	melanogaster	Dmel	mamo
+FBgn0017578	FBgn0017578	CG9648	SO0001217:protein_coding_gene	Current	Drosophila	Max	melanogaster	Dmel	Max
+FBgn0038016	FBgn0038016	CG10042	SO0001217:protein_coding_gene	Current	Drosophila	MBD-R2	melanogaster	Dmel	MBD-R2
+FBgn0288966	FBgn0288966	CG1775	SO0001217:protein_coding_gene	Current	Drosophila	Medea	melanogaster	Dmel	Med
+FBgn0011656	FBgn0011656	CG1429	SO0001217:protein_coding_gene	Current	Drosophila	Myocyte enhancer factor 2	melanogaster	Dmel	Mef2
+FBgn0025874	FBgn0025874	CG8474	SO0001217:protein_coding_gene	Current	Drosophila	Meiotic central spindle	melanogaster	Dmel	Meics
+FBgn0034240	FBgn0034240	CG4903	SO0001217:protein_coding_gene	Current	Drosophila	Misexpression suppressor of ras 4	melanogaster	Dmel	MESR4
+FBgn0002723	FBgn0002723	CG1705	SO0001217:protein_coding_gene	Current	Drosophila	Methoprene-tolerant	melanogaster	Dmel	Met
+FBgn0261963	FBgn0261963	CG6634	SO0001217:protein_coding_gene	Current	Drosophila	midline	melanogaster	Dmel	mid
+FBgn0014343	FBgn0014343	CG10601	SO0001217:protein_coding_gene	Current	Drosophila	mirror	melanogaster	Dmel	mirr
+FBgn0263112	FBgn0263112	CG43369	SO0001217:protein_coding_gene	Current	Drosophila	Mitf	melanogaster	Dmel	Mitf
+FBgn0263490	FBgn0263490	CG34100	SO0001217:protein_coding_gene	Current	Drosophila	molting defective	melanogaster	Dmel	mld
+FBgn0023215	FBgn0023215	CG13316	SO0001217:protein_coding_gene	Current	Drosophila	Mnt	melanogaster	Dmel	Mnt
+FBgn0032940	FBgn0032940	CG18362	SO0001217:protein_coding_gene	Current	Drosophila	Mondo	melanogaster	Dmel	Mondo
+FBgn0052296	FBgn0052296	CG32296	SO0001217:protein_coding_gene	Current	Drosophila	Myocardin-related transcription factor	melanogaster	Dmel	Mrtf
+FBgn0027951	FBgn0027951	CG2244	SO0001217:protein_coding_gene	Current	Drosophila	Metastasis associated 1-like	melanogaster	Dmel	MTA1-like
+FBgn0040305	FBgn0040305	CG3743	SO0001217:protein_coding_gene	Current	Drosophila	Metal response element-binding Transcription Factor-1	melanogaster	Dmel	MTF-1
+FBgn0002914	FBgn0002914	CG9045	SO0001217:protein_coding_gene	Current	Drosophila	Myb oncogene-like	melanogaster	Dmel	Myb
+FBgn0262656	FBgn0262656	CG10798	SO0001217:protein_coding_gene	Current	Drosophila	Myc	melanogaster	Dmel	Myc
+FBgn0002922	FBgn0002922	CG10250	SO0001217:protein_coding_gene	Current	Drosophila	nautilus	melanogaster	Dmel	nau
+FBgn0034650	FBgn0034650	CG10318	SO0001217:protein_coding_gene	Current	Drosophila	Negative Cofactor 2alpha	melanogaster	Dmel	NC2alpha
+FBgn0028926	FBgn0028926	CG4185	SO0001217:protein_coding_gene	Current	Drosophila	Negative Cofactor 2beta	melanogaster	Dmel	NC2beta
+FBgn0028999	FBgn0028999	CG13906	SO0001217:protein_coding_gene	Current	Drosophila	nervous fingers 1	melanogaster	Dmel	nerfin-1
+FBgn0041105	FBgn0041105	CG12809	SO0001217:protein_coding_gene	Current	Drosophila	nervous fingers 2	melanogaster	Dmel	nerfin-2
+FBgn0002931	FBgn0002931	CG11450	SO0001217:protein_coding_gene	Current	Drosophila	net	melanogaster	Dmel	net
+FBgn0037085	FBgn0037085	CG7204	SO0001217:protein_coding_gene	Current	Drosophila	Neuroectoderm-expressed 2	melanogaster	Dmel	Neu2
+FBgn0030505	FBgn0030505	CG11172	SO0001217:protein_coding_gene	Current	Drosophila	NFAT nuclear factor	melanogaster	Dmel	NFAT
+FBgn0042696	FBgn0042696	CG2380	SO0001217:protein_coding_gene	Current	Drosophila	Nuclear factor I	melanogaster	Dmel	NfI
+FBgn0035993	FBgn0035993	CG3891	SO0001217:protein_coding_gene	Current	Drosophila	Nuclear factor Y-box A	melanogaster	Dmel	Nf-YA
+FBgn0032816	FBgn0032816	CG10447	SO0001217:protein_coding_gene	Current	Drosophila	Nuclear factor Y-box B	melanogaster	Dmel	Nf-YB
+FBgn0029905	FBgn0029905	CG3075	SO0001217:protein_coding_gene	Current	Drosophila	Nuclear factor Y-box C	melanogaster	Dmel	Nf-YC
+FBgn0024321	FBgn0024321	CG8524	SO0001217:protein_coding_gene	Current	Drosophila	NK7.1	melanogaster	Dmel	NK7.1
+FBgn0038549	FBgn0038549	CG17802	SO0001217:protein_coding_gene	Current	Drosophila	Nicknack	melanogaster	Dmel	Nnk
+FBgn0005771	FBgn0005771	CG4491	SO0001217:protein_coding_gene	Current	Drosophila	no ocelli	melanogaster	Dmel	noc
+FBgn0037617	FBgn0037617	CG8145	SO0001217:protein_coding_gene	Current	Drosophila	numerous disordered muscles	melanogaster	Dmel	nom
+FBgn0085424	FBgn0085424	CG34395	SO0001217:protein_coding_gene	Current	Drosophila	nubbin	melanogaster	Dmel	nub
+FBgn0004102	FBgn0004102	CG12154	SO0001217:protein_coding_gene	Current	Drosophila	ocelliless	melanogaster	Dmel	oc
+FBgn0002985	FBgn0002985	CG3851	SO0001217:protein_coding_gene	Current	Drosophila	odd skipped	melanogaster	Dmel	odd
+FBgn0038551	FBgn0038551	CG7357	SO0001217:protein_coding_gene	Current	Drosophila	Oddjob	melanogaster	Dmel	Odj
+FBgn0026058	FBgn0026058	CG6352	SO0001217:protein_coding_gene	Current	Drosophila	Ods-site homeobox	melanogaster	Dmel	OdsH
+FBgn0032651	FBgn0032651	CG5545	SO0001217:protein_coding_gene	Current	Drosophila	Olig family	melanogaster	Dmel	Oli
+FBgn0028996	FBgn0028996	CG1922	SO0001217:protein_coding_gene	Current	Drosophila	onecut	melanogaster	Dmel	onecut
+FBgn0003002	FBgn0003002	CG1133	SO0001217:protein_coding_gene	Current	Drosophila	odd paired	melanogaster	Dmel	opa
+FBgn0050443	FBgn0050443	CG30443	SO0001217:protein_coding_gene	Current	Drosophila	Optix-binding protein	melanogaster	Dmel	Opbp
+FBgn0025360	FBgn0025360	CG18455	SO0001217:protein_coding_gene	Current	Drosophila	Optix	melanogaster	Dmel	Optix
+FBgn0021767	FBgn0021767	CG11202	SO0001217:protein_coding_gene	Current	Drosophila	optomotor-blind-related-gene-1	melanogaster	Dmel	org-1
+FBgn0015524	FBgn0015524	CG10036	SO0001217:protein_coding_gene	Current	Drosophila	orthopedia	melanogaster	Dmel	otp
+FBgn0037618	FBgn0037618	CG11762	SO0001217:protein_coding_gene	Current	Drosophila	ouija board	melanogaster	Dmel	ouib
+FBgn0003028	FBgn0003028	CG6824	SO0001217:protein_coding_gene	Current	Drosophila	ovo	melanogaster	Dmel	ovo
+FBgn0039044	FBgn0039044	CG33336	SO0001217:protein_coding_gene	Current	Drosophila	p53	melanogaster	Dmel	p53
+FBgn0038418	FBgn0038418	CG10309	SO0001217:protein_coding_gene	Current	Drosophila	poils au dos	melanogaster	Dmel	pad
+FBgn0085432	FBgn0085432	CG34403	SO0001217:protein_coding_gene	Current	Drosophila	pangolin	melanogaster	Dmel	pan
+FBgn0031610	FBgn0031610	CG15436	SO0001217:protein_coding_gene	Current	Drosophila	Parkin Interacting Substrate	melanogaster	Dmel	Paris
+FBgn0051481	FBgn0051481	CG31481	SO0001217:protein_coding_gene	Current	Drosophila	proboscipedia	melanogaster	Dmel	pb
+FBgn0037540	FBgn0037540	CG2702	SO0001217:protein_coding_gene	Current	Drosophila	PSEA-binding protein 95kD	melanogaster	Dmel	Pbp95
+FBgn0004394	FBgn0004394	CG12287	SO0001217:protein_coding_gene	Current	Drosophila	POU domain protein 2	melanogaster	Dmel	pdm2
+FBgn0261588	FBgn0261588	CG42698	SO0001217:protein_coding_gene	Current	Drosophila	pou domain motif 3	melanogaster	Dmel	pdm3
+FBgn0016694	FBgn0016694	CG17888	SO0001217:protein_coding_gene	Current	Drosophila	PAR-domain protein 1	melanogaster	Dmel	Pdp1
+FBgn0003053	FBgn0003053	CG12212	SO0001217:protein_coding_gene	Current	Drosophila	pebbled	melanogaster	Dmel	peb
+FBgn0025334	FBgn0025334	CG11182	SO0001217:protein_coding_gene	Current	Drosophila	Putative homeodomain protein	melanogaster	Dmel	PHDP
+FBgn0002521	FBgn0002521	CG17743	SO0001217:protein_coding_gene	Current	Drosophila	pleiohomeotic	melanogaster	Dmel	pho
+FBgn0035997	FBgn0035997	CG3445	SO0001217:protein_coding_gene	Current	Drosophila	pleiohomeotic like	melanogaster	Dmel	phol
+FBgn0036522	FBgn0036522	CG7372	SO0001217:protein_coding_gene	Current	Drosophila	Phaser	melanogaster	Dmel	Phs
+FBgn0034878	FBgn0034878	CG3941	SO0001217:protein_coding_gene	Current	Drosophila	pita	melanogaster	Dmel	pita
+FBgn0032401	FBgn0032401	CG6792	SO0001217:protein_coding_gene	Current	Drosophila	Promyelocytic leukemia zinc finger	melanogaster	Dmel	Plzf
+FBgn0003117	FBgn0003117	CG3978	SO0001217:protein_coding_gene	Current	Drosophila	pannier	melanogaster	Dmel	pnr
+FBgn0003118	FBgn0003118	CG17077	SO0001217:protein_coding_gene	Current	Drosophila	pointed	melanogaster	Dmel	pnt
+FBgn0039227	FBgn0039227	CG11375	SO0001217:protein_coding_gene	Current	Drosophila	polybromo	melanogaster	Dmel	polybromo
+FBgn0003129	FBgn0003129	CG9610	SO0001217:protein_coding_gene	Current	Drosophila	Pox meso	melanogaster	Dmel	Poxm
+FBgn0003130	FBgn0003130	CG8246	SO0001217:protein_coding_gene	Current	Drosophila	Pox neuro	melanogaster	Dmel	Poxn
+FBgn0023489	FBgn0023489	CG2819	SO0001217:protein_coding_gene	Current	Drosophila	PvuII-PstI homology 13	melanogaster	Dmel	Pph13
+FBgn0003145	FBgn0003145	CG6716	SO0001217:protein_coding_gene	Current	Drosophila	paired	melanogaster	Dmel	prd
+FBgn0035687	FBgn0035687	CG13296	SO0001217:protein_coding_gene	Current	Drosophila	PR/SET domain 13	melanogaster	Dmel	Prdm13
+FBgn0285971	FBgn0285971	CG9233	SO0001217:protein_coding_gene	Current	Drosophila	piragua	melanogaster	Dmel	prg
+FBgn0004595	FBgn0004595	CG17228	SO0001217:protein_coding_gene	Current	Drosophila	prospero	melanogaster	Dmel	pros
+FBgn0263102	FBgn0263102	CG2368	SO0001217:protein_coding_gene	Current	Drosophila	pipsqueak	melanogaster	Dmel	psq
+FBgn0020912	FBgn0020912	CG1447	SO0001217:protein_coding_gene	Current	Drosophila	Ptx1	melanogaster	Dmel	Ptx1
+FBgn0259785	FBgn0259785	CG7752	SO0001217:protein_coding_gene	Current	Drosophila	putzig	melanogaster	Dmel	pzg
+FBgn0037620	FBgn0037620	CG9793	SO0001217:protein_coding_gene	Current	Drosophila	ranshi	melanogaster	Dmel	ranshi
+FBgn0014018	FBgn0014018	CG11992	SO0001217:protein_coding_gene	Current	Drosophila	Relish	melanogaster	Dmel	Rel
+FBgn0011701	FBgn0011701	CG31240	SO0001217:protein_coding_gene	Current	Drosophila	reversed polarity	melanogaster	Dmel	repo
+FBgn0039209	FBgn0039209	CG13624	SO0001217:protein_coding_gene	Current	Drosophila	Repressed by TOR	melanogaster	Dmel	REPTOR
+FBgn0032202	FBgn0032202	CG18619	SO0001217:protein_coding_gene	Current	Drosophila	REPTOR-binding partner	melanogaster	Dmel	REPTOR-BP
+FBgn0004795	FBgn0004795	CG5403	SO0001217:protein_coding_gene	Current	Drosophila	retained	melanogaster	Dmel	retn
+FBgn0020379	FBgn0020379	CG6312	SO0001217:protein_coding_gene	Current	Drosophila	Rfx	melanogaster	Dmel	Rfx
+FBgn0267792	FBgn0267792	CG8643	SO0001217:protein_coding_gene	Current	Drosophila	regular	melanogaster	Dmel	rgr
+FBgn0003254	FBgn0003254	CG7230	SO0001217:protein_coding_gene	Current	Drosophila	ribbon	melanogaster	Dmel	rib
+FBgn0267337	FBgn0267337	CG42277	SO0001217:protein_coding_gene	Current	Drosophila	rotund	melanogaster	Dmel	rn
+FBgn0003267	FBgn0003267	CG6348	SO0001217:protein_coding_gene	Current	Drosophila	rough	melanogaster	Dmel	ro
+FBgn0033998	FBgn0033998	CG8092	SO0001217:protein_coding_gene	Current	Drosophila	relative of woc	melanogaster	Dmel	row
+FBgn0003300	FBgn0003300	CG1849	SO0001217:protein_coding_gene	Current	Drosophila	runt	melanogaster	Dmel	run
+FBgn0083981	FBgn0083981	CG34145	SO0001217:protein_coding_gene	Current	Drosophila	Runt related A	melanogaster	Dmel	RunxA
+FBgn0259162	FBgn0259162	CG42267	SO0001217:protein_coding_gene	Current	Drosophila	Runt related B	melanogaster	Dmel	RunxB
+FBgn0020617	FBgn0020617	CG10052	SO0001217:protein_coding_gene	Current	Drosophila	Retinal Homeobox	melanogaster	Dmel	Rx
+FBgn0037672	FBgn0037672	CG12952	SO0001217:protein_coding_gene	Current	Drosophila	salivary gland-expressed bHLH	melanogaster	Dmel	sage
+FBgn0261648	FBgn0261648	CG6464	SO0001217:protein_coding_gene	Current	Drosophila	spalt major	melanogaster	Dmel	salm
+FBgn0000287	FBgn0000287	CG4881	SO0001217:protein_coding_gene	Current	Drosophila	spalt-related	melanogaster	Dmel	salr
+FBgn0004170	FBgn0004170	CG3827	SO0001217:protein_coding_gene	Current	Drosophila	scute	melanogaster	Dmel	sc
+FBgn0003339	FBgn0003339	CG1030	SO0001217:protein_coding_gene	Current	Drosophila	Sex combs reduced	melanogaster	Dmel	Scr
+FBgn0287186	FBgn0287186	CG17594	SO0001217:protein_coding_gene	Current	Drosophila	scarecrow	melanogaster	Dmel	scro
+FBgn0004880	FBgn0004880	CG1130	SO0001217:protein_coding_gene	Current	Drosophila	scratch	melanogaster	Dmel	scrt
+FBgn0003345	FBgn0003345	CG8544	SO0001217:protein_coding_gene	Current	Drosophila	scalloped	melanogaster	Dmel	sd
+FBgn0002573	FBgn0002573	CG32120	SO0001217:protein_coding_gene	Current	Drosophila	senseless	melanogaster	Dmel	sens
+FBgn0051632	FBgn0051632	CG31632	SO0001217:protein_coding_gene	Current	Drosophila	senseless-2	melanogaster	Dmel	sens-2
+FBgn0028991	FBgn0028991	CG32904	SO0001217:protein_coding_gene	Current	Drosophila	sequoia	melanogaster	Dmel	seq
+FBgn0003396	FBgn0003396	CG7734	SO0001217:protein_coding_gene	Current	Drosophila	schnurri	melanogaster	Dmel	shn
+FBgn0032741	FBgn0032741	CG10446	SO0001217:protein_coding_gene	Current	Drosophila	similar to Deadpan	melanogaster	Dmel	Sidpn
+FBgn0004666	FBgn0004666	CG7771	SO0001217:protein_coding_gene	Current	Drosophila	single-minded	melanogaster	Dmel	sim
+FBgn0266411	FBgn0266411	CG45051	SO0001217:protein_coding_gene	Current	Drosophila	similar	melanogaster	Dmel	sima
+FBgn0003411	FBgn0003411	CG1641	SO0001217:protein_coding_gene	Current	Drosophila	sisterless A	melanogaster	Dmel	sisA
+FBgn0027364	FBgn0027364	CG3871	SO0001217:protein_coding_gene	Current	Drosophila	Six4	melanogaster	Dmel	Six4
+FBgn0005638	FBgn0005638	CG4354	SO0001217:protein_coding_gene	Current	Drosophila	slow border cells	melanogaster	Dmel	slbo
+FBgn0002941	FBgn0002941	CG6534	SO0001217:protein_coding_gene	Current	Drosophila	slouch	melanogaster	Dmel	slou
+FBgn0003430	FBgn0003430	CG16738	SO0001217:protein_coding_gene	Current	Drosophila	sloppy paired 1	melanogaster	Dmel	slp1
+FBgn0004567	FBgn0004567	CG2939	SO0001217:protein_coding_gene	Current	Drosophila	sloppy paired 2	melanogaster	Dmel	slp2
+FBgn0025800	FBgn0025800	CG2262	SO0001217:protein_coding_gene	Current	Drosophila	Smad on X	melanogaster	Dmel	Smox
+FBgn0003448	FBgn0003448	CG3956	SO0001217:protein_coding_gene	Current	Drosophila	snail	melanogaster	Dmel	sna
+FBgn0085450	FBgn0085450	CG34421	SO0001217:protein_coding_gene	Current	Drosophila	Sno oncogene	melanogaster	Dmel	Snoo
+FBgn0003460	FBgn0003460	CG11121	SO0001217:protein_coding_gene	Current	Drosophila	sine oculis	melanogaster	Dmel	so
+FBgn0004892	FBgn0004892	CG3242	SO0001217:protein_coding_gene	Current	Drosophila	sister of odd and bowl	melanogaster	Dmel	sob
+FBgn0005612	FBgn0005612	CG3090	SO0001217:protein_coding_gene	Current	Drosophila	Sox box protein 14	melanogaster	Dmel	Sox14
+FBgn0005613	FBgn0005613	CG8404	SO0001217:protein_coding_gene	Current	Drosophila	Sox box protein 15	melanogaster	Dmel	Sox15
+FBgn0036411	FBgn0036411	CG7345	SO0001217:protein_coding_gene	Current	Drosophila	Sox21a	melanogaster	Dmel	Sox21a
+FBgn0042630	FBgn0042630	CG32139	SO0001217:protein_coding_gene	Current	Drosophila	Sox21b	melanogaster	Dmel	Sox21b
+FBgn0024288	FBgn0024288	CG15552	SO0001217:protein_coding_gene	Current	Drosophila	Sox100B	melanogaster	Dmel	Sox100B
+FBgn0039938	FBgn0039938	CG11153	SO0001217:protein_coding_gene	Current	Drosophila	Sox102F	melanogaster	Dmel	Sox102F
+FBgn0029123	FBgn0029123	CG18024	SO0001217:protein_coding_gene	Current	Drosophila	SoxNeuro	melanogaster	Dmel	SoxN
+FBgn0020378	FBgn0020378	CG1343	SO0001217:protein_coding_gene	Current	Drosophila	Sp1	melanogaster	Dmel	Sp1
+FBgn0039169	FBgn0039169	CG5669	SO0001217:protein_coding_gene	Current	Drosophila	Sp1-like factor for pairing sensitive-silencing	melanogaster	Dmel	Spps
+FBgn0010768	FBgn0010768	CG5557	SO0001217:protein_coding_gene	Current	Drosophila	squeeze	melanogaster	Dmel	sqz
+FBgn0003499	FBgn0003499	CG7847	SO0001217:protein_coding_gene	Current	Drosophila	stripe	melanogaster	Dmel	sr
+FBgn0261283	FBgn0261283	CG8522	SO0001217:protein_coding_gene	Current	Drosophila	Sterol regulatory element binding protein	melanogaster	Dmel	SREBP
+FBgn0003507	FBgn0003507	CG3992	SO0001217:protein_coding_gene	Current	Drosophila	serpent	melanogaster	Dmel	srp
+FBgn0003511	FBgn0003511	CG7938	SO0001217:protein_coding_gene	Current	Drosophila	Serendipity beta	melanogaster	Dmel	Sry-beta
+FBgn0003512	FBgn0003512	CG17958	SO0001217:protein_coding_gene	Current	Drosophila	Serendipity delta	melanogaster	Dmel	Sry-delta
+FBgn0003513	FBgn0003513	CG6993	SO0001217:protein_coding_gene	Current	Drosophila	spineless	melanogaster	Dmel	ss
+FBgn0036248	FBgn0036248	CG17153	SO0001217:protein_coding_gene	Current	Drosophila	sunspot	melanogaster	Dmel	ssp
+FBgn0010278	FBgn0010278	CG4817	SO0001217:protein_coding_gene	Current	Drosophila	Structure specific recognition protein	melanogaster	Dmel	Ssrp
+FBgn0016917	FBgn0016917	CG4257	SO0001217:protein_coding_gene	Current	Drosophila	Signal-transducer and activator of transcription protein at 92E	melanogaster	Dmel	Stat92E
+FBgn0001978	FBgn0001978	CG3647	SO0001217:protein_coding_gene	Current	Drosophila	shuttle craft	melanogaster	Dmel	stc
+FBgn0003459	FBgn0003459	CG3836	SO0001217:protein_coding_gene	Current	Drosophila	stonewall	melanogaster	Dmel	stwl
+FBgn0004837	FBgn0004837	CG3497	SO0001217:protein_coding_gene	Current	Drosophila	Suppressor of Hairless	melanogaster	Dmel	Su(H)
+FBgn0003567	FBgn0003567	CG8573	SO0001217:protein_coding_gene	Current	Drosophila	suppressor of Hairy wing	melanogaster	Dmel	su(Hw)
+FBgn0033782	FBgn0033782	CG3850	SO0001217:protein_coding_gene	Current	Drosophila	sugarbabe	melanogaster	Dmel	sug
+FBgn0005561	FBgn0005561	CG11049	SO0001217:protein_coding_gene	Current	Drosophila	shaven	melanogaster	Dmel	sv
+FBgn0003651	FBgn0003651	CG11502	SO0001217:protein_coding_gene	Current	Drosophila	seven up	melanogaster	Dmel	svp
+FBgn0041092	FBgn0041092	CG13109	SO0001217:protein_coding_gene	Current	Drosophila	taiman	melanogaster	Dmel	tai
+FBgn0015550	FBgn0015550	CG7659	SO0001217:protein_coding_gene	Current	Drosophila	target of Poxn	melanogaster	Dmel	tap
+FBgn0026869	FBgn0026869	CG1981	SO0001217:protein_coding_gene	Current	Drosophila	Thymine DNA glycosylase	melanogaster	Dmel	Tdg
+FBgn0086350	FBgn0086350	CG8961	SO0001217:protein_coding_gene	Current	Drosophila	teflon	melanogaster	Dmel	tef
+FBgn0003683	FBgn0003683	CG4216	SO0001217:protein_coding_gene	Current	Drosophila	terminus	melanogaster	Dmel	term
+FBgn0038805	FBgn0038805	CG4217	SO0001217:protein_coding_gene	Current	Drosophila	mitochondrial transcription factor A	melanogaster	Dmel	TFAM
+FBgn0261953	FBgn0261953	CG7807	SO0001217:protein_coding_gene	Current	Drosophila	Transcription factor AP-2	melanogaster	Dmel	TfAP-2
+FBgn0264075	FBgn0264075	CG11987	SO0001217:protein_coding_gene	Current	Drosophila	tango	melanogaster	Dmel	tgo
+FBgn0038978	FBgn0038978	CG7045	SO0001217:protein_coding_gene	Current	Drosophila	testis-enriched HMG-box-containing protein 1	melanogaster	Dmel	tHMG1
+FBgn0038979	FBgn0038979	CG7046	SO0001217:protein_coding_gene	Current	Drosophila	testis-enriched HMG-box-containing protein 2	melanogaster	Dmel	tHMG2
+FBgn0004110	FBgn0004110	CG7895	SO0001217:protein_coding_gene	Current	Drosophila	tinman	melanogaster	Dmel	tin
+FBgn0028979	FBgn0028979	CG12630	SO0001217:protein_coding_gene	Current	Drosophila	tiptop	melanogaster	Dmel	tio
+FBgn0000964	FBgn0000964	CG10034	SO0001217:protein_coding_gene	Current	Drosophila	traffic jam	melanogaster	Dmel	tj
+FBgn0003720	FBgn0003720	CG1378	SO0001217:protein_coding_gene	Current	Drosophila	tailless	melanogaster	Dmel	tll
+FBgn0036285	FBgn0036285	CG10704	SO0001217:protein_coding_gene	Current	Drosophila	twin of eyg	melanogaster	Dmel	toe
+FBgn0037751	FBgn0037751	CG8484	SO0001217:protein_coding_gene	Current	Drosophila	matotopetli	melanogaster	Dmel	topi
+FBgn0019650	FBgn0019650	CG11186	SO0001217:protein_coding_gene	Current	Drosophila	twin of eyeless	melanogaster	Dmel	toy
+FBgn0038767	FBgn0038767	CG4413	SO0001217:protein_coding_gene	Current	Drosophila	trade embargo	melanogaster	Dmel	trem
+FBgn0262139	FBgn0262139	CG42865	SO0001217:protein_coding_gene	Current	Drosophila	trachealess	melanogaster	Dmel	trh
+FBgn0013263	FBgn0013263	CG33261	SO0001217:protein_coding_gene	Current	Drosophila	Trithorax-like	melanogaster	Dmel	Trl
+FBgn0003866	FBgn0003866	CG1374	SO0001217:protein_coding_gene	Current	Drosophila	teashirt	melanogaster	Dmel	tsh
+FBgn0003870	FBgn0003870	CG1856	SO0001217:protein_coding_gene	Current	Drosophila	tramtrack	melanogaster	Dmel	ttk
+FBgn0003896	FBgn0003896	CG10619	SO0001217:protein_coding_gene	Current	Drosophila	tailup	melanogaster	Dmel	tup
+FBgn0003900	FBgn0003900	CG2956	SO0001217:protein_coding_gene	Current	Drosophila	twist	melanogaster	Dmel	twi
+FBgn0288888	FBgn0288888	CG5441	SO0001217:protein_coding_gene	Current	Drosophila	taxi	melanogaster	Dmel	tx
+FBgn0003944	FBgn0003944	CG10388	SO0001217:protein_coding_gene	Current	Drosophila	Ultrabithorax	melanogaster	Dmel	Ubx
+FBgn0024184	FBgn0024184	CG6269	SO0001217:protein_coding_gene	Current	Drosophila	unc-4	melanogaster	Dmel	unc-4
+FBgn0015561	FBgn0015561	CG1650	SO0001217:protein_coding_gene	Current	Drosophila	unplugged	melanogaster	Dmel	unpg
+FBgn0029711	FBgn0029711	CG17592	SO0001217:protein_coding_gene	Current	Drosophila	Usf	melanogaster	Dmel	Usf
+FBgn0003963	FBgn0003963	CG2762	SO0001217:protein_coding_gene	Current	Drosophila	u-shaped	melanogaster	Dmel	ush
+FBgn0003964	FBgn0003964	CG4380	SO0001217:protein_coding_gene	Current	Drosophila	ultraspiracle	melanogaster	Dmel	usp
+FBgn0033748	FBgn0033748	CG8821	SO0001217:protein_coding_gene	Current	Drosophila	vismay	melanogaster	Dmel	vis
+FBgn0261930	FBgn0261930	CG6172	SO0001217:protein_coding_gene	Current	Drosophila	ventral nervous system defective	melanogaster	Dmel	vnd
+FBgn0016076	FBgn0016076	CG14029	SO0001217:protein_coding_gene	Current	Drosophila	vrille	melanogaster	Dmel	vri
+FBgn0263511	FBgn0263511	CG4136	SO0001217:protein_coding_gene	Current	Drosophila	Visual system homeobox 1	melanogaster	Dmel	Vsx1
+FBgn0263512	FBgn0263512	CG33980	SO0001217:protein_coding_gene	Current	Drosophila	Visual system homeobox 2	melanogaster	Dmel	Vsx2
+FBgn0086680	FBgn0086680	CG10037	SO0001217:protein_coding_gene	Current	Drosophila	ventral veins lacking	melanogaster	Dmel	vvl
+FBgn0005642	FBgn0005642	CG1454	SO0001217:protein_coding_gene	Current	Drosophila	wings down	melanogaster	Dmel	wdn
+FBgn0001990	FBgn0001990	CG4148	SO0001217:protein_coding_gene	Current	Drosophila	weckle	melanogaster	Dmel	wek
+FBgn0010328	FBgn0010328	CG5965	SO0001217:protein_coding_gene	Current	Drosophila	without children	melanogaster	Dmel	woc
+FBgn0001983	FBgn0001983	CG4158	SO0001217:protein_coding_gene	Current	Drosophila	worniu	melanogaster	Dmel	wor
+FBgn0021872	FBgn0021872	CG9415	SO0001217:protein_coding_gene	Current	Drosophila	X box binding protein-1	melanogaster	Dmel	Xbp1
+FBgn0004050	FBgn0004050	CG7803	SO0001217:protein_coding_gene	Current	Drosophila	zeste	melanogaster	Dmel	z
+FBgn0037921	FBgn0037921	CG6808	SO0001217:protein_coding_gene	Current	Drosophila	ZAD and Architectural Function 1	melanogaster	Dmel	Zaf1
+FBgn0004053	FBgn0004053	CG1046	SO0001217:protein_coding_gene	Current	Drosophila	zerknullt	melanogaster	Dmel	zen
+FBgn0004054	FBgn0004054	CG1048	SO0001217:protein_coding_gene	Current	Drosophila	zerknullt-related	melanogaster	Dmel	zen2
+FBgn0270924	FBgn0270924	CG3998	SO0001217:protein_coding_gene	Current	Drosophila	zinc finger protein 30C	melanogaster	Dmel	zf30C
+FBgn0004606	FBgn0004606	CG1322	SO0001217:protein_coding_gene	Current	Drosophila	Zn finger homeodomain 1	melanogaster	Dmel	zfh1
+FBgn0004607	FBgn0004607	CG1449	SO0001217:protein_coding_gene	Current	Drosophila	Zn finger homeodomain 2	melanogaster	Dmel	zfh2
+FBgn0037446	FBgn0037446	CG10267	SO0001217:protein_coding_gene	Current	Drosophila	Zinc-finger protein	melanogaster	Dmel	Zif
+FBgn0039740	FBgn0039740	CG7928	SO0001217:protein_coding_gene	Current	Drosophila	Zinc-finger protein interacting with CP190	melanogaster	Dmel	ZIPIC
+FBgn0259789	FBgn0259789	CG12701	SO0001217:protein_coding_gene	Current	Drosophila	zelda	melanogaster	Dmel	zld

@@ -1,0 +1,959 @@
+gene_name,prediction,score,Pfam,PANTHER,SUPERFAMILY
+fd19B,True,0.6787,Forkhead domain,FORKHEAD BOX PROTEIN G1,"""Winged helix"" DNA-binding domain"
+ac,True,0.9991,Helix-loop-helix DNA-binding domain,ACHAETE-SCUTE TRANSCRIPTION FACTOR-RELATED,"HLH, helix-loop-helix DNA-binding domain"
+sc,True,0.9878,Helix-loop-helix DNA-binding domain,ACHAETE-SCUTE TRANSCRIPTION FACTOR-RELATED,"HLH, helix-loop-helix DNA-binding domain"
+l(1)sc,True,0.9971,Helix-loop-helix DNA-binding domain,"BASIC HELIX-LOOP-HELIX TRANSCRIPTION FACTOR, TWIST","HLH, helix-loop-helix DNA-binding domain"
+ase,True,0.9666,Helix-loop-helix DNA-binding domain,ACHAETE-SCUTE TRANSCRIPTION FACTOR-RELATED,"HLH, helix-loop-helix DNA-binding domain"
+Hinfp,True,0.8529,"Zinc finger, C2H2 type",HISTONE H4 TRANSCRIPTION FACTOR-RELATED,beta-beta-alpha zinc fingers
+spdi,True,0.7725,Calponin homology (CH) domain,CALPONIN HOMOLOGY DOMAIN-CONTAINING PROTEIN DDB_G0272472-RELATED,"Calponin-homology domain, CH-domain"
+Atf3,True,0.9945,bZIP transcription factor,FOS TRANSCRIPTION FACTOR-RELATED,Leucine zipper domain
+CG11398,True,0.8727,"Zinc finger, C2H2 type",TRANSCRIPTIONAL REPRESSOR CTCFL-RELATED,beta-beta-alpha zinc fingers
+a6,True,0.742,N/A,N/A,N/A
+mip130,True,0.9682,LIN9 C-terminal,LIN-9,N/A
+usp,True,0.9948,Ligand-binding domain of nuclear hormone receptor,NUCLEAR HORMONE RECEPTOR,Glucocorticoid receptor-like (DNA-binding domain)
+CG2865,True,0.5126,SERTA motif,N/A,N/A
+gt,True,0.9973,Basic region leucine zipper,THYROTROPH EMBRYONIC FACTOR RELATED,Leucine zipper domain
+CG32797,True,0.8442,N/A,PROLINE-RICH NUCLEAR RECEPTOR COACTIVATOR,N/A
+Lint-O,True,0.875,N/A,POLYCOMB GROUP PROTEIN,FYVE/PHD zinc finger
+fs(1)Ya,True,0.9639,N/A,N/A,N/A
+dwg,True,0.9987,"Zinc finger, C2H2 type",ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+CG2712,True,0.9784,"Zinc finger, C2H2 type",ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+crm,True,0.9918,N/A,CRAMPED PROTEIN,N/A
+HLH3B,True,0.944,Helix-loop-helix DNA-binding domain,T-CELL ACUTE LYMPHOCYTIC LEUKEMIA/STEM CELL LEUKEMIA-RELATED,"HLH, helix-loop-helix DNA-binding domain"
+CG3526,True,0.8426,"Zinc finger, ZZ type",E3 UBIQUITIN-PROTEIN LIGASE KCMF1,RING/U-box
+CG14421,True,0.6358,N/A,N/A,N/A
+CG14423,True,0.9456,N/A,N/A,N/A
+Xpac,True,0.7658,XPA protein N-terminal,DNA REPAIR PROTEIN COMPLEMENTING XP-A CELLS,Glucocorticoid receptor-like (DNA-binding domain)
+bi,True,0.9993,T-box,T-BOX PROTEIN-RELATED,p53-like transcription factors
+CG3546,True,0.8859,N/A,CREB/ATF BZIP TRANSCRIPTION FACTOR,N/A
+Usf,True,0.9924,Helix-loop-helix DNA-binding domain,FI24210P1,"HLH, helix-loop-helix DNA-binding domain"
+CG32772,True,0.9045,"Zinc finger, C2H2 type",PR DOMAIN ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+Klf15,True,0.9559,"Zinc finger, C2H2 type",KRUEPPEL-LIKE TRANSCRIPTION FACTOR,beta-beta-alpha zinc fingers
+CG12236,True,0.8313,BTB/POZ domain,BTB DOMAIN TRANSCRIPTION FACTOR,POZ domain
+CG3726,True,0.8822,BTB/POZ domain,BTB DOMAIN TRANSCRIPTION FACTOR,POZ domain
+CG3847,True,0.9737,zinc-finger C2H2-type,ZINC FINGER PROTEIN 142,beta-beta-alpha zinc fingers
+CG3918,True,0.9307,Zinc knuckle,SREK1IP1 FAMILY MEMBER,N/A
+CG12219,True,0.9913,Zinc-finger associated domain (zf-AD),ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+MED15,True,0.8319,ARC105/Med15 mediator subunit N-terminal KIX domain,MEDIATOR OF RNA POLYMERASE II TRANSCRIPTION SUBUNIT 15,Kix domain of CBP (creb binding protein)
+Pph13,True,0.9978,Homeodomain,HOMEOBOX PROTEIN ARISTALESS,Homeodomain-like
+Gsc,True,0.9981,Homeodomain,HOMEOBOX PROTEIN GOOSECOID-RELATED,Homeodomain-like
+Ets21C,True,0.9998,Sterile alpha motif (SAM)/Pointed domain,ETS,SAM/Pointed domain
+cbt,True,0.964,"Zinc finger, C2H2 type",KRUEPPEL-LIKE TRANSCRIPTION FACTOR,beta-beta-alpha zinc fingers
+CG11617,True,0.978,Homeobox KN domain,IROQUOIS-CLASS HOMEODOMAIN PROTEIN IRX,Homeodomain-like
+net,True,0.8893,Helix-loop-helix DNA-binding domain,BASIC HELIX-LOOP-HELIX PROTEIN NEUROGENIN-RELATED,"HLH, helix-loop-helix DNA-binding domain"
+knrl,True,0.9913,"Double treble clef zinc finger, C4 type",KNIRPS-RELATED PROTEIN-RELATED,Glucocorticoid receptor-like (DNA-binding domain)
+Pitslre,True,0.7068,Protein kinase domain,CELL DIVISION PROTEIN KINASE,Protein kinase-like (PK-like)
+CG11456,True,0.8996,"Zinc finger, C2H2 type",ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+Six4,True,0.9976,Homeodomain,HOMEOBOX PROTEIN SIX,Homeodomain-like
+kni,True,0.9836,"Double treble clef zinc finger, C4 type",KNIRPS-RELATED PROTEIN-RELATED,Glucocorticoid receptor-like (DNA-binding domain)
+Eip78C,True,0.8995,Ligand-binding domain of nuclear hormone receptor,NUCLEAR HORMONE RECEPTOR HR3-RELATED,Glucocorticoid receptor-like (DNA-binding domain)
+Aef1,True,0.9951,"Zinc finger, C2H2 type",ZINC FINGER PROTEIN 200,beta-beta-alpha zinc fingers
+Hr78,True,0.9916,"Double treble clef zinc finger, C4 type",NUCLEAR HORMONE RECEPTOR,Glucocorticoid receptor-like (DNA-binding domain)
+Neu2,True,0.9823,Zinc-finger associated domain (zf-AD),PR DOMAIN ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+croc,True,0.9834,Forkhead domain,FORKHEAD BOX PROTEIN,"""Winged helix"" DNA-binding domain"
+ebd2,True,0.6576,CENP-B N-terminal DNA-binding domain,N/A,Homeodomain-like
+Pc,True,0.9069,Chromo (CHRromatin Organisation MOdifier) domain,POLYCOMB GROUP PROTEIN PC,Chromo domain-like
+CG11307,True,0.8141,Domain of unknown function (DUF4745),N/A,N/A
+eg,True,0.9634,"Double treble clef zinc finger, C4 type",KNIRPS-RELATED PROTEIN-RELATED,Glucocorticoid receptor-like (DNA-binding domain)
+CG11247,True,0.9883,N/A,N/A,N/A
+CG32452,True,0.9256,N/A,N/A,N/A
+Nsun6,True,0.502,16S rRNA methyltransferase RsmB/F,NOP2 YEAST -RELATED NOL1/NOP2/FMU SUN  DOMAIN-CONTAINING,S-adenosyl-L-methionine-dependent methyltransferases
+CG12768,True,0.7702,Alcohol dehydrogenase transcription factor Myb/SANT-like,MADF DOMAIN TRANSCRIPTION FACTOR,N/A
+CG31559,True,0.6346,"GRXCR1, C-terminal",GLUTAREDOXIN DOMAIN-CONTAINING CYSTEINE-RICH PROTEIN 1,Thioredoxin-like
+CG10979,True,0.518,Zinc-finger of C2H2 type,ZINC FINGER PROTEIN 800,N/A
+Snr1,True,0.9608,"SWI/SNF Subunit INI1, DNA binding domain",SNF5,N/A
+cas,True,0.9791,N/A,TRANSCRIPTION FACTOR CASTOR  PROTEIN MING -RELATED,N/A
+MTA1-like,True,0.9863,MTA R1 domain,METASTASIS-ASSOCIATED PROTEIN AND MESODERM INDUCTION EARLY RESPONSE PROTEIN,Homeodomain-like
+CG1113,True,0.9254,N/A,N/A,N/A
+CG31542,True,0.6039,N/A,N/A,N/A
+Polr2F,True,0.9873,RNA polymerase Rpb6,DNA-DIRECTED RNA POLYMERASE SUBUNIT K,RPB6/omega subunit-like
+CG14668,True,0.5638,N/A,N/A,N/A
+corto,True,0.8609,N/A,N/A,N/A
+CG14655,True,0.9951,"Zinc finger, C2H2 type",ZINC FINGER PROTEIN 200,beta-beta-alpha zinc fingers
+Skp2,True,0.8893,F-box-like,F-BOX/TPR REPEAT PROTEIN POF3,RNI-like
+vri,True,0.9986,Basic region leucine zipper,NUCLEAR FACTOR INTERLEUKIN-3-REGULATED PROTEIN,Leucine zipper domain
+H15,True,0.9995,T-box,T-BOX PROTEIN-RELATED,p53-like transcription factors
+sip1,True,0.9069,GC-rich sequence DNA-binding factor-like protein,TUFTELIN-INTERACTING PROTEIN 11-RELATED,N/A
+CG7239,True,0.9154,Myb/SANT-like DNA-binding domain,MYB_SANT-LIKE DNA-BINDING DOMAIN-CONTAINING PROTEIN 1,N/A
+dsf,True,0.9949,"Double treble clef zinc finger, C4 type",NUCLEAR HORMONE RECEPTOR,Glucocorticoid receptor-like (DNA-binding domain)
+Acp26Aa,True,0.829,Male accessory gland secretory protein,N/A,N/A
+CG31642,True,0.8628,"Zinc finger, ZZ type",E3 UBIQUITIN-PROTEIN LIGASE KCMF1,RING/U-box
+Muc26B,True,0.6472,Chitin binding Peritrophin-A domain,MUCIN 26B,Invertebrate chitin-binding proteins
+H2.0,True,0.9945,Homeodomain,H2.0-LIKE HOMEOBOX PROTEIN,Homeodomain-like
+CG13992,True,0.6548,N/A,N/A,N/A
+CG13982,True,0.5352,N/A,N/A,N/A
+Phf5a,True,0.6695,PHF5-like protein,PHD FINGER-LIKE DOMAIN-CONTAINING PROTEIN 5A,N/A
+Rchy1,True,0.6249,Zinc-ribbon,RING FINGER AND CHY ZINC FINGER DOMAIN-CONTAINING PROTEIN 1,RING/U-box
+sens-2,True,0.9836,"Zinc finger, C2H2 type",PR DOMAIN ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+CG13775,True,0.8689,BED zinc finger,ZINC FINGER BED DOMAIN-CONTAINING PROTEIN 4,beta-beta-alpha zinc fingers
+CG4496,True,0.9936,"Zinc finger, C2H2 type",PR DOMAIN ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+CG31908,True,0.7601,SUZ-C motif,SUZ DOMAIN-CONTAINING PROTEIN 1,N/A
+Trf,True,0.8542,"Transcription factor TFIID (or TATA-binding protein, TBP)",TATA-BOX BINDING PROTEIN,TATA-box binding protein-like
+spz3,True,0.58,Spaetzle,NEUROTROPHIN 1-RELATED,Cystine-knot cytokines
+SoxN,True,0.9996,SOX transcription factor,SOX TRANSCRIPTION FACTOR,HMG-box
+Hnf4,True,0.9932,Ligand-binding domain of nuclear hormone receptor,NUCLEAR HORMONE RECEPTOR,Glucocorticoid receptor-like (DNA-binding domain)
+CG13108,True,0.818,N/A,N/A,N/A
+borr,True,0.7704,Cell division cycle-associated protein 8,"AUSTRALIN, ISOFORM A-RELATED",N/A
+numb,True,0.8162,NUMB domain,NUMB,PH domain-like
+gcm2,True,0.9941,GCM motif protein,GLIAL CELLS MISSING RELATED/GLIDE,GCM domain
+gcm,True,0.9865,GCM motif protein,GLIAL CELLS MISSING RELATED/GLIDE,GCM domain
+CG31709,True,0.9886,N/A,N/A,N/A
+CG13123,True,0.8667,"Zinc finger, C2H2 type",ZINC FINGER PROTEIN WITH KRAB AND SCAN DOMAINS,beta-beta-alpha zinc fingers
+GATAd,True,0.8827,GATA zinc finger,TRANSCRIPTION FACTOR GATA FAMILY MEMBER,Glucocorticoid receptor-like (DNA-binding domain)
+TfIIB,True,0.9854,Transcription factor TFIIB repeat,TRANSCRIPTION INITIATION FACTOR IIB-RELATED,Cyclin-like
+pie,True,0.6949,PHD-like zinc-binding domain,PHD FINGER PROTEIN,FYVE/PHD zinc finger
+Hand,True,0.7746,Helix-loop-helix DNA-binding domain,"BASIC HELIX-LOOP-HELIX TRANSCRIPTION FACTOR, TWIST","HLH, helix-loop-helix DNA-binding domain"
+CG12299,True,0.9961,"Zinc finger, C2H2 type",PR DOMAIN ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+CG17124,True,0.8814,PKC-activated protein phosphatase-1 inhibitor,PROTEIN PHOSPHATASE 1 INHIBITOR POTENTIATED BY PROTEIN KINASE C,"Myosin phosphatase inhibitor 17kDa protein, CPI-17"
+YL-1,True,0.9979,YL1 nuclear protein,YL-1 PROTEIN  TRANSCRIPTION FACTOR-LIKE 1,N/A
+CG12253,True,0.6278,DDE superfamily endonuclease,N/A,N/A
+Samuel,True,0.6873,SAM domain (Sterile alpha motif),POLYCOMB GROUP PROTEIN,SAM/Pointed domain
+CG14926,True,0.8065,N/A,N/A,N/A
+crol,True,0.9551,"Zinc finger, C2H2 type",ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+Mst33A,True,0.5221,N/A,N/A,N/A
+Plzf,True,0.9757,BTB/POZ domain,TRANSCRIPTIONAL REPRESSOR CTCFL-RELATED,beta-beta-alpha zinc fingers
+bru1,True,0.7108,RNA recognition motif,RNA BINDING PROTEIN,"RNA-binding domain, RBD"
+CG6712,True,0.8508,Brix domain,U3 SMALL NUCLEOLAR RIBONUCLEOPROTEIN PROTEIN IMP4,Class II aaRS ABD-related
+pdm2,True,0.9947,Pou domain - N-terminal to homeobox domain,POU DOMAIN,lambda repressor-like DNA-binding domains
+kmg,True,0.9687,N/A,ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+CG16815,True,0.944,N/A,N/A,N/A
+Mabi,True,0.8855,N/A,N/A,Leucine zipper domain
+Ing5,True,0.8535,Inhibitor of growth proteins N-terminal histone-binding,INHIBITOR OF GROWTH PROTEIN,FYVE/PHD zinc finger
+Polr2C,True,0.9117,RNA polymerase Rpb3/RpoA insert domain,DNA-DIRECTED RNA POLYMERASE,RBP11-like subunits of RNA polymerase
+CenG1A,True,0.8588,Putative GTPase activating protein for Arf,CENTAURIN-GAMMA-1A,P-loop containing nucleoside triphosphate hydrolases
+mTTF,True,0.8687,mTERF,"TRANSCRIPTION TERMINATION FACTOR, MITOCHONDRIAL",N/A
+NC2beta,True,0.8961,N/A,N/A,N/A
+Su(H),True,0.9887,Beta-trefoil DNA-binding domain,RECOMBINING BINDING PROTEIN SUPPRESSOR OF HAIRLESS,DNA-binding protein LAG-1 (CSL)
+CG15269,True,0.9475,"Zinc finger, C2H2 type",PR DOMAIN ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+dao,True,0.633,N/A,SET AND MYND DOMAIN-CONTAINING PROTEIN 4,TPR-like
+TfIIS,True,0.9854,TFIIS helical bundle-like domain,TRANSCRIPTION FACTOR S-II ZINC FINGER DOMAIN-CONTAINING PROTEIN,Zinc beta-ribbon
+sna,True,0.9882,"Zinc finger, C2H2 type",ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+wor,True,0.9953,"Zinc finger, C2H2 type",KRUEPPEL-LIKE TRANSCRIPTION FACTOR,beta-beta-alpha zinc fingers
+wek,True,0.9831,"Zinc finger, C2H2 type",KRAB AND ZINC FINGER DOMAIN-CONTAINING,beta-beta-alpha zinc fingers
+Tektin-A,True,0.9263,Tektin family,TEKTIN,N/A
+BicC,True,0.5806,KH domain,SCP160,SAM/Pointed domain
+CG17328,True,0.8954,C2H2-type zinc finger,ZINC FINGER PROTEIN ZIC AND GLI,beta-beta-alpha zinc fingers
+crp,True,0.5924,Helix-loop-helix DNA-binding domain,BASIC HELIX-LOOP-HELIX ZIP TRANSCRIPTION FACTOR,"HLH, helix-loop-helix DNA-binding domain"
+CG5953,True,0.9652,Alcohol dehydrogenase transcription factor Myb/SANT-like,MADF DOMAIN-CONTAINING PROTEIN-RELATED,N/A
+her,True,0.6556,N/A,ZINC FINGER PROTEIN,N/A
+CG15141,True,0.8509,Putative zinc finger in N-recognin (UBR box),E3 UBIQUITIN-PROTEIN LIGASE UBR7,FYVE/PHD zinc finger
+Oli,True,0.9909,Helix-loop-helix DNA-binding domain,BASIC HELIX-LOOP-HELIX PROTEIN NEUROGENIN-RELATED,"HLH, helix-loop-helix DNA-binding domain"
+Dif,True,0.9561,Rel homology DNA-binding domain,NUCLEAR FACTOR NF-KAPPA-B PROTEIN,p53-like transcription factors
+Polr2J,True,0.6803,RNA polymerase Rpb3/Rpb11 dimerisation domain,"DNA-DIRECTED RNA POLYMERASE I,II,III",RBP11-like subunits of RNA polymerase
+CG5674,True,0.8554,N/A,N/A,N/A
+Socs36E,True,0.7283,SH2 domain,PHOSPHATIDYLINOSITOL 3-KINASE REGULATORY SUBUNIT,SH2 domain
+CG15160,True,0.5263,Cell-cycle alteration and expression-elevated protein in tumour,CYCLIN-DEPENDENT KINASE INHIBITOR-RELATED PROTEIN,ENTH/VHS domain
+amos,True,0.996,Helix-loop-helix DNA-binding domain,BASIC HELIX-LOOP-HELIX PROTEIN NEUROGENIN-RELATED,"HLH, helix-loop-helix DNA-binding domain"
+tup,True,0.975,Homeodomain,INSULIN GENE ENHANCER PROTEIN,Homeodomain-like
+ham,True,0.9924,"Zinc finger, C2H2 type",ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+CG10348,True,0.9778,"Zinc finger, C2H2 type",PR DOMAIN ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+CG10431,True,0.903,"Zinc finger, C2H2 type",AGAP005574-PA,Glucocorticoid receptor-like (DNA-binding domain)
+Sidpn,True,0.9843,Helix-loop-helix DNA-binding domain,"BASIC HELIX-LOOP-HELIX TRANSCRIPTION FACTOR, HES-RELATED","HLH, helix-loop-helix DNA-binding domain"
+CG10492,True,0.7118,N/A,ZINC FINGER CCHC DOMAIN CONTAINING PROTEIN,N/A
+Lim3,True,0.994,LIM domain,LIM/HOMEOBOX PROTEIN LHX,Glucocorticoid receptor-like (DNA-binding domain)
+CG31797,True,0.7652,N/A,"CHASCON, ISOFORM D-RELATED",N/A
+tj,True,0.9324,bZIP Maf transcription factor,TRANSCRIPTION FACTOR MAF,A DNA-binding domain in eukaryotic transcription factors
+CG10366,True,0.8937,"Zinc finger, C2H2 type",ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+fs(2)ltoPP43,True,0.5231,Transcription factor Iwr1,RNA POLYMERASE II NUCLEAR LOCALIZATION PROTEIN SLC7A6OS-RELATED,N/A
+spir,True,0.7209,Kinase non-catalytic C-lobe domain,SPIRE,FYVE/PHD zinc finger
+Hr38,True,0.9973,"Double treble clef zinc finger, C4 type",NUCLEAR HORMONE RECEPTOR,Glucocorticoid receptor-like (DNA-binding domain)
+cad,True,0.9978,Homeodomain,HOMEOBOX PROTEIN CDX,Homeodomain-like
+CG8679,True,0.5926,LEM domain,ANKYRIN REPEAT AND LEM DOMAIN-CONTAINING PROTEIN 1,Ankyrin repeat
+E2f2,True,0.9987,E2F/DP family winged-helix DNA-binding domain,TRANSCRIPTION FACTOR E2F,"""Winged helix"" DNA-binding domain"
+dimm,True,0.9974,Helix-loop-helix DNA-binding domain,BASIC HELIX-LOOP-HELIX PROTEIN NEUROGENIN-RELATED,"HLH, helix-loop-helix DNA-binding domain"
+Mondo,True,0.8868,Helix-loop-helix DNA-binding domain,BASIC HELIX-LOOP-HELIX ZIP TRANSCRIPTION FACTOR,"HLH, helix-loop-helix DNA-binding domain"
+CG31493,True,0.541,N/A,N-ACETYLTRANSFERASE-RELATED,Acyl-CoA N-acyltransferases (Nat)
+Fer1,True,0.7669,Helix-loop-helix DNA-binding domain,"BASIC HELIX-LOOP-HELIX TRANSCRIPTION FACTOR, TWIST","HLH, helix-loop-helix DNA-binding domain"
+Dfd,True,0.9919,Homeodomain,HOMEOTIC PROTEIN DEFORMED,Homeodomain-like
+ftz,True,0.9931,"Fushi tarazu (FTZ), N-terminal region",HOMEOBOX PROTEIN HOX,Homeodomain-like
+Scr,True,0.9943,Homeodomain,HOMEOTIC PROTEIN DEFORMED,Homeodomain-like
+zen,True,0.9973,Homeodomain,PROTEIN ZERKNUELLT 1-RELATED,Homeodomain-like
+zen2,True,0.9826,Homeodomain,PROTEIN ZERKNUELLT 1-RELATED,Homeodomain-like
+Hr83,True,0.9361,"Double treble clef zinc finger, C4 type",NUCLEAR HORMONE RECEPTOR,Nuclear receptor ligand-binding domain
+Zif,True,0.9889,Zinc-finger associated domain (zf-AD),PR DOMAIN ZINC FINGER PROTEIN,Glucocorticoid receptor-like (DNA-binding domain)
+Taf7,True,0.9931,TAFII55 protein conserved region,TRANSCRIPTION INITIATION FACTOR TFIID 55 KD SUBUNIT-RELATED,N/A
+kipf,True,0.9751,C2H2-type zinc finger,ZINC FINGER PROTEIN 200,beta-beta-alpha zinc fingers
+dsx,True,0.9068,DM DNA binding domain,DOUBLESEX AND MAB-3 RELATED TRANSCRIPTION FACTOR  DMRT,"Cysteine-rich DNA binding domain, (DM domain)"
+CG7900,True,0.6197,Amidase,FATTY-ACID AMIDE HYDROLASE,Amidase signature (AS) enzymes
+grn,True,0.9821,GATA zinc finger,TRANSCRIPTION FACTOR GATA FAMILY MEMBER,Glucocorticoid receptor-like (DNA-binding domain)
+CG10435,True,0.5311,N/A,LD44032P,UBA-like
+ato,True,0.9983,Helix-loop-helix DNA-binding domain,BASIC HELIX-LOOP-HELIX PROTEIN NEUROGENIN-RELATED,"HLH, helix-loop-helix DNA-binding domain"
+mRpL1,True,0.813,Ribosomal protein L1p/L10e family,"54S RIBOSOMAL PROTEIN L1, MITOCHONDRIAL",Ribosomal protein L1
+Arl2,True,0.8809,ADP-ribosylation factor family,ADP-RIBOSYLATION FACTOR-LIKE PROTEIN 2-RELATED,P-loop containing nucleoside triphosphate hydrolases
+CG7963,True,0.8349,Zinc-finger associated domain (zf-AD),PR DOMAIN ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+Poxm,True,0.9987,'Paired box' domain,PAIRED BOX PROTEIN PAX-6-RELATED-RELATED,Homeodomain-like
+CG8136,True,0.9801,N/A,N/A,N/A
+nom,True,0.9901,Zinc-finger associated domain (zf-AD),PR DOMAIN ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+ouib,True,0.9935,Zinc-finger associated domain (zf-AD),ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+CG8159,True,0.9853,"Zinc finger, C2H2 type",ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+M1BP,True,0.9936,Zinc-finger associated domain (zf-AD),PR DOMAIN ZINC FINGER PROTEIN,Glucocorticoid receptor-like (DNA-binding domain)
+ranshi,True,0.9849,"Zinc finger, C2H2 type",ZINC FINGER PROTEIN,Glucocorticoid receptor-like (DNA-binding domain)
+hb,True,0.998,"Zinc finger, C2H2 type",ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+sage,True,0.9786,Helix-loop-helix DNA-binding domain,IP14615P,"HLH, helix-loop-helix DNA-binding domain"
+D1,True,0.9243,AT hook motif,N/A,N/A
+CG16789,True,0.6176,ATPase family associated with various cellular activities (AAA),IQ MOTIF CONTAINING WITH AAA DOMAIN 1,P-loop containing nucleoside triphosphate hydrolases
+CG8301,True,0.9911,"Zinc finger, C2H2 type",ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+CG8319,True,0.9547,Zinc-finger associated domain (zf-AD),TRANSCRIPTIONAL REPRESSOR CTCFL-RELATED,beta-beta-alpha zinc fingers
+Unc-115a,True,0.805,LIM domain,ACTIN-BINDING LIM PROTEIN,Glucocorticoid receptor-like (DNA-binding domain)
+Unc-115b,True,0.9114,LIM domain,ACTIN-BINDING LIM PROTEIN,Glucocorticoid receptor-like (DNA-binding domain)
+mura,True,0.9898,Ring finger domain,GH10160P,RING/U-box
+topi,True,0.8157,"Zinc finger, C2H2 type",KRAB AND ZINC FINGER DOMAIN-CONTAINING,beta-beta-alpha zinc fingers
+nerfin-2,True,0.9957,"Zinc finger, C2H2 type",INSULINOMA-ASSOCIATED 1,beta-beta-alpha zinc fingers
+CG6254,True,0.8819,Zinc-finger associated domain (zf-AD),PR DOMAIN ZINC FINGER PROTEIN,Glucocorticoid receptor-like (DNA-binding domain)
+TAF1B,True,0.9992,"Zinc-finger of RNA-polymerase I-specific TFIIB, Rrn7",TATA BOX-BINDING PROTEIN-ASSOCIATED FACTOR RNA POLYMERASE I SUBUNIT B,N/A
+jumu,True,0.9994,Forkhead domain,FORKHEAD BOX PROTEIN N1,"""Winged helix"" DNA-binding domain"
+Rfx,True,0.9987,RFX DNA-binding domain,RFX TRANSCRIPTION FACTOR FAMILY,"""Winged helix"" DNA-binding domain"
+Sirt6,True,0.5825,Sir2 family,"NAD-DEPENDENT PROTEIN DEACYLASE SIRTUIN-5, MITOCHONDRIAL-RELATED",DHS-like NAD/FAD-binding domain
+Rrp46,True,0.6956,"3' exoribonuclease family, domain 1",EXOSOME COMPLEX COMPONENT,Ribonuclease PH domain 2-like
+CG4570,True,0.9103,N/A,N/A,N/A
+CG4820,True,0.9225,"Zinc finger, C2H2 type",PR DOMAIN ZINC FINGER PROTEIN,Glucocorticoid receptor-like (DNA-binding domain)
+CG31441,True,0.9736,Zinc-finger associated domain (zf-AD),KRUEPPEL-LIKE TRANSCRIPTION FACTOR,Glucocorticoid receptor-like (DNA-binding domain)
+CG31388,True,0.9969,Zinc-finger of C2H2 type,ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+CG6689,True,0.9839,"Zinc finger, C2H2 type",ZINC FINGER PROTEIN 142,beta-beta-alpha zinc fingers
+CG14710,True,0.9853,Zinc-finger associated domain (zf-AD),PR DOMAIN ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+CG14711,True,0.998,Zinc-finger of C2H2 type,ZINC FINGER PROTEIN,Glucocorticoid receptor-like (DNA-binding domain)
+CG18764,True,0.982,"Zinc finger, C2H2 type",ZINC FINGER PROTEIN ZIC AND GLI,Glucocorticoid receptor-like (DNA-binding domain)
+Fer3,True,0.9576,Helix-loop-helix DNA-binding domain,"BASIC HELIX-LOOP-HELIX TRANSCRIPTION FACTOR, TWIST","HLH, helix-loop-helix DNA-binding domain"
+CG18476,True,0.992,Zinc-finger associated domain (zf-AD),KRAB AND ZINC FINGER DOMAIN-CONTAINING,beta-beta-alpha zinc fingers
+CG6813,True,0.9385,Zinc-finger associated domain (zf-AD),AGAP004733-PA,Glucocorticoid receptor-like (DNA-binding domain)
+Zaf1,True,0.9765,"Zinc finger, C2H2 type",PR DOMAIN ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+CG5245,True,0.9885,"Zinc finger, C2H2 type",ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+sim,True,0.9795,Hypoxia-inducible factor 1-alpha bHLH domain,HYPOXIA-INDUCIBLE FACTOR 1 ALPHA,"HLH, helix-loop-helix DNA-binding domain"
+Droj2,True,0.7916,DnaJ domain,"DNAJ-LIKE-2, ISOFORM A-RELATED",Chaperone J-domain
+ems,True,0.9991,Homeodomain,HOMEOBOX PROTEIN EMX-RELATED,Homeodomain-like
+E5,True,0.9976,Homeodomain,HOMEOBOX PROTEIN EMX-RELATED,Homeodomain-like
+foxo,True,0.9994,Forkhead domain,FORKHEAD BOX PROTEIN O,"""Winged helix"" DNA-binding domain"
+Abi,True,0.7887,Variant SH3 domain,ABL INTERACTOR FAMILY MEMBER,SH3-domain
+NK7.1,True,0.9927,Homeodomain,HOMEOBOX PROTEIN NKX,Homeodomain-like
+su(Hw),True,0.9984,C2H2-type zinc finger,PR DOMAIN ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+BigH1,True,0.6616,linker histone H1 and H5 family,N/A,"""Winged helix"" DNA-binding domain"
+CG6654,True,0.996,Zinc-finger associated domain (zf-AD),PR DOMAIN ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+CG5516,True,0.8232,Zinc knuckle,ZCCHC10 PROTEIN,Retrovirus zinc finger-like domains
+GATAe,True,0.9955,GATA zinc finger,TRANSCRIPTION FACTOR GATA FAMILY MEMBER,Glucocorticoid receptor-like (DNA-binding domain)
+pnr,True,0.9855,GATA zinc finger,TRANSCRIPTION FACTOR GATA FAMILY MEMBER,Glucocorticoid receptor-like (DNA-binding domain)
+tara,True,0.9804,SERTA motif,CELL DIVISION CYCLE ASSOCIATED PROTEIN 4/SERTA DOMAIN-CONTAINING PROTEIN 2,N/A
+Fer2,True,0.9821,Helix-loop-helix DNA-binding domain,"BASIC HELIX-LOOP-HELIX TRANSCRIPTION FACTOR, TWIST","HLH, helix-loop-helix DNA-binding domain"
+pad,True,0.964,Zinc-finger associated domain (zf-AD),KRUEPPEL-LIKE TRANSCRIPTION FACTOR,beta-beta-alpha zinc fingers
+ss,True,0.936,PAS fold,ARYL HYDROCARBON RECEPTOR,"HLH, helix-loop-helix DNA-binding domain"
+Ubx,True,0.9825,Homeodomain,HOMEOBOX PROTEIN HOX,Homeodomain-like
+Abd-B,True,0.997,Homeodomain,HOMEOBOX PROTEIN ABDOMINAL-B,Homeodomain-like
+abd-A,True,0.9972,Homeobox protein,HOMEOBOX PROTEIN HOX,Homeodomain-like
+kuk,True,0.6198,N/A,N/A,N/A
+Brf,True,0.5971,Transcription factor TFIIB repeat,TRANSCRIPTION INITIATION FACTOR IIB-RELATED,Cyclin-like
+Odj,True,0.8793,"Zinc finger, C2H2 type",ZINC FINGER AND BTB DOMAIN-CONTAINING,Glucocorticoid receptor-like (DNA-binding domain)
+CG17801,True,0.9789,N/A,N/A,N/A
+Nnk,True,0.9732,"Zinc finger, C2H2 type",ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+CG17806,True,0.9729,"Zinc finger, C2H2 type",ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+sr,True,0.9991,"Zinc finger, C2H2 type",REGULATORY PROTEIN MIG1-RELATED,beta-beta-alpha zinc fingers
+repo,True,0.9984,Homeodomain,HOMEOBOX PROTEIN ARISTALESS,Homeodomain-like
+CG18599,True,0.9993,Homeodomain,HOMEOBOX PROTEIN EMX-RELATED,Homeodomain-like
+hmw,True,0.9124,Hemingway/CFA97,CILIA- AND FLAGELLA-ASSOCIATED PROTEIN 97-RELATED,N/A
+CG7691,True,0.6106,"Zinc finger, C2H2 type",ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+fru,True,0.9796,BTB/POZ domain,BTB DOMAIN TRANSCRIPTION FACTOR,beta-beta-alpha zinc fingers
+cdi,True,0.8936,Protein tyrosine and serine/threonine kinase,LIM DOMAIN KINASE 1,Protein kinase-like (PK-like)
+sqz,True,0.9821,"Zinc finger, C2H2 type",PR DOMAIN ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+CG14282,True,0.6934,N/A,N/A,N/A
+Aptx,True,0.7111,Scavenger mRNA decapping enzyme C-term binding,APRATAXIN-RELATED,HIT-like
+CG4854,True,0.9709,"Zinc finger, C2H2 type",PR DOMAIN ZINC FINGER PROTEIN,Glucocorticoid receptor-like (DNA-binding domain)
+idc,True,0.9487,"Zinc finger, C2H2 type",PR DOMAIN ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+trem,True,0.9322,C2H2-type zinc finger,PR DOMAIN ZINC FINGER PROTEIN,Glucocorticoid receptor-like (DNA-binding domain)
+CG4424,True,0.9547,"Zinc finger, C2H2 type",PR DOMAIN ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+mira,True,0.8733,N/A,N/A,N/A
+Sag1,True,0.9922,C2H2-type zinc finger,PR DOMAIN ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+CG15696,True,0.9574,Homeodomain,HOMEO BOX HB9 LIKE A-RELATED,Homeodomain-like
+dmrt93B,True,0.9668,DM DNA binding domain,DOUBLESEX AND MAB-3 RELATED TRANSCRIPTION FACTOR  DMRT,"Cysteine-rich DNA binding domain, (DM domain)"
+HHEX,True,0.9847,Homeodomain,HOMEOBOX PROTEIN HHEX,Homeodomain-like
+mod(mdg4),True,0.6733,FLYWCH zinc finger domain,BTB DOMAIN TRANSCRIPTION FACTOR,POZ domain
+tin,True,0.9987,Homeodomain,HOMEOBOX PROTEIN NKX,Homeodomain-like
+bap,True,0.9979,Homeodomain,HOMEOBOX PROTEIN NKX,Homeodomain-like
+lbe,True,0.9943,Homeodomain,TRANSCRIPTION FACTOR LBX,Homeodomain-like
+lbl,True,0.9812,Homeodomain,TRANSCRIPTION FACTOR LBX,Homeodomain-like
+C15,True,0.998,Homeodomain,IP01054P,Homeodomain-like
+E2f1,True,0.9958,E2F/DP family winged-helix DNA-binding domain,TRANSCRIPTION FACTOR E2F,"""Winged helix"" DNA-binding domain"
+slou,True,0.9997,Homeodomain,HOMEOBOX PROTEIN NKX,Homeodomain-like
+Polr1H,True,0.6931,Transcription factor S-II (TFIIS),DNA-DIRECTED RNA POLYMERASE,Zinc beta-ribbon
+mRpL35,True,0.5352,Ribosomal protein L35,"39S RIBOSOMAL PROTEIN L35, MITOCHONDRIAL",L35p-like
+btn,True,0.9908,Homeodomain,HOMEOBOX PROTEIN MOX,Homeodomain-like
+RNF220,True,0.9202,E3 ubiquitin-protein ligase RNF220,E3 UBIQUITIN-PROTEIN LIGASE RNF220 ISOFORM X1,RING/U-box
+CG6688,True,0.9152,"E3 ubiquitin-protein ligase sina/sinah, RING finger",E3 UBIQUITIN-PROTEIN LIGASE SIAH2,RING/U-box
+Cow,True,0.6707,Secreted protein acidic and rich in cysteine Ca binding region,SPARC  OSTEONECTIN,Kazal-type serine protease inhibitors
+lmd,True,0.9776,"Zinc finger, C2H2 type",TRANSCRIPTIONAL ACTIVATOR CUBITUS INTERRUPTUS,beta-beta-alpha zinc fingers
+wam,True,0.5645,ODAD1 central coiled coil region,COILED-COIL DOMAIN-CONTAINING PROTEIN 63,N/A
+CG31365,True,0.9669,Zinc-finger associated domain (zf-AD),ODD-SKIPPED - RELATED,Glucocorticoid receptor-like (DNA-binding domain)
+CG4374,True,0.9798,"Zinc finger, C2H2 type",ZINC FINGER AND BTB DOMAIN-CONTAINING,beta-beta-alpha zinc fingers
+nau,True,0.9926,Myogenic Basic domain,MYOGENIC FACTOR,"HLH, helix-loop-helix DNA-binding domain"
+CG31140,True,0.6184,Ras association (RalGDS/AF-6) domain,DIACYLGLYCEROL KINASE,Cysteine-rich domain
+tbrd-1,True,0.9024,Bromodomain,FALZ-RELATED BROMODOMAIN-CONTAINING PROTEINS,Bromodomain
+Spps,True,0.997,"Zinc finger, C2H2 type",KRUEPPEL-LIKE TRANSCRIPTION FACTOR,beta-beta-alpha zinc fingers
+CG5746,True,0.9651,N/A,N/A,N/A
+REPTOR,True,0.9919,N/A,ADULT RETINA PROTEIN,N/A
+Polr2L,True,0.9978,RNA polymerases N / 8 kDa subunit,"DNA-DIRECTED RNA POLYMERASES I, II, AND III SUBUNIT RPABC5 FAMILY MEMBER",RNA polymerase subunit RPB10
+Ets96B,True,0.9889,Ets-domain,ETS,"""Winged helix"" DNA-binding domain"
+Hr96,True,0.9875,Ligand-binding domain of nuclear hormone receptor,NUCLEAR HORMONE RECEPTOR,Glucocorticoid receptor-like (DNA-binding domain)
+fd96Ca,True,0.9124,Forkhead domain,FORKHEAD BOX PROTEIN,"""Winged helix"" DNA-binding domain"
+fd96Cb,True,0.8495,Forkhead domain,FORKHEAD BOX PROTEIN,"""Winged helix"" DNA-binding domain"
+danr,True,0.997,CENP-B N-terminal DNA-binding domain,PROTEIN DISTAL ANTENNA,Homeodomain-like
+CG31109,True,0.9427,Zinc-finger associated domain (zf-AD),BCDNA.LD26519-RELATED,Glucocorticoid receptor-like (DNA-binding domain)
+dan,True,0.9997,CENP-B N-terminal DNA-binding domain,PROTEIN DISTAL ANTENNA,Homeodomain-like
+CG10669,True,0.9068,"Zinc finger, C2H2 type",KRAB AND ZINC FINGER DOMAIN-CONTAINING,beta-beta-alpha zinc fingers
+jigr1,True,0.9462,Alcohol dehydrogenase transcription factor Myb/SANT-like,MADF DOMAIN TRANSCRIPTION FACTOR,N/A
+CG4730,True,0.8988,Zinc-finger associated domain (zf-AD),KRAB AND ZINC FINGER DOMAIN-CONTAINING,beta-beta-alpha zinc fingers
+CG14540,True,0.6797,N/A,N/A,N/A
+E(spl)mdelta-HLH,True,0.9852,N/A,N/A,N/A
+E(spl)mgamma-HLH,True,0.9936,N/A,N/A,N/A
+E(spl)m3-HLH,True,0.9806,Helix-loop-helix DNA-binding domain,"BASIC HELIX-LOOP-HELIX TRANSCRIPTION FACTOR, HES-RELATED","HLH, helix-loop-helix DNA-binding domain"
+E(spl)m7-HLH,True,0.9691,Hairy Orange,"BASIC HELIX-LOOP-HELIX TRANSCRIPTION FACTOR, HES-RELATED","HLH, helix-loop-helix DNA-binding domain"
+E(spl)m8-HLH,True,0.9959,Helix-loop-helix DNA-binding domain,"BASIC HELIX-LOOP-HELIX TRANSCRIPTION FACTOR, HES-RELATED","HLH, helix-loop-helix DNA-binding domain"
+gro,True,0.9439,"WD domain, G-beta repeat",TRANSDUCIN-LIKE ENHANCER PROTEIN,WD40 repeat-like
+dysf,True,0.9879,NPAS4 bHLH domain,HYPOXIA-INDUCIBLE FACTOR 1 ALPHA,PYP-like sensor domain (PAS domain)
+E(spl)mbeta-HLH,True,0.9535,N/A,N/A,N/A
+CG14546,True,0.8883,N/A,N/A,N/A
+CG14556,True,0.612,Domain of unknown function (DUF4763),N/A,N/A
+His2Av,True,0.9996,C-terminus of histone H2A,HISTONE H2A,Histone-fold
+ms(3)K81,True,0.9332,N/A,N/A,N/A
+Ets97D,True,0.9976,Ets-domain,ETS,"""Winged helix"" DNA-binding domain"
+CG5815,True,0.9897,SPT2 N-terminal domain,YEAST SPT2-RELATED,N/A
+CG6051,True,0.9838,FYVE zinc finger,LATERAL SIGNALING TARGET PROTEIN 2 HOMOLOG,FYVE/PHD zinc finger
+bigmax,True,0.918,Helix-loop-helix DNA-binding domain,BASIC HELIX-LOOP-HELIX ZIP TRANSCRIPTION FACTOR,"HLH, helix-loop-helix DNA-binding domain"
+woc,True,0.946,MYM-type Zinc finger with FCS sequence motif,ZINC FINGER MYM-TYPE PROTEIN,N/A
+Ets98B,True,0.9899,Ets-domain,ETS,"""Winged helix"" DNA-binding domain"
+Boh1,True,0.9896,N/A,ZINC FINGER PROTEIN 142,beta-beta-alpha zinc fingers
+Noa36,True,0.7929,NOA36 protein,ZINC FINGER PROTEIN 330,N/A
+fkh,True,0.9926,Forkhead domain,FORKHEAD BOX PROTEIN,"""Winged helix"" DNA-binding domain"
+Dr,True,0.9986,Homeodomain,HOMEOBOX PROTEIN MSX,Homeodomain-like
+dmrt99B,True,0.9893,DM DNA binding domain,DOUBLESEX AND MAB-3 RELATED TRANSCRIPTION FACTOR  DMRT,"Cysteine-rich DNA binding domain, (DM domain)"
+CG15514,True,0.6987,BED zinc finger,N/A,beta-beta-alpha zinc fingers
+Sry-beta,True,0.9749,N/A,N/A,N/A
+Sry-delta,True,0.936,N/A,N/A,N/A
+Ppi1,True,0.8066,Domain of unknown function (DUF4788),FI08034P-RELATED,N/A
+ZIPIC,True,0.9736,C2H2-type zinc finger,KRAB AND ZINC FINGER DOMAIN-CONTAINING,beta-beta-alpha zinc fingers
+CG7903,True,0.9306,RNA recognition motif,SERINE/ARGININE RICH SPLICING FACTOR,"RNA-binding domain, RBD"
+heca,True,0.9009,Headcase protein,HEADCASE PROTEIN,N/A
+CG2267,True,0.8918,Calcium-dependent calmodulin binding,N/A,N/A
+PH4alphaMP,True,0.7739,N/A,N/A,N/A
+CG12071,True,0.8943,"Zinc finger, C2H2 type",KRUEPPEL-LIKE TRANSCRIPTION FACTOR,beta-beta-alpha zinc fingers
+Sox100B,True,0.7325,HMG (high mobility group) box,SOX100B,HMG-box
+CG12054,True,0.9697,N/A,JUXTAPOSED WITH ANOTHER ZINC FINGER PROTEIN 1,beta-beta-alpha zinc fingers
+pygo,True,0.9058,N/A,PYGOPUS,FYVE/PHD zinc finger
+CG1792,True,0.9152,Zinc-finger associated domain (zf-AD),PR DOMAIN ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+ttk,True,0.9993,BTB/POZ domain,BTB DOMAIN TRANSCRIPTION FACTOR,beta-beta-alpha zinc fingers
+tsh,True,0.9843,C2H2 type zinc-finger (2 copies),TEASHIRT-RELATED,beta-beta-alpha zinc fingers
+CG31612,True,0.92,Zinc-finger of C2H2 type,IP01015P-RELATED,beta-beta-alpha zinc fingers
+CG31601,True,0.7514,N/A,ZINC FINGER CCCH DOMAIN-CONTAINING PROTEIN 18,CCCH zinc finger
+Clamp,True,0.92,"Zinc finger, C2H2 type",ZINC FINGER AND SCAN DOMAIN-CONTAINING,beta-beta-alpha zinc fingers
+CG14589,True,0.7429,N/A,N/A,N/A
+CG30431,True,0.966,C2H2-type zinc finger,KRAB AND ZINC FINGER DOMAIN-CONTAINING,beta-beta-alpha zinc fingers
+EcR,True,0.8718,Ligand-binding domain of nuclear hormone receptor,NUCLEAR HORMONE RECEPTOR,Nuclear receptor ligand-binding domain
+Opbp,True,0.9355,Zinc-finger of C2H2 type,ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+phtf,True,0.6886,"Homeodomain containing protein PHTF1/2, N-terminal",PUTATIVE HOMEODOMAIN TRANSCRIPTION FACTOR  PHTF,N/A
+lms,True,0.9888,Homeodomain,HOMEOBOX PROTEIN EMX-RELATED,Homeodomain-like
+maf-S,True,0.9371,bZIP Maf transcription factor,TRANSCRIPTION FACTOR MAF,A DNA-binding domain in eukaryotic transcription factors
+MED8,True,0.9859,Mediator of RNA polymerase II transcription complex subunit 8,MEDIATOR OF RNA POLYMERASE II TRANSCRIPTION SUBUNIT 8,N/A
+CG11044,True,0.9553,F-box-like,N/A,F-box domain
+rib,True,0.5693,BTB/POZ domain,BTB DOMAIN TRANSCRIPTION FACTOR,POZ domain
+EndoB,True,0.9041,Variant SH3 domain,SH3 DOMAIN-CONTAINING,SH3-domain
+CG15107,True,0.5567,Myb/SANT-like DNA-binding domain,N/A,N/A
+CG15073,True,0.9389,Zinc-finger associated domain (zf-AD),ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+CG5726,True,0.5569,N/A,EIF4G DOMAIN PROTEIN,N/A
+lolal,True,0.993,BTB/POZ domain,BTB DOMAIN TRANSCRIPTION FACTOR,POZ domain
+Hsf,True,0.9939,HSF-type DNA-binding,HEAT SHOCK TRANSCRIPTION FACTOR,"""Winged helix"" DNA-binding domain"
+icln,True,0.5571,Regulator of volume decrease after cellular swelling,CHLORIDE CONDUCTANCE REGULATORY PROTEIN ICLN,N/A
+rhi,True,0.6706,Chromo (CHRromatin Organisation MOdifier) domain,CHROMOBOX PROTEIN,Chromo domain-like
+Tes,True,0.543,LIM domain,LIM DOMAIN-CONTAINING PROTEIN,Glucocorticoid receptor-like (DNA-binding domain)
+CG30460,True,0.9893,zinc-finger of a C2HC-type,C2H2 ZINC FINGER CGI-62-RELATED,N/A
+CG17717,True,0.9138,RING-variant domain,E3 UBIQUITIN-PROTEIN LIGASE MARCH 2/3 FAMILY MEMBER,RING/U-box
+Nf-YC,True,0.9483,Histone-like transcription factor (CBF/NF-Y) and archaeal histone,HISTONE-LIKE TRANSCRIPTION FACTOR CCAAT-RELATED,Histone-fold
+CG14440,True,0.9593,STPRs (score and three amino acid peptide repeats),N/A,N/A
+CG14442,True,0.9704,STPRs (score and three amino acid peptide repeats),SYNAPTIC VESICLE MEMBRANE PROTEIN VAT-1 HOMOLOG-LIKE,N/A
+CG3032,True,0.9895,"Zinc finger, C2H2 type",TRANSCRIPTIONAL REPRESSOR CTCFL-RELATED,beta-beta-alpha zinc fingers
+hdm,True,0.781,"MEIOB, N-terminal",CELL DIVISION CONTROL PROTEIN 24 OB DOMAIN-CONTAINING PROTEIN-RELATED,Nucleic acid-binding proteins
+CG2116,True,0.9788,"Zinc finger, C2H2 type",ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+CG2120,True,0.9937,N/A,N/A,N/A
+CG2129,True,0.7547,"Zinc finger, C2H2 type",ZINC FINGER AND BTB DOMAIN-CONTAINING,beta-beta-alpha zinc fingers
+CG15336,True,0.6712,"Zinc finger, C2H2 type",ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+CG10959,True,0.961,Zinc-finger double-stranded RNA-binding,ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+Imzf,True,0.9561,"Zinc finger, C2H2 type",ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+CG2278,True,0.5338,N/A,N/A,N/A
+Smox,True,0.9914,MH2 domain,SMAD,SMAD MH1 domain
+Rubicon,True,0.9341,"Rubicon, PI3K-binding domain",PHOX (PX) DOMAIN-CONTAINING PROTEIN,RUN domain-like
+CG11294,True,0.9989,Homeodomain,HOMEOBOX PROTEIN ARISTALESS,Homeodomain-like
+org-1,True,0.9986,T-box,T-BOX PROTEIN-RELATED,p53-like transcription factors
+CG12075,True,0.8077,N/A,LP09875P,PH domain-like
+Lim1,True,0.9863,Homeodomain,LIM/HOMEOBOX PROTEIN LHX,Homeodomain-like
+AP-1gamma,True,0.6497,N/A,N/A,N/A
+Bap111,True,0.9572,HMG (high mobility group) box,SMARCE1 REGULATOR OF CHROMATIN,HMG-box
+lz,True,0.9984,Runt domain,RUNT RELATED,p53-like transcription factors
+Cfp1,True,0.9519,CpG binding protein C-terminal domain,CXXC-TYPE ZINC FINGER PROTEIN 1,FYVE/PHD zinc finger
+CG17440,True,0.8885,PHD-finger,CXXC-TYPE ZINC FINGER PROTEIN 1,FYVE/PHD zinc finger
+SmydA-9,True,0.8818,SET domain,"SET AND MYND DOMAIN CONTAINING, ARTHROPOD-SPECIFIC, MEMBER 4, ISOFORM A",SET domain
+btd,True,0.9946,"Zinc finger, C2H2 type",KRUEPPEL-LIKE TRANSCRIPTION FACTOR,beta-beta-alpha zinc fingers
+Sp1,True,0.97,"Zinc finger, C2H2 type",KRUEPPEL-LIKE TRANSCRIPTION FACTOR,beta-beta-alpha zinc fingers
+CG2889,True,0.9644,Zinc-finger associated domain (zf-AD),ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+CG32687,True,0.952,Leucine-rich repeat region,N/A,L domain-like
+CG32686,True,0.7193,N/A,N/A,N/A
+Rx,True,0.999,Homeodomain,"HOMEOBOX PROTEIN, PUTATIVE-RELATED",beta-sandwich domain of Sec23/24
+grau,True,0.9574,"Zinc finger, C2H2 type",ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+hbn,True,0.9986,Homeodomain,HOMEOBOX PROTEIN ARISTALESS,Homeodomain-like
+otp,True,0.9975,Homeodomain,HOMEOBOX PROTEIN ORTHOPEDIA,Homeodomain-like
+Xbp1,True,0.9789,Basic region leucine zipper,X-BOX BINDING PROTEIN 1,Leucine zipper domain
+CG10321,True,0.8414,Zinc-finger associated domain (zf-AD),PR DOMAIN ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+Ip6k,True,0.8304,Inositol polyphosphate kinase,INOSITOL POLYPHOSPHATE KINASE,SAICAR synthase-like
+NC2alpha,True,0.7582,N/A,N/A,N/A
+HmgD,True,0.9239,HMG (high mobility group) box,HIGH MOBILITY GROUP PROTEIN DSP1,HMG-box
+CG13488,True,0.7692,N/A,N/A,N/A
+dany,True,0.99,CENP-B N-terminal DNA-binding domain,PROTEIN DISTAL ANTENNA,Homeodomain-like
+Plekhm1,True,0.9527,Rubicon Homology Domain,PLECKSTRIN HOMOLOGY DOMAIN CONTAINING PROTEIN,RUN domain-like
+dve,True,0.9974,Homeodomain,DNA-BINDING PROTEIN SATB FAMILY MEMBER,Homeodomain-like
+CG8910,True,0.9612,"Zinc finger, C3HC4 type (RING finger)",RING FINGER PROTEIN 141-RELATED,RING/U-box
+CG4282,True,0.963,"Zinc finger, C2H2 type",ZINC FINGER PROTEIN,Glucocorticoid receptor-like (DNA-binding domain)
+CG15710,True,0.8954,"Zinc finger, C2H2 type",N/A,beta-beta-alpha zinc fingers
+cato,True,0.9987,Helix-loop-helix DNA-binding domain,BASIC HELIX-LOOP-HELIX PROTEIN NEUROGENIN-RELATED,"HLH, helix-loop-helix DNA-binding domain"
+CG15708,True,0.6747,LITAF-like zinc ribbon domain,N/A,N/A
+CG8388,True,0.9755,C2H2-type zinc finger,ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+Mlf,True,0.7412,Myelodysplasia-myeloid leukemia factor 1-interacting protein,MYELOID LEUKEMIA FACTOR,N/A
+Poxn,True,0.9909,'Paired box' domain,PAIRED BOX PROTEIN PAX-6-RELATED-RELATED,Homeodomain-like
+Xpc,True,0.913,Rad4 beta-hairpin domain 2,DNA REPAIR PROTEIN XP-C / RAD4,Cysteine proteinases
+Hr51,True,0.986,Ligand-binding domain of nuclear hormone receptor,NUCLEAR HORMONE RECEPTOR,Nuclear receptor ligand-binding domain
+ckn,True,0.5662,SAM domain (Sterile alpha motif),OSTEOCLAST-STIMULATING FACTOR 1,SAM/Pointed domain
+chn,True,0.9523,N/A,ZINC FINGER PROTEIN 142,beta-beta-alpha zinc fingers
+CG8089,True,0.8861,N/A,ZINC FINGER PROTEIN 142,beta-beta-alpha zinc fingers
+CG10265,True,0.8976,N/A,N/A,N/A
+HPS1,True,0.5116,"First Longin domain of FUZ, MON1 and HPS1",HERMANSKY-PUDLAK SYNDROME PROTEIN 1,N/A
+CG10209,True,0.5602,BESS motif,AGAP001331-PA-RELATED,N/A
+kn,True,0.9671,Transcription factor COE1 helix-loop-helix domain,TRANSCRIPTION FACTOR COE FAMILY MEMBER,E set domains
+CG10151,True,0.9442,Myb/SANT-like DNA-binding domain,MYB_SANT-LIKE DNA-BINDING DOMAIN-CONTAINING PROTEIN 1,N/A
+CG17385,True,0.9703,"Zinc finger, C2H2 type",ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+cg,True,0.9123,"Zinc finger, C2H2 type",ZNF44 PROTEIN,beta-beta-alpha zinc fingers
+Arc1,True,0.6228,N/A,N/A,N/A
+CG8547,True,0.8489,N/A,AGAP006184-PA,N/A
+Sox15,True,0.9091,HMG (high mobility group) box,SOX TRANSCRIPTION FACTOR,HMG-box
+mip120,True,0.9811,"Tesmin/TSO1-like CXC domain, cysteine-rich domain",TESMIN/TSO1-RELATED,N/A
+Nadk1a,True,0.5949,ATP-NAD kinase C-terminal domain,NAD KINASE,NAD kinase/diacylglycerol kinase-like
+Dp,True,0.9849,Transcription factor DP,TRANSCRIPTION FACTOR DP,"""Winged helix"" DNA-binding domain"
+CG13326,True,0.9272,"EDR1/CTR1/ARMC3, peptidase-like",ARMADILLO REPEAT-CONTAINING PROTEIN 3,ARM repeat
+sug,True,0.9913,"Zinc finger, C2H2 type",TRANSCRIPTIONAL ACTIVATOR CUBITUS INTERRUPTUS,beta-beta-alpha zinc fingers
+CG17019,True,0.9908,RNF34/RFFL SAP domain,"CASPASE REGULATOR, RING FINGER DOMAIN-CONTAINING",RING/U-box
+CG8569,True,0.7497,"ZMYND11/ZMYD8, MYND zinc finger",ZINC FINGER MYND DOMAIN-CONTAINING,HIT/MYND zinc finger-like
+achi,True,0.9951,Homeobox KN domain,HOMEOBOX PROTEIN TRANSCRIPTION FACTORS,Homeodomain-like
+vis,True,0.9906,Homeobox KN domain,HOMEOBOX PROTEIN TRANSCRIPTION FACTORS,Homeodomain-like
+Drep3,True,0.6918,CIDE-N domain,CELL DEATH ACTIVATOR CIDE,CAD & PB1 domains
+CG8854,True,0.5513,N/A,N/A,N/A
+ADD1,True,0.7435,N/A,TRANSCRIPTIONAL REGULATOR ATRX,FYVE/PHD zinc finger
+CG9003,True,0.9744,Leucine Rich repeat,"PARTNER OF PAIRED, ISOFORM B-RELATED",F-box domain
+CG12391,True,0.9168,Zinc-finger associated domain (zf-AD),ZINC FINGER PROTEIN,Glucocorticoid receptor-like (DNA-binding domain)
+luna,True,0.998,"Zinc finger, C2H2 type",KRUEPPEL-LIKE TRANSCRIPTION FACTOR,beta-beta-alpha zinc fingers
+CG12942,True,0.7354,Zinc-finger of C2H2 type,KRAB AND ZINC FINGER DOMAIN-CONTAINING,Glucocorticoid receptor-like (DNA-binding domain)
+Polr2E,True,0.9893,"RNA polymerase Rpb5, C-terminal domain","DNA-DIRECTED RNA POLYMERASES I, II, AND III SUBUNIT RPABC1",RPB5-like RNA polymerase subunit
+Caf1-105,True,0.5414,CAF1B/HIR1 beta-propeller domain,CHROMATIN ASSEMBLY FACTOR 1 SUBUNIT B,WD40 repeat-like
+CG18011,True,0.9921,"Zinc finger, C2H2 type",KRAB AND ZINC FINGER DOMAIN-CONTAINING,beta-beta-alpha zinc fingers
+CG12911,True,0.5351,N/A,N/A,N/A
+Hr3,True,0.988,Ligand-binding domain of nuclear hormone receptor,NUCLEAR HORMONE RECEPTOR HR3-RELATED,Nuclear receptor ligand-binding domain
+Lime,True,0.6892,N/A,ZINC FINGER PROTEIN,N/A
+CG12744,True,0.7603,"Zinc finger, C2H2 type",TRANSCRIPTIONAL REPRESSOR CTCFL-RELATED,beta-beta-alpha zinc fingers
+eve,True,0.9946,Homeodomain,SEGMENTATION PROTEIN EVEN-SKIPPED,Homeodomain-like
+Jra,True,0.9832,Jun-like transcription factor,JUN TRANSCRIPTION FACTOR-RELATED,Leucine zipper domain
+Mef2,True,0.9974,Holliday junction regulator protein family C-terminal repeat,MADS BOX PROTEIN,SRF-like
+CG1663,True,0.9588,"Zinc finger, C2H2 type",ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+unpg,True,0.9886,Homeodomain,HOMEOBOX PROTEIN GBX,Homeodomain-like
+Mad1,True,0.6551,Mitotic checkpoint protein,MITOTIC SPINDLE ASSEMBLY CHECKPOINT PROTEIN MAD1  MITOTIC ARREST DEFICIENT-LIKE PROTEIN 1,"Mitotic arrest deficient-like 1, Mad1"
+CG8746,True,0.686,N/A,N/A,N/A
+Nup50,True,0.7271,NUP50 (Nucleoporin 50 kDa),NUCLEAR PORE COMPLEX PROTEIN SIMILAR TO S. CEREVISIAE NUP2 (EUROFUNG),PH domain-like
+dpn,True,0.986,Helix-loop-helix DNA-binding domain,"BASIC HELIX-LOOP-HELIX TRANSCRIPTION FACTOR, HES-RELATED",Orange domain-like
+CG12769,True,0.9963,Zinc-finger of C2H2 type,ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+Hey,True,0.9955,Helix-loop-helix DNA-binding domain,"BASIC HELIX-LOOP-HELIX TRANSCRIPTION FACTOR, HES-RELATED","HLH, helix-loop-helix DNA-binding domain"
+CG1602,True,0.9375,"Zinc finger, C2H2 type",ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+so,True,0.9973,"Transcriptional regulator, SIX1, N-terminal SD domain",HOMEOBOX PROTEIN SIX,Homeodomain-like
+CG11125,True,0.9631,Calmodulin-binding,ENKURIN-RELATED,N/A
+cliff,True,0.8955,"Zinc finger, C2H2 type",KRAB AND ZINC FINGER DOMAIN-CONTAINING,beta-beta-alpha zinc fingers
+az2,True,0.895,"Zinc finger, C2H2 type",ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+Slip1,True,0.649,PDZ domain,"PDZ DOMAIN CONTAINING RING FINGER PROTEIN 3, 4",PDZ domain-like
+NfI,True,0.9938,MH1 domain,NUCLEAR FACTOR I,N/A
+CG32006,True,0.9917,Forkhead domain,FORKHEAD BOX PROTEIN,"""Winged helix"" DNA-binding domain"
+toy,True,0.9867,'Paired box' domain,PAIRED BOX PROTEIN PAX-6-RELATED-RELATED,Homeodomain-like
+pho,True,0.9707,"Zinc finger, C2H2 type",TRANSCRIPTIONAL REPRESSOR PROTEIN YY,beta-beta-alpha zinc fingers
+Polr1G,True,0.5365,N/A,N/A,N/A
+fd102C,True,0.988,Forkhead domain,FORKHEAD BOX PROTEIN,"""Winged helix"" DNA-binding domain"
+Sox102F,True,0.997,HMG (high mobility group) box,FI18025P1,HMG-box
+pb,True,0.9962,Homeodomain,PROTEIN ZERKNUELLT 1-RELATED,Homeodomain-like
+Wnt4,True,0.9653,wnt family,WNT RELATED,N/A
+Rel,True,0.9631,Ankyrin repeats (3 copies),NUCLEAR FACTOR NF-KAPPA-B PROTEIN,p53-like transcription factors
+HLH54F,True,0.98,Helix-loop-helix DNA-binding domain,"BASIC HELIX-LOOP-HELIX TRANSCRIPTION FACTOR, TWIST","HLH, helix-loop-helix DNA-binding domain"
+CG8765,True,0.963,Alcohol dehydrogenase transcription factor Myb/SANT-like,MADF DOMAIN TRANSCRIPTION FACTOR,N/A
+mael,True,0.9183,piRNA pathway germ-plasm component,PROTEIN MAELSTROM HOMOLOG,N/A
+CG11710,True,0.8169,"Putative zinc finger motif, C2HC5-type",THYROID RECEPTOR INTERACTING PROTEIN RELATED,PUA domain-like
+Cf2,True,0.9981,"Zinc finger, C2H2 type",PR DOMAIN ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+CG1677,True,0.7399,CCCH-type zinc finger,ZINC FINGER CCCH DOMAIN-CONTAINING PROTEIN 18,CCCH zinc finger
+pnt,True,0.9989,Ets-domain,ETS,SAM/Pointed domain
+CG18004,True,0.9693,INO80 complex subunit E,INO80 COMPLEX SUBUNIT E,N/A
+REPTOR-BP,True,0.9837,Basic region leucine zipper,CAMP-RESPONSIVE ELEMENT-BINDING PROTEIN-LIKE 2,Leucine zipper domain
+Hrs,True,0.9379,VHS domain,HEPATOCYTE GROWTH FACTOR-REGULATED TYROSINE KINASE SUBSTRATE,FYVE/PHD zinc finger
+gem,True,0.8053,SAM domain (Sterile alpha motif),TRANSCRIPTION FACTOR CP2,SAM/Pointed domain
+CG6695,True,0.7724,Alternative splicing regulator,SPLICING FACTOR  SUPPRESSOR OF WHITE APRICOT,N/A
+Pur-alpha,True,0.6944,N/A,N/A,N/A
+CG14982,True,0.9615,Centrosome-associated C terminus,AGAP005440-PA,beta-sandwich domain of Sec23/24
+scrt,True,0.9895,C2H2-type zinc finger,PR DOMAIN ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+FoxL1,True,0.986,Forkhead domain,FORKHEAD BOX PROTEIN,"""Winged helix"" DNA-binding domain"
+CG12605,True,0.9957,N/A,N/A,N/A
+HLH4C,True,0.9865,Helix-loop-helix DNA-binding domain,T-CELL ACUTE LYMPHOCYTIC LEUKEMIA/STEM CELL LEUKEMIA-RELATED,"HLH, helix-loop-helix DNA-binding domain"
+btz,True,0.8917,CASC3/Barentsz eIF4AIII binding,PROTEIN CASC3,N/A
+CG10949,True,0.9876,Alcohol dehydrogenase transcription factor Myb/SANT-like,MADF DOMAIN TRANSCRIPTION FACTOR,N/A
+Atf6,True,0.9656,bZIP transcription factor,"ATF6, ISOFORM C",Leucine zipper domain
+exd,True,0.9982,Homeobox KN domain,HOMEOBOX PROTEIN TRANSCRIPTION FACTORS,Homeodomain-like
+Phf7,True,0.7686,PHD-like zinc-binding domain,PHD FINGER PROTEIN,FYVE/PHD zinc finger
+Optix,True,0.9978,Homeodomain,HOMEOBOX PROTEIN SIX,Homeodomain-like
+CG33557,True,0.7916,N/A,N/A,N/A
+emc,True,0.9995,Helix-loop-helix DNA-binding domain,DNA-BINDING PROTEIN INHIBITOR,"HLH, helix-loop-helix DNA-binding domain"
+eyg,True,0.9879,Homeodomain,PAIRED BOX PROTEIN PAX-6-RELATED-RELATED,Homeodomain-like
+sv,True,0.9845,'Paired box' domain,PAIRED BOX PROTEIN PAX-6-RELATED-RELATED,Homeodomain-like
+jim,True,0.9876,"Zinc finger, C2H2 type",PR DOMAIN ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+oc,True,0.9991,Homeodomain,HOMEOBOX PROTEIN,Homeodomain-like
+zfh1,True,0.9987,"Zinc finger, C2H2 type",HISTONE H4 TRANSCRIPTION FACTOR-RELATED,Homeodomain-like
+CG1360,True,0.9506,N/A,N/A,N/A
+tll,True,0.9912,Ligand-binding domain of nuclear hormone receptor,NUCLEAR HORMONE RECEPTOR,Nuclear receptor ligand-binding domain
+ey,True,0.9929,Homeodomain,PAIRED BOX PROTEIN PAX-6-RELATED-RELATED,Homeodomain-like
+CG14667,True,0.5845,"Zinc finger, C2H2 type",PR DOMAIN ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+ewg,True,0.9966,NLS-binding and DNA-binding and dimerisation domains of Nrf1,NUCLEAR RESPIRATORY FACTOR 1,N/A
+Eip74EF,True,0.9989,Ets-domain,ETS,"""Winged helix"" DNA-binding domain"
+mim,True,0.861,IRSp53/MIM homology domain,ACTIN BUNDLING/MISSING IN METASTASIS-RELATED,BAR/IMD domain-like
+gsb,True,0.9998,Homeodomain,PAIRED BOX PROTEIN PAX-6-RELATED-RELATED,Homeodomain-like
+Stat92E,True,0.9157,"Signal transducer and activator of transcription, linker domain",SIGNAL TRANSDUCER AND ACTIVATOR OF TRANSCRIPTION,p53-like transcription factors
+bnl,True,0.8892,Fibroblast growth factor,FIBROBLAST GROWTH FACTOR,Cytokine
+bocks,True,0.795,LEM domain,N/A,LEM domain
+Doc2,True,0.9877,T-box,T-BOX PROTEIN-RELATED,p53-like transcription factors
+Top1,True,0.9689,C-terminal topoisomerase domain,DNA TOPOISOMERASE I,"Eukaryotic DNA topoisomerase I, dispensable insert domain"
+hry,True,0.9927,Helix-loop-helix DNA-binding domain,"BASIC HELIX-LOOP-HELIX TRANSCRIPTION FACTOR, HES-RELATED",Orange domain-like
+prd,True,0.9999,'Paired box' domain,PAIRED BOX PROTEIN PAX-6-RELATED-RELATED,Homeodomain-like
+Clk,True,0.9615,PAS domain,CIRCADIAN LOCOMOTER OUTPUT CYCLES PROTEIN KAPUT,PYP-like sensor domain (PAS domain)
+CG8478,True,0.5391,"Zinc finger, C2H2 type",KRAB AND ZINC FINGER DOMAIN-CONTAINING,beta-beta-alpha zinc fingers
+en,True,0.9987,Homeodomain,HOMEOBOX PROTEIN ENGRAILED,Homeodomain-like
+acj6,True,0.9991,Homeodomain,POU DOMAIN,Homeodomain-like
+CG9776,True,0.5443,N/A,ZINC FINGER CONTAINING PROTEIN,N/A
+ena,True,0.6117,VASP tetramerisation domain,"SPROUTY-RELATED, EVH1 DOMAIN-CONTAINING PROTEIN FAMILY MEMBER","Vasodilator-stimulated phosphoprotein, VASP, tetramerisation domain"
+inv,True,0.9992,Homeodomain,HOMEOBOX PROTEIN ENGRAILED,Homeodomain-like
+PolG2,True,0.5559,Anticodon binding domain,GLYCYL-TRNA SYNTHETASE/DNA POLYMERASE SUBUNIT GAMMA-2,Class II aaRS ABD-related
+tral,True,0.6231,Scd6-like Sm domain,SCD6 PROTEIN-RELATED,Sm-like ribonucleoproteins
+srp,True,0.9984,GATA zinc finger,TRANSCRIPTION FACTOR GATA FAMILY MEMBER,Glucocorticoid receptor-like (DNA-binding domain)
+lab,True,0.9907,Homeodomain,HOMEOBOX PROTEIN ROUGH-RELATED,Homeodomain-like
+Myo95E,True,0.8959,Myosin head (motor domain),MYOSIN,P-loop containing nucleoside triphosphate hydrolases
+gukh,True,0.9315,N/A,WASP-1,N/A
+CG33695,True,0.8421,N/A,CHROMATIN COMPLEXES SUBUNIT BAP18-RELATED,Homeodomain-like
+His3.3A,True,0.9572,Core histone H2A/H2B/H3/H4,HISTONE H3,Histone-fold
+Cipc,True,0.806,N/A,N/A,N/A
+Ptx1,True,0.9979,OAR motif,PITUITARY HOMEOBOX HOMOLOG PTX1,Homeodomain-like
+hth,True,0.9989,TALE/MEIS homeobox family N-terminal domain,HOMEOBOX PROTEIN TRANSCRIPTION FACTORS,Homeodomain-like
+seq,True,0.9988,N/A,HOMEOBOX PROTEIN BARH-LIKE,beta-beta-alpha zinc fingers
+CycT,True,0.6481,"Cyclin-T2-like, C-terminal domain",CYCLIN,Cyclin-like
+kay,True,0.9896,bZIP transcription factor,FOS TRANSCRIPTION FACTOR-RELATED,Leucine zipper domain
+CG17568,True,0.9501,"Zinc finger, C2H2 type",KRAB AND ZINC FINGER DOMAIN-CONTAINING,beta-beta-alpha zinc fingers
+Cp110,True,0.6683,Calcium-dependent calmodulin binding,CENTRIOLAR COILED-COIL PROTEIN OF 110 KDA,N/A
+CG15888,True,0.5864,N/A,N/A,N/A
+Alms1b,True,0.6152,ALMS motif,N/A,N/A
+twi,True,0.9855,Helix-loop-helix DNA-binding domain,"BASIC HELIX-LOOP-HELIX TRANSCRIPTION FACTOR, TWIST","HLH, helix-loop-helix DNA-binding domain"
+Ccdc6,True,0.687,Uncharacterized conserved protein H4 (DUF2046),H4 D10S170  PROTEIN-RELATED,N/A
+Deaf1,True,0.9643,SAND domain,DEFORMED EPIDERMAL AUTOREGULATORY FACTOR 1 HOMOLOG  SUPPRESSIN,SAND domain-like
+E(spl)m5-HLH,True,0.9731,Helix-loop-helix DNA-binding domain,"BASIC HELIX-LOOP-HELIX TRANSCRIPTION FACTOR, HES-RELATED","HLH, helix-loop-helix DNA-binding domain"
+ovo,True,0.9995,"Zinc finger, C2H2 type",ZINC FINGER PROTEIN WITH KRAB AND SCAN DOMAINS,beta-beta-alpha zinc fingers
+CG14400,True,0.842,N/A,N/A,N/A
+His3.3B,True,0.9572,Core histone H2A/H2B/H3/H4,HISTONE H3,Histone-fold
+l(3)73Ah,True,0.9524,"Zinc finger, C3HC4 type (RING finger)",POLYCOMB GROUP RING FINGER PROTEIN,RING/U-box
+Tbp,True,0.9977,"Transcription factor TFIID (or TATA-binding protein, TBP)",TATA-BOX BINDING PROTEIN,TATA-box binding protein-like
+bin,True,0.9993,Forkhead domain,FORKHEAD BOX PROTEIN BINIOU,"""Winged helix"" DNA-binding domain"
+disco,True,0.99,N/A,DISCONNECTED-RELATED,N/A
+bsh,True,0.9883,Homeodomain,HOMEO BOX HB9 LIKE A-RELATED,Homeodomain-like
+opa,True,0.9985,Zic proteins zinc finger domain,TRANSCRIPTIONAL ACTIVATOR CUBITUS INTERRUPTUS,beta-beta-alpha zinc fingers
+crc,True,0.9955,bZIP transcription factor,ACTIVATING TRANSCRIPTION FACTOR  ATF  4/5,Leucine zipper domain
+Trl,True,0.979,GAGA factor,BTB DOMAIN TRANSCRIPTION FACTOR,POZ domain
+CG17803,True,0.9645,Zinc-finger associated domain (zf-AD),KRAB AND ZINC FINGER DOMAIN-CONTAINING,beta-beta-alpha zinc fingers
+RSG7,True,0.7617,"Domain found in Dishevelled, Egl-10, and Pleckstrin (DEP)",LP21163P,"Regulator of G-protein signaling, RGS"
+NAT1,True,0.7089,eIF4-gamma/eIF5/eIF2-epsilon,EUKARYOTIC TRANSLATION INITIATION FACTOR 4 GAMMA,ARM repeat
+gl,True,0.9933,"Zinc finger, C2H2 type",PR DOMAIN ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+CG1024,True,0.9765,"Zinc finger, C2H2 type",TRANSCRIPTIONAL REPRESSOR CTCFL-RELATED,N/A
+brwl,True,0.8679,Alcohol dehydrogenase transcription factor Myb/SANT-like,MADF DOMAIN TRANSCRIPTION FACTOR,N/A
+CG11788,True,0.7811,Sister chromatid cohesion protein Dcc1,SISTER CHROMATID COHESION PROTEIN DCC1-RELATED,N/A
+run,True,0.9679,Runt domain,RUNT RELATED,p53-like transcription factors
+CG10462,True,0.7936,"Zinc finger, C2H2 type",KRAB AND ZINC FINGER DOMAIN-CONTAINING,beta-beta-alpha zinc fingers
+brk,True,0.9261,Brinker DNA-binding domain,"MUCIN 4B, ISOFORM B-RELATED",N/A
+CG14810,True,0.6062,N/A,N/A,N/A
+Zw10,True,0.5179,"Centromere/kinetochore protein zw10, C-terminal",CENTROMERE/KINETOCHORE PROTEIN ZW10,N/A
+CG34029,True,0.8607,N/A,N/A,N/A
+CG34031,True,0.999,Homeodomain,HOMEO BOX HB9 LIKE A-RELATED,Homeodomain-like
+CG34116,True,0.5048,N/A,N/A,N/A
+RunxA,True,0.9946,Runt domain,RUNT RELATED,p53-like transcription factors
+CG34149,True,0.7884,BESS motif,N/A,N/A
+Parp1,True,0.9952,WGR domain,DNA LIGASE,Domain of poly(ADP-ribose) polymerase
+ATbp,True,0.9916,N/A,PR DOMAIN ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+CG34159,True,0.9866,FAM195 family,N/A,N/A
+CG34216,True,0.8285,Domain of unknown function (DUF4778),N/A,N/A
+CG34269,True,0.782,N/A,N/A,N/A
+Drgx,True,0.9948,OAR motif,HOMEOBOX PROTEIN ARISTALESS,Homeodomain-like
+CG34347,True,0.9632,FERM central domain,4.1 G PROTEIN,Ubiquitin-like
+CG34367,True,0.9982,OAR motif,SHORT STATURE HOMEOBOX,Homeodomain-like
+CG34375,True,0.6839,"E3 ubiquitin-protein ligase sina/sinah, RING finger",E3 UBIQUITIN-PROTEIN LIGASE SIAH2,PDZ domain-like
+CG34376,True,0.9144,BTB/POZ domain,BTB DOMAIN TRANSCRIPTION FACTOR,POZ domain
+nub,True,0.997,Homeodomain,POU DOMAIN,lambda repressor-like DNA-binding domains
+pan,True,0.9868,HMG (high mobility group) box,TRANSCRIPTION FACTOR 7 FAMILY MEMBER,HMG-box
+CG34417,True,0.5205,Calponin homology (CH) domain,CALPONIN HOMOLOGY DOMAIN-CONTAINING PROTEIN DDB_G0272472-RELATED,"Calponin-homology domain, CH-domain"
+CG40813,True,0.9596,RNA recognition motif,ACTIVATOR OF BASAL TRANSCRIPTION 1,"RNA-binding domain, RBD"
+CG41562,True,0.8382,RNA recognition motif,ACTIVATOR OF BASAL TRANSCRIPTION 1,"RNA-binding domain, RBD"
+del,True,0.5123,N/A,N/A,N/A
+tef,True,0.914,N/A,N/A,N/A
+Tab2,True,0.989,N/A,N/A,Ran binding protein zinc finger-like
+jeb,True,0.5187,N/A,GH16255P,LDL receptor-like module
+vvl,True,0.9967,Homeodomain,POU DOMAIN,lambda repressor-like DNA-binding domains
+Mst36Fa,True,0.9578,N/A,N/A,N/A
+chinmo,True,0.8037,BTB/POZ domain,BTB DOMAIN TRANSCRIPTION FACTOR,beta-beta-alpha zinc fingers
+mbm,True,0.5261,N/A,AGL056WP,Retrovirus zinc finger-like domains
+Vrp1,True,0.5841,WH2 motif,PROTEIN DIAPHANOUS,N/A
+CG42233,True,0.9512,"WD domain, G-beta repeat",WD REPEAT DOMAIN-CONTAINING FAMILY,WD40 repeat-like
+CG42266,True,0.9737,N/A,N/A,N/A
+RunxB,True,0.9501,Runt domain,RUNT RELATED,p53-like transcription factors
+bun,True,0.9999,TSC-22/dip/bun family,TSC22 DOMAIN FAMILY PROTEIN 1,Delta-sleep-inducing peptide immunoreactive peptide
+CG42296,True,0.6011,Chitin binding Peritrophin-A domain,N/A,Invertebrate chitin-binding proteins
+grh,True,0.9953,CP2 transcription factor,TRANSCRIPTION FACTOR CP2,N/A
+CG42337,True,0.9454,N/A,N/A,N/A
+CG42342,True,0.5091,Collagen triple helix repeat (20 copies),COLLAGEN,N/A
+pzg,True,0.9879,N/A,ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+bora,True,0.8341,Protein aurora borealis N-terminus,PROTEIN AURORA BOREALIS,N/A
+CG42458,True,0.872,RNA recognition motif,HETEROGENEOUS NUCLEAR RIBONUCLEOPROTEIN,"RNA-binding domain, RBD"
+cwo,True,0.9964,Helix-loop-helix DNA-binding domain,"BASIC HELIX-LOOP-HELIX TRANSCRIPTION FACTOR, HES-RELATED",Orange domain-like
+E(var)3-9,True,0.991,"Zinc finger, C2H2 type",ZINC FINGER PROTEIN 142,Glucocorticoid receptor-like (DNA-binding domain)
+mtg,True,0.8708,Chitin binding Peritrophin-A domain,FI18007P1-RELATED,Invertebrate chitin-binding proteins
+dl,True,0.995,Rel homology dimerisation domain,NUCLEAR FACTOR NF-KAPPA-B PROTEIN,E set domains
+CG3281,True,0.9723,Zinc-finger associated domain (zf-AD),ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+Larp7,True,0.8147,RNA binding motif,LUPUS LA PROTEIN-RELATED,"""Winged helix"" DNA-binding domain"
+GatA,True,0.9085,Amidase,TRANSAMIDASE,Amidase signature (AS) enzymes
+scny,True,0.9372,Ubiquitin carboxyl-terminal hydrolase,UBIQUITIN CARBOXYL-TERMINAL HYDROLASE,Cysteine proteinases
+Xrp1,True,0.9736,N/A,N/A,N/A
+Alh,True,0.9389,PHD-zinc-finger like domain,PHD FINGER PROTEINS,FYVE/PHD zinc finger
+Hr39,True,0.9931,Ligand-binding domain of nuclear hormone receptor,NUCLEAR RECEPTOR SUBFAMILY 5 GROUP A,Nuclear receptor ligand-binding domain
+lqfR,True,0.8978,Telomere length regulation protein,EPSIN/ENT-RELATED,ARM repeat
+hkb,True,0.9949,"Zinc finger, C2H2 type",KRUEPPEL-LIKE TRANSCRIPTION FACTOR,beta-beta-alpha zinc fingers
+CG42673,True,0.9442,N/A,PHOSPHOTYROSINE INTERACTION DOMAIN-CONTAINING FAMILY MEMBER,N/A
+CoRest,True,0.9981,Myb-like DNA-binding domain,REST COREPRESSOR  COREST  PROTEIN-RELATED,Homeodomain-like
+pdm3,True,0.9855,Pou domain - N-terminal to homeobox domain,POU DOMAIN,lambda repressor-like DNA-binding domains
+Axud1,True,0.9416,Cysteine/serine-rich nuclear protein N-terminus,TGF-BETA INDUCED APOPTOSIS PROTEIN,N/A
+CG42726,True,0.9939,"Zinc finger, C2H2 type",PR DOMAIN ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+gce,True,0.9888,PAS domain,CIRCADIAN PROTEIN CLOCK/ARNT/BMAL/PAS,PYP-like sensor domain (PAS domain)
+CG42741,True,0.9769,"Zinc finger, C2H2 type",KRUEPPEL-LIKE TRANSCRIPTION FACTOR,beta-beta-alpha zinc fingers
+Dbx,True,0.9919,Homeodomain,DBX,Homeodomain-like
+mi,True,0.7975,N/A,N/A,N/A
+vnd,True,0.9971,Homeodomain,HOMEOBOX PROTEIN NKX,Homeodomain-like
+mid,True,0.9994,T-box,T-BOX PROTEIN-RELATED,p53-like transcription factors
+l(2)gd1,True,0.9897,C2 domain,COILED-COIL AND C2 DOMAIN-CONTAINING PROTEIN 1-LIKE,"C2 domain (Calcium/lipid-binding domain, CaLB)"
+trh,True,0.9582,PAS fold,HYPOXIA-INDUCIBLE FACTOR 1 ALPHA,PYP-like sensor domain (PAS domain)
+FoxP,True,0.9991,FOXP coiled-coil domain,"FORKHEAD BOX P, ISOFORM C","""Winged helix"" DNA-binding domain"
+CG43077,True,0.9365,N/A,N/A,N/A
+CG43116,True,0.7789,N/A,N/A,N/A
+dati,True,0.9813,"Zinc finger, C2H2 type",PR DOMAIN ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+Myc,True,0.9723,Helix-loop-helix DNA-binding domain,MYC PROTO-ONCOGENE,"HLH, helix-loop-helix DNA-binding domain"
+Polr2K,True,0.9252,"DNA directed RNA polymerase, 7 kDa subunit","DNA-DIRECTED RNA POLYMERASES I, II, AND III",RNA polymerase subunits
+cnc,True,0.9887,bZIP Maf transcription factor,NUCLEAR FACTOR ERYTHROID 2-RELATED FACTOR,Leucine zipper domain
+CG43339,True,0.5259,N/A,N/A,N/A
+CG43338,True,0.5712,N/A,TSEC-2-RELATED,N/A
+psq,True,0.6593,BTB/POZ domain,BTB DOMAIN TRANSCRIPTION FACTOR,POZ domain
+BtbVII,True,0.9775,BTB/POZ domain,BTB DOMAIN TRANSCRIPTION FACTOR,POZ domain
+Mitf,True,0.9976,Helix-loop-helix DNA-binding domain,MIP04163P,"HLH, helix-loop-helix DNA-binding domain"
+dar1,True,0.9968,"Zinc finger, C2H2 type",KRUEPPEL-LIKE TRANSCRIPTION FACTOR,beta-beta-alpha zinc fingers
+smash,True,0.7358,Domain of unknown function (DUF4757),LIM DOMAIN ONLY 7,N/A
+Vsx1,True,0.9996,Homeodomain,VISUAL SYSTEM HOMEOBOX 2,Homeodomain-like
+Vsx2,True,0.9986,OAR motif,VISUAL SYSTEM HOMEOBOX 2,Homeodomain-like
+PolE4,True,0.9649,Histone-like transcription factor (CBF/NF-Y) and archaeal histone,HISTONE-LIKE TRANSCRIPTION FACTOR CCAAT-RELATED,Histone-fold
+CG4610,True,0.8386,tRNA modifying enzyme MnmG/GidA C-terminal helical bundle,GLUCOSE INHIBITED DIVISION PROTEIN A,FAD/NAD(P)-binding domain
+px,True,0.5366,N/A,"PLEXUS, ISOFORM A",N/A
+qkr58E-1,True,0.8964,"KHDC4/BBP-like, KH-domain type I",RNA-BINDING PROTEIN RELATED,Eukaryotic type KH-domain (KH-domain type I)
+CG13510,True,0.5569,LITAF-like zinc ribbon domain,LIPOPOLYSACCHARIDE-INDUCED TUMOR NECROSIS FACTOR-ALPHA FACTOR,N/A
+fd59A,True,0.994,Forkhead domain,FORKHEAD BOX PROTEIN,"""Winged helix"" DNA-binding domain"
+CG9876,True,0.9935,Homeodomain,HOMEOBOX PROTEIN ARISTALESS,Homeodomain-like
+retn,True,0.9956,ARID/BRIGHT DNA binding domain,AT-RICH INTERACTIVE DOMAIN-CONTAINING PROTEIN  ARID DOMAIN- CONTAINING PROTEIN   DEAD RINGER PROTEIN   B-CELL REGULATOR OF IGH TRANSCRIPTION   BRIGHT,ARID-like
+pita,True,0.9507,"Zinc finger, C2H2 type",PR DOMAIN ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+ken,True,0.9878,BTB/POZ domain,B-CELL LYMPHOMA/LEUKEMIA 11,POZ domain
+CG3065,True,0.9972,"Zinc finger, C2H2 type",KRUEPPEL-LIKE TRANSCRIPTION FACTOR,beta-beta-alpha zinc fingers
+mr,True,0.7309,Cullin family,ANAPHASE-PROMOTING COMPLEX SUBUNIT 2,"""Winged helix"" DNA-binding domain"
+Sox14,True,0.8826,HMG (high mobility group) box,SOX TRANSCRIPTION FACTOR,HMG-box
+CG3163,True,0.9525,Alcohol dehydrogenase transcription factor Myb/SANT-like,MADF DOMAIN-CONTAINING PROTEIN-RELATED,N/A
+Not11,True,0.5198,CCR4-NOT transcription complex subunit 11,CCR4-NOT TRANSCRIPTION COMPLEX SUBUNIT 11,N/A
+Orcokinin,True,0.6641,N/A,N/A,N/A
+Nap1,True,0.5959,Nucleosome assembly protein (NAP),TESTIS-SPECIFIC Y-ENCODED PROTEIN,NAP-like
+PHDP,True,0.9972,Homeodomain,HOMEOBOX PROTEIN ARISTALESS,Homeodomain-like
+Pym,True,0.6489,Mago binding,PYM PROTEIN,"Pym (Within the bgcn gene intron protein, WIBG), N-terminal domain"
+bs,True,0.9921,SRF-type transcription factor (DNA-binding and dimerisation domain),SERUM RESPONSE FACTOR HOMOLOG,SRF-like
+slbo,True,0.9991,Basic region leucine zipper,CCAAT/ENHANCER BINDING PROTEIN,Leucine zipper domain
+tamo,True,0.6877,"Spermatogenesis-associated protein 2, PUB-like domain",SPERMATOGENESIS-ASSOCIATED PROTEIN 2/TAMOZHENNIC,Ran binding protein zinc finger-like
+CG3548,True,0.9288,Myb/SANT-like DNA-binding domain,APONTIC,N/A
+CG4707,True,0.9335,Zinc-finger associated domain (zf-AD),TRANSCRIPTIONAL REPRESSOR CTCFL-RELATED,Glucocorticoid receptor-like (DNA-binding domain)
+Dll,True,0.9976,Homeodomain,HOMEOBOX PROTEIN,Homeodomain-like
+CG2765,True,0.7833,Thyroid hormone-inducible hepatic protein Spot 14,SPOT14 FAMILY MEMBER,N/A
+CG2790,True,0.8938,Zinc-finger double-stranded RNA-binding,DNAJ HOMOLOG SUBFAMILY C MEMBER 21,Chaperone J-domain
+Kr,True,0.9988,"Zinc finger, C2H2 type",PR DOMAIN ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+gsb-n,True,0.9973,'Paired box' domain,PAIRED BOX PROTEIN PAX-6-RELATED-RELATED,Homeodomain-like
+CG1233,True,0.9932,"Zinc finger, C2H2 type",KRAB AND ZINC FINGER DOMAIN-CONTAINING,beta-beta-alpha zinc fingers
+BORCS6,True,0.7243,BLOC-1-related complex sub-unit 6 C-terminal helix,BLOC-1 RELATED COMPLEX SUBUNIT 6,N/A
+Kah,True,0.9947,"Zinc finger, C2H2 type",ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+nerfin-1,True,0.5566,"Zinc finger, C2H2 type",INSULINOMA-ASSOCIATED 1,beta-beta-alpha zinc fingers
+hng3,True,0.5778,Alcohol dehydrogenase transcription factor Myb/SANT-like,MADF DOMAIN TRANSCRIPTION FACTOR,N/A
+bab1,True,0.9967,"helix-turn-helix, Psq domain",BTB DOMAIN TRANSCRIPTION FACTOR,POZ domain
+Zn72D,True,0.7963,DZF N-terminal domain,ZINC FINGER RNA-BINDING PROTEIN,beta-beta-alpha zinc fingers
+CG43638,True,0.867,N/A,N/A,N/A
+CG34334,True,0.8968,RNA recognition motif,RIBONUCLEIC ACID BINDING PROTEIN S1,"RNA-binding domain, RBD"
+CG43711,True,0.5805,N/A,N/A,N/A
+jvl,True,0.8759,N/A,N/A,N/A
+ebi,True,0.6118,"WD domain, G-beta repeat",WD40 REPEAT PROTEIN,Quinoprotein alcohol dehydrogenase-like
+CG43736,True,0.8891,N/A,EPHRIN_REC_LIKE DOMAIN-CONTAINING PROTEIN,N/A
+Hmx,True,0.9843,Homeodomain,HOMEOBOX PROTEIN HMX,Homeodomain-like
+tgo,True,0.9835,Helix-loop-helix DNA-binding domain,CIRCADIAN PROTEIN CLOCK/ARNT/BMAL/PAS,"HLH, helix-loop-helix DNA-binding domain"
+CG43759,True,0.8019,N/A,N/A,N/A
+orb2,True,0.9133,RNA recognition motif,CYTOPLASMIC POLYADENYLATION ELEMENT BINDING PROTEIN  CPEB,"RNA-binding domain, RBD"
+ab,True,0.9927,BTB/POZ domain,BTB DOMAIN TRANSCRIPTION FACTOR,POZ domain
+CG43897,True,0.7969,Domain of unknown function (DUF4749),N/A,N/A
+CG44002,True,0.9646,Zinc-finger associated domain (zf-AD),ZINC FINGER PROTEIN,Glucocorticoid receptor-like (DNA-binding domain)
+pre-lola-G,True,0.7448,"Zinc finger, C2H2 type",ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+fd3F,True,0.9919,Forkhead domain,FORKHEAD BOX PROTEIN N3-LIKE PROTEIN-RELATED,"""Winged helix"" DNA-binding domain"
+CG44195,True,0.5818,N/A,N/A,N/A
+Atf-2,True,0.6204,N/A,CYCLIC-AMP RESPONSE ELEMENT BINDING PROTEIN,N/A
+l(3)neo38,True,0.9912,"Zinc finger, C2H2 type",ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+Traf6,True,0.7048,"Zinc finger, C3HC4 type (RING finger)",TNF RECEPTOR ASSOCIATED FACTOR,TRAF domain-like
+Cdc5,True,0.9465,pre-mRNA splicing factor component,CELL DIVISION CYCLE 5-LIKE PROTEIN,Homeodomain-like
+CG44405,True,0.8957,N/A,N/A,N/A
+CG44434,True,0.7472,N/A,N/A,N/A
+CG44435,True,0.5008,N/A,N/A,N/A
+CrebB,True,0.9994,bZIP transcription factor,CYCLIC AMP RESPONSE ELEMENT-BINDING PROTEIN B,Leucine zipper domain
+sima,True,0.5446,PAS fold,HYPOXIA-INDUCIBLE FACTOR 1 ALPHA,"HLH, helix-loop-helix DNA-binding domain"
+CG45064,True,0.9633,N/A,N/A,N/A
+CG45071,True,0.7145,Alcohol dehydrogenase transcription factor Myb/SANT-like,MADF DOMAIN TRANSCRIPTION FACTOR,N/A
+Kr-h1,True,0.9706,"Zinc finger, C2H2 type",ZINC FINGER AND SCAN DOMAIN-CONTAINING,beta-beta-alpha zinc fingers
+Sec3,True,0.8367,Exocyst complex component SEC3 N-terminal PIP2 binding PH,SEC3/SYNTAXIN-RELATED,N/A
+rn,True,0.9862,"Zinc finger, C2H2 type",TRANSCRIPTIONAL REPRESSOR PROTEIN YY,beta-beta-alpha zinc fingers
+Mst77Y-4,True,0.668,N/A,N/A,N/A
+HnRNP-K,True,0.7193,KH domain,KH DOMAIN CONTAINING RNA BINDING PROTEIN,Eukaryotic type KH-domain (KH-domain type I)
+rgr,True,0.9318,Alcohol dehydrogenase transcription factor Myb/SANT-like,PR DOMAIN ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+da,True,0.9464,Helix-loop-helix DNA-binding domain,BASIC HELIX-LOOP-HELIX TRANSCRIPTION FACTOR,"HLH, helix-loop-helix DNA-binding domain"
+ap,True,0.996,Homeodomain,LIM/HOMEOBOX PROTEIN LHX,Glucocorticoid receptor-like (DNA-binding domain)
+zf30C,True,0.9978,"Zinc finger, C2H2 type",TRANSCRIPTIONAL REPRESSOR CTCFL-RELATED,beta-beta-alpha zinc fingers
+dmt,True,0.9779,Sororin protein,N/A,N/A
+Dsp1,True,0.9415,HMG-box domain,HIGH MOBILITY GROUP PROTEIN DSP1,HMG-box
+br,True,0.9571,BTB/POZ domain,BTB DOMAIN TRANSCRIPTION FACTOR,POZ domain
+lola-PAA,True,0.9979,N/A,N/A,N/A
+lola,True,0.9977,BTB/POZ domain,BTB DOMAIN TRANSCRIPTION FACTOR,POZ domain
+sbb,True,0.8008,N/A,BRAKELESS PROTEIN,N/A
+Imp,True,0.8465,RNA recognition motif,KH DOMAIN CONTAINING RNA BINDING PROTEIN,Eukaryotic type KH-domain (KH-domain type I)
+prg,True,0.9855,Zinc-finger associated domain (zf-AD),ODD-SKIPPED - RELATED,beta-beta-alpha zinc fingers
+vrs,True,0.6928,N/A,N/A,N/A
+Orc1,True,0.7275,"CDC6, C terminal winged helix domain",CELL DIVISION CONTROL PROTEIN 6-RELATED,P-loop containing nucleoside triphosphate hydrolases
+CG46399,True,0.8669,N/A,N/A,N/A
+CG46434,True,0.5618,N/A,N/A,N/A
+CG46440,True,0.9465,N/A,N/A,N/A
+dbf,True,0.6658,Zinc-finger of C2H2 type,ZINC FINGER MATRIN-TYPE PROTEIN 3,beta-beta-alpha zinc fingers
+esg,True,0.9991,"Zinc finger, C2H2 type",ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+CG46504,True,0.9596,RNA recognition motif,ACTIVATOR OF BASAL TRANSCRIPTION 1,"RNA-binding domain, RBD"
+CG46505,True,0.8382,RNA recognition motif,ACTIVATOR OF BASAL TRANSCRIPTION 1,"RNA-binding domain, RBD"
+CG46506,True,0.9474,RNA recognition motif,ACTIVATOR OF BASAL TRANSCRIPTION 1,"RNA-binding domain, RBD"
+CG46507,True,0.9422,RNA recognition motif,ACTIVATOR OF BASAL TRANSCRIPTION 1,"RNA-binding domain, RBD"
+CG46508,True,0.956,RNA recognition motif,ACTIVATOR OF BASAL TRANSCRIPTION 1,"RNA-binding domain, RBD"
+CG46509,True,0.9448,RNA recognition motif,ACTIVATOR OF BASAL TRANSCRIPTION 1,"RNA-binding domain, RBD"
+CG46510,True,0.9513,RNA recognition motif,ACTIVATOR OF BASAL TRANSCRIPTION 1,"RNA-binding domain, RBD"
+CG46511,True,0.9489,RNA recognition motif,ACTIVATOR OF BASAL TRANSCRIPTION 1,"RNA-binding domain, RBD"
+CG46512,True,0.9504,RNA recognition motif,ACTIVATOR OF BASAL TRANSCRIPTION 1,"RNA-binding domain, RBD"
+CG46513,True,0.956,RNA recognition motif,ACTIVATOR OF BASAL TRANSCRIPTION 1,"RNA-binding domain, RBD"
+CG46514,True,0.8382,RNA recognition motif,ACTIVATOR OF BASAL TRANSCRIPTION 1,"RNA-binding domain, RBD"
+CG46515,True,0.8382,RNA recognition motif,ACTIVATOR OF BASAL TRANSCRIPTION 1,"RNA-binding domain, RBD"
+CG46516,True,0.8382,RNA recognition motif,ACTIVATOR OF BASAL TRANSCRIPTION 1,"RNA-binding domain, RBD"
+CG46517,True,0.956,RNA recognition motif,ACTIVATOR OF BASAL TRANSCRIPTION 1,"RNA-binding domain, RBD"
+CG46518,True,0.8382,RNA recognition motif,ACTIVATOR OF BASAL TRANSCRIPTION 1,"RNA-binding domain, RBD"
+CG46519,True,0.956,RNA recognition motif,ACTIVATOR OF BASAL TRANSCRIPTION 1,"RNA-binding domain, RBD"
+CG46520,True,0.8382,RNA recognition motif,ACTIVATOR OF BASAL TRANSCRIPTION 1,"RNA-binding domain, RBD"
+CG46521,True,0.7813,RNA recognition motif,ACTIVATOR OF BASAL TRANSCRIPTION 1,"RNA-binding domain, RBD"
+CG46522,True,0.8382,RNA recognition motif,ACTIVATOR OF BASAL TRANSCRIPTION 1,"RNA-binding domain, RBD"
+tx,True,0.9973,Helix-loop-helix DNA-binding domain,BASIC HELIX-LOOP-HELIX PROTEIN NEUROGENIN-RELATED,"HLH, helix-loop-helix DNA-binding domain"
+Med,True,0.8852,MH1 domain,SMAD,SMAD MH1 domain
+CG9173,True,0.886,N/A,N/A,N/A
+indra,True,0.5054,"Zinc finger, C2H2 type",ZINC FINGER PROTEIN 142,beta-beta-alpha zinc fingers
+CG32846,True,0.7199,N/A,N/A,N/A
+CG15812,True,0.9672,BTB/POZ domain,BTB DOMAIN TRANSCRIPTION FACTOR,POZ domain
+Ythdc1,True,0.7073,YT521-B-like domain,YTH  YT521-B HOMOLOGY  DOMAIN-CONTAINING,N/A
+Asciz,True,0.5343,N/A,ATM INTERACTOR,N/A
+Awh,True,0.9899,LIM domain,LIM/HOMEOBOX PROTEIN LHX,Glucocorticoid receptor-like (DNA-binding domain)
+CG32264,True,0.5947,RPEL repeat,PHOSPHATASE AND ACTIN REGULATOR  PHACTR,N/A
+TP53INP,True,0.9307,DOR family,"DIABETES AND OBESITY REGULATED, ISOFORM G",N/A
+HDAC1,True,0.9966,Histone deacetylase domain,HISTONE DEACETYLASE HDAC1-RELATED,Arginase/deacetylase
+Dnah3,True,0.7261,Dynein heavy chain region D6 P-loop domain,"DYNEIN HEAVY CHAIN 6, AXONEMAL-LIKE-RELATED",P-loop containing nucleoside triphosphate hydrolases
+CG2202,True,0.9937,"Zinc finger, C2H2 type",PR DOMAIN ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+Lint-1,True,0.8062,N/A,N/A,N/A
+CG1737,True,0.9701,N/A,N/A,N/A
+HP5,True,0.8562,N/A,N/A,N/A
+CG11696,True,0.9931,"Zinc finger, C2H2 type",ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+CG11695,True,0.9166,C2H2-type zinc finger,ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+Met,True,0.9778,Helix-loop-helix DNA-binding domain,CIRCADIAN PROTEIN CLOCK/ARNT/BMAL/PAS,PYP-like sensor domain (PAS domain)
+Vlet,True,0.6647,COMM domain,COMM DOMAIN CONTAINING PROTEIN 10,N/A
+Lsm12a,True,0.7757,Anticodon-binding domain,LSM12 HOMOLOG,N/A
+Chrac-16,True,0.9746,Histone-like transcription factor (CBF/NF-Y) and archaeal histone,HISTONE-LIKE TRANSCRIPTION FACTOR CCAAT-RELATED,Histone-fold
+CG11085,True,0.9918,Homeodomain,IP01054P,Homeodomain-like
+Pits,True,0.9545,Interferon regulatory factor 2-binding protein zinc finger,MYELIN TRANSCRIPTION FACTOR 1-RELATED,RING/U-box
+CG32651,True,0.7864,Domain of unknown function (DUF4729),N/A,N/A
+CG15725,True,0.8577,BTB/POZ domain,AGAP004733-PA,POZ domain
+CG4004,True,0.9753,Alcohol dehydrogenase transcription factor Myb/SANT-like,MADF DOMAIN-CONTAINING PROTEIN-RELATED,N/A
+CG4404,True,0.9384,BESS motif,MADF DOMAIN TRANSCRIPTION FACTOR,N/A
+CG4318,True,0.8934,"Zinc finger, C2H2 type",PR DOMAIN ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+dmrt11E,True,0.9935,DM DNA binding domain,DOUBLESEX AND MAB-3 RELATED TRANSCRIPTION FACTOR  DMRT,"Cysteine-rich DNA binding domain, (DM domain)"
+Mrgn1,True,0.5371,"Zinc finger, C3HC4 type (RING finger)",MAHOGUNIN,RING/U-box
+tth,True,0.7166,"DPF1-3, N-terminal",HL01030P-RELATED,N/A
+CG9411,True,0.685,N/A,N/A,N/A
+CG6340,True,0.8202,Small acidic protein family,ARGININE_SERINE-RICH COILED-COIL PROTEIN 2,N/A
+CG8117,True,0.7875,Transcription factor S-II (TFIIS),TRANSCRIPTION FACTOR S-II ZINC FINGER DOMAIN-CONTAINING PROTEIN,Zinc beta-ribbon
+CG12708,True,0.788,Domain of unknown function (DUF4799),N/A,N/A
+CG15646,True,0.9182,Domain of unknown function (DUF4799),N/A,N/A
+CG9215,True,0.9861,Zinc-finger associated domain (zf-AD),PR DOMAIN ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+CG8191,True,0.8644,N/A,N/A,N/A
+sd,True,0.9417,YAP binding domain,TRANSCRIPTIONAL ENHANCER FACTOR  TEF  RELATED,N/A
+CG8565,True,0.6434,Protein kinase domain,PROTEIN KINASE DOMAIN-CONTAINING PROTEIN-RELATED,Protein kinase-like (PK-like)
+CG8924,True,0.9312,BTB/POZ domain,BTB DOMAIN TRANSCRIPTION FACTOR,POZ domain
+Myb,True,0.9923,Myb-like DNA-binding domain,MYB PROTEIN-RELATED,Homeodomain-like
+CG8944,True,0.7348,C2H2-type zinc finger,KRAB AND ZINC FINGER DOMAIN-CONTAINING,beta-beta-alpha zinc fingers
+CG32572,True,0.5585,N/A,N/A,N/A
+CG4768,True,0.5641,Telomere attrition and p53 response 1 protein-like,UPF0472 PROTEIN C16ORF72,N/A
+CG9609,True,0.943,"Zinc finger, C2H2 type",ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+wcy,True,0.6635,WW domain,WW DOMAIN-CONTAINING ADAPTER PROTEIN WITH COILED-COIL,WW domain
+CG13000,True,0.5847,N/A,N/A,N/A
+B-H2,True,0.998,Homeodomain,HOMEOBOX PROTEIN BARH-LIKE,Homeodomain-like
+B-H1,True,0.9915,Homeodomain,HOMEOBOX PROTEIN BARH-LIKE,Homeodomain-like
+CG8675,True,0.9773,Uncharacterized conserved protein (DUF2039),ZGC:101016,N/A
+unc-4,True,0.9945,Homeodomain,HOMEOBOX PROTEIN UNC-4 HOMOLOG,Homeodomain-like
+OdsH,True,0.9938,Homeodomain,HOMEOBOX PROTEIN UNC-4 HOMOLOG,Homeodomain-like
+CG6769,True,0.5692,Zinc-finger double-stranded RNA-binding,ZINC FINGER PROTEIN 622,beta-beta-alpha zinc fingers
+Ada3,True,0.9309,Histone acetyltransferases subunit 3,TRANSCRIPTIONAL ADAPTER 3-RELATED,N/A
+CG12672,True,0.6156,N/A,PROTEIN CBG18546,N/A
+Hesr,True,0.8178,Helix-loop-helix DNA-binding domain,"BASIC HELIX-LOOP-HELIX TRANSCRIPTION FACTOR, HES-RELATED","HLH, helix-loop-helix DNA-binding domain"
+CG12609,True,0.5327,Alcohol dehydrogenase transcription factor Myb/SANT-like,MADF DOMAIN-CONTAINING PROTEIN-RELATED,N/A
+CG6470,True,0.9059,N/A,N/A,beta-beta-alpha zinc fingers
+CG7101,True,0.9799,"Zinc finger, C2H2 type",KRAB AND ZINC FINGER DOMAIN-CONTAINING,beta-beta-alpha zinc fingers
+CG14190,True,0.5429,N/A,N/A,N/A
+CG32532,True,0.9985,Homeodomain,HOMEOBOX PROTEIN ARISTALESS,Homeodomain-like
+CG17732,True,0.8346,N/A,N/A,N/A
+Su(z)12,True,0.9695,VEFS-Box of polycomb protein,POLYCOMB GROUP PROTEIN,N/A
+cyc,True,0.8915,PAS domain,CIRCADIAN PROTEIN CLOCK/ARNT/BMAL/PAS,PYP-like sensor domain (PAS domain)
+wnd,True,0.7001,Protein tyrosine and serine/threonine kinase,SERINE/THREONINE-PROTEIN KINASE TNNI3K-RELATED,Protein kinase-like (PK-like)
+Max,True,0.9637,Helix-loop-helix DNA-binding domain,PROTEIN MAX  MYC-ASSOCIATED FACTOR X,"HLH, helix-loop-helix DNA-binding domain"
+Spn75F,True,0.9371,Serpin (serine protease inhibitor),"SERINE PROTEASE INHIBITOR, SERPIN",Serpins
+ftz-f1,True,0.9969,Ligand-binding domain of nuclear hormone receptor,NUCLEAR RECEPTOR SUBFAMILY 5 GROUP A,Nuclear receptor ligand-binding domain
+Capr,True,0.8197,Caprin-1 dimerization domain,GPI-ANCHORED PROTEIN P137,N/A
+CG7271,True,0.6844,N/A,N/A,N/A
+term,True,0.6786,N/A,N/A,N/A
+CG7320,True,0.5928,"Hemocyanin, copper containing domain",LARVAL STORAGE PROTEIN/PHENOLOXIDASE,Di-copper centre-containing domain
+Crtc,True,0.7714,"Transducer of regulated CREB activity, N terminus",CREB-REGULATED TRANSCRIPTION COACTIVATOR,N/A
+tap,True,0.9978,Helix-loop-helix DNA-binding domain,BASIC HELIX-LOOP-HELIX PROTEIN NEUROGENIN-RELATED,"HLH, helix-loop-helix DNA-binding domain"
+Gorab,True,0.5497,Transcriptional activator,RAB6-INTERACTING PROTEIN GORAB,N/A
+CG32170,True,0.8228,N/A,N/A,N/A
+TSG101,True,0.9399,Vps23 core domain,TUMOR SUSCEPTIBILITY GENE 101 PROTEIN-RELATED,UBC-like
+roq,True,0.9937,zinc-RING finger domain,RING FINGER AND CCCH-TYPE ZINC FINGER DOMAIN-CONTAINING PROTEIN,CCCH zinc finger
+Mbs,True,0.6318,cGMP-dependent protein kinase interacting domain,PROTEIN PHOSPHATASE 1 REGULATORY SUBUNIT 12,Ankyrin repeat
+Taf4,True,0.8492,Transcription initiation factor TFIID component TAF4 family,TRANSCRIPTION INITIATION FACTOR TFIID SUBUNIT 4,Histone-fold
+CG13055,True,0.5175,Domain of unknown function (DUF4797),N/A,N/A
+CG13073,True,0.8663,N/A,N/A,N/A
+CG5151,True,0.6681,N/A,N/A,N/A
+CrebA,True,0.9954,bZIP transcription factor,CYCLIC AMP RESPONSE ELEMENT-BINDING PROTEIN A,Leucine zipper domain
+Phs,True,0.9851,C2H2-type zinc finger,TRANSCRIPTIONAL REPRESSOR PROTEIN YY,beta-beta-alpha zinc fingers
+GlyRS,True,0.5854,WHEP-TRS domain,GLYCYL-TRNA SYNTHETASE/DNA POLYMERASE SUBUNIT GAMMA-2,Class II aaRS and biotin synthetases
+sstn,True,0.6021,N/A,N/A,N/A
+ind,True,0.9946,Homeodomain,HOMEOBOX PROTEIN EMX-RELATED,Homeodomain-like
+NHP2,True,0.88,Ribosomal protein L7Ae/L30e/S12e/Gadd45 family,RIBOSOMAL PROTEIN L7AE FAMILY MEMBER,L30e-like
+CG3919,True,0.6964,Alcohol dehydrogenase transcription factor Myb/SANT-like,MADF DOMAIN TRANSCRIPTION FACTOR,N/A
+HGTX,True,0.9984,Homeodomain,HOMEOBOX PROTEIN NKX,Homeodomain-like
+CG13481,True,0.8828,Ring finger domain,RFWD3 PROTEIN,RING/U-box
+D,True,0.9965,HMG (high mobility group) box,SOX TRANSCRIPTION FACTOR,HMG-box
+Sox21b,True,0.9953,HMG (high mobility group) box,SOX TRANSCRIPTION FACTOR,HMG-box
+Sox21a,True,0.9981,HMG (high mobility group) box,SOX TRANSCRIPTION FACTOR,HMG-box
+CG17359,True,0.9934,Zinc-finger associated domain (zf-AD),PR DOMAIN ZINC FINGER PROTEIN,Glucocorticoid receptor-like (DNA-binding domain)
+Meics,True,0.958,C2H2-type zinc finger,ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+CG10710,True,0.8597,N/A,N/A,N/A
+dokb,True,0.8751,N/A,N/A,N/A
+cmb,True,0.6821,N/A,N/A,N/A
+CG10713,True,0.6046,N/A,N/A,N/A
+sens,True,0.9589,"Zinc finger, C2H2 type",ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+ara,True,0.9987,Homeobox KN domain,IROQUOIS-CLASS HOMEODOMAIN PROTEIN IRX,Homeodomain-like
+caup,True,0.9986,Homeobox KN domain,IROQUOIS-CLASS HOMEODOMAIN PROTEIN IRX,Homeodomain-like
+mirr,True,0.9965,Homeobox KN domain,IROQUOIS-CLASS HOMEODOMAIN PROTEIN IRX,Homeodomain-like
+CG10969,True,0.639,N/A,HOMEOBOX PROTEIN BARH-LIKE,N/A
+Lmx1a,True,0.9995,Homeodomain,LIM/HOMEOBOX PROTEIN LHX,Glucocorticoid receptor-like (DNA-binding domain)
+CG10654,True,0.9171,"Zinc finger, C2H2 type",PR DOMAIN ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+toe,True,0.9905,'Paired box' domain,PAIRED BOX PROTEIN PAX-6-RELATED-RELATED,Homeodomain-like
+ArfGAP1,True,0.7809,Putative GTPase activating protein for Arf,ADP-RIBOSYLATION FACTOR GTPASE-ACTIVATING PROTEIN 1,ArfGap/RecO-like zinc finger
+CG11560,True,0.697,N/A,MYB_SANT-LIKE DNA-BINDING DOMAIN-CONTAINING PROTEIN 1,N/A
+CG4328,True,0.9976,Homeodomain,LIM/HOMEOBOX PROTEIN LHX,Glucocorticoid receptor-like (DNA-binding domain)
+yps,True,0.9764,'Cold-shock' DNA-binding domain,COLD SHOCK DOMAIN CONTAINING PROTEINS,Nucleic acid-binding proteins
+byn,True,0.9961,T-box,T-BOX PROTEIN-RELATED,p53-like transcription factors
+CG7368,True,0.9914,"Zinc finger, C2H2 type",ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+RIOK1,True,0.5564,RIO domain,SERINE/THREONINE-PROTEIN KINASE RIO1,Protein kinase-like (PK-like)
+CG6163,True,0.9703,Alcohol dehydrogenase transcription factor Myb/SANT-like,MADF DOMAIN TRANSCRIPTION FACTOR,N/A
+FoxK,True,0.9941,Forkhead domain,"CHECKPOINT SUPPRESSOR 1-LIKE, ISOFORM A-RELATED",SMAD/FHA domain
+klu,True,0.9985,"Zinc finger, C2H2 type",PR DOMAIN ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+hay,True,0.9524,Helicase conserved C-terminal domain,RAD25/XP-B DNA REPAIR HELICASE,P-loop containing nucleoside triphosphate hydrolases
+E(z),True,0.9707,Polycomb repressive complex 2 tri-helical domain,HISTONE-LYSINE N-METHYLTRANSFERASE E(Z),SET domain
+CG8065,True,0.7072,Domain of unknown function (DUF4763),N/A,N/A
+Ciz1,True,0.9275,N/A,N/A,N/A
+MTF-1,True,0.9884,"Zinc finger, C2H2 type",ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+phol,True,0.9995,"Zinc finger, C2H2 type",TRANSCRIPTIONAL REPRESSOR PROTEIN YY,beta-beta-alpha zinc fingers
+Nf-YA,True,0.8511,CCAAT-binding transcription factor (CBF-B/NF-YA) subunit B,TRANSCRIPTION FACTOR NF-Y ALPHA-RELATED,N/A
+Doc3,True,0.9991,T-box,T-BOX PROTEIN-RELATED,p53-like transcription factors
+Doc1,True,0.9995,T-box,T-BOX PROTEIN-RELATED,p53-like transcription factors
+Prm,True,0.5022,Myosin tail,CINGULIN-LIKE PROTEIN 1-RELATED,Myosin rod fragments
+Pus7,True,0.5857,tRNA pseudouridine synthase D (TruD),TRNA PSEUDOURIDINE SYNTHASE D,Pseudouridine synthase
+Cdc6,True,0.537,"Cdc6/ORC-like, ATPase lid domain",CELL DIVISION CONTROL PROTEIN 6-RELATED,"""Winged helix"" DNA-binding domain"
+ZC3H3,True,0.5921,N/A,CCCH ZINGC FINGER,N/A
+Nulp1,True,0.783,Transcriptional repressor TCF25,NULP1-RELATED,N/A
+Cpsf6,True,0.9609,RNA recognition motif,CLEAVAGE AND POLYADENYLATION SPECIFIC FACTOR,"RNA-binding domain, RBD"
+ERR,True,0.9891,"Double treble clef zinc finger, C4 type",KNIRPS-RELATED PROTEIN-RELATED,Nuclear receptor ligand-binding domain
+CG13676,True,0.8721,Chitin binding Peritrophin-A domain,FI18007P1-RELATED,Invertebrate chitin-binding proteins
+exex,True,0.9942,Homeodomain,MOTOR NEURON AND PANCREAS HOMEOBOX PROTEIN,Homeodomain-like
+CG8209,True,0.6378,UBA-like domain,UBX DOMAIN-CONTAINING PROTEIN 1,UBA-like
+Pdp1,True,0.9592,Basic region leucine zipper,THYROTROPH EMBRYONIC FACTOR RELATED,Leucine zipper domain
+t-Grip84,True,0.9291,Gamma tubulin complex component N-terminal,GAMMA TUBULIN COMPLEX PROTEIN,N/A
+mei-P22,True,0.6524,N/A,N/A,N/A
+CG14835,True,0.6513,Protamine and protamine like,N/A,N/A
+CTCF,True,0.9957,"Zinc finger, C2H2 type",PR DOMAIN ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+CG10147,True,0.9743,Zinc-finger associated domain (zf-AD),KRAB AND ZINC FINGER DOMAIN-CONTAINING,beta-beta-alpha zinc fingers
+Prdm13,True,0.9939,"Zinc finger, C2H2 type",ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+CG7386,True,0.9927,Zinc-finger associated domain (zf-AD),ZINC FINGER PROTEIN,Glucocorticoid receptor-like (DNA-binding domain)
+D19A,True,0.9994,C2H2-type zinc finger,ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+D19B,True,0.9832,Zinc-finger associated domain (zf-AD),ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+CG10274,True,0.996,"Zinc finger, C2H2 type",ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+CG13287,True,0.9713,"Zinc finger, C2H2 type",AGAP007109-PA,beta-beta-alpha zinc fingers
+tant,True,0.816,Drosophila Tantalus-like,N/A,N/A
+ssp6,True,0.6717,PDZ domain,GENERAL RECEPTOR FOR PHOSPHOINOSITIDES 1-ASSOCIATED SCAFFOLD PROTEIN-RELATED,PDZ domain-like
+Ets65A,True,0.9979,Ets-domain,ETS,"""Winged helix"" DNA-binding domain"
+CG15446,True,0.9551,N/A,N/A,beta-beta-alpha zinc fingers
+CG1529,True,0.9816,C2H2-type zinc finger,KRAB AND ZINC FINGER DOMAIN-CONTAINING,beta-beta-alpha zinc fingers
+tilB,True,0.5241,Leucine-rich repeat,LEUCINE RICH REPEAT PROTEIN,L domain-like
+Usp2,True,0.6476,Ubiquitin carboxyl-terminal hydrolase,UBIQUITIN CARBOXYL-TERMINAL HYDROLASE,Cysteine proteinases
+CG11929,True,0.602,N/A,N/A,N/A
+Elba1,True,0.8656,BEN domain,BEN DOMAIN-CONTAINING PROTEIN 6,N/A
+Traf4,True,0.8862,TRAF-type zinc finger,TNF RECEPTOR ASSOCIATED FACTOR,TRAF domain-like
+CG15435,True,0.802,Zinc-finger associated domain (zf-AD),N/A,Glucocorticoid receptor-like (DNA-binding domain)
+Paris,True,0.9921,Zinc-finger associated domain (zf-AD),ZINC FINGER PROTEIN,Glucocorticoid receptor-like (DNA-binding domain)
+CG17612,True,0.9589,Zinc-finger associated domain (zf-AD),KRAB AND ZINC FINGER DOMAIN-CONTAINING,beta-beta-alpha zinc fingers
+bowl,True,0.981,"Zinc finger, C2H2 type",ODD-SKIPPED - RELATED,beta-beta-alpha zinc fingers
+Reph,True,0.5884,N/A,SI:DKEY-16J16.4,N/A
+slp1,True,0.9867,Forkhead domain,FORKHEAD BOX PROTEIN G1,"""Winged helix"" DNA-binding domain"
+slp2,True,0.9987,Forkhead domain,FORKHEAD BOX PROTEIN G1,"""Winged helix"" DNA-binding domain"
+CG3407,True,0.966,"Zinc finger, C2H2 type",ZNF44 PROTEIN,beta-beta-alpha zinc fingers
+CG12795,True,0.6151,AN1-like Zinc finger,ARSENITE INDUCUBLE RNA ASSOCIATED PROTEIN AIP-1-RELATED,AN1-like Zinc finger
+drm,True,0.9952,"Zinc finger, C2H2 type",ODD-SKIPPED - RELATED,beta-beta-alpha zinc fingers
+odd,True,0.987,"Zinc finger, C2H2 type",ODD-SKIPPED - RELATED,beta-beta-alpha zinc fingers
+sob,True,0.9948,"Zinc finger, C2H2 type",ODD-SKIPPED - RELATED,beta-beta-alpha zinc fingers
+Spindly,True,0.6204,N/A,N/A,N/A
+CG3213,True,0.6567,N/A,OUTER DENSE FIBER OF SPERM TAILS 2,N/A
+msl-2,True,0.6564,zinc RING finger of MSL2,MSL2-RELATED,RING/U-box
+Mad,True,0.9959,MH1 domain,SMAD,SMAD/FHA domain
+Elba2,True,0.9988,BEN domain,BEN DOMAIN-CONTAINING PROTEIN 6,N/A
+Taf10b,True,0.5629,Transcription initiation factor TFIID 23-30kDa subunit,TRANSCRIPTION INITIATION FACTOR TFIID SUBUNIT 10,N/A
+insv,True,0.9969,BEN domain,BEN DOMAIN-CONTAINING PROTEIN 6,N/A
+Mterf4,True,0.5806,mTERF,CGI-12 PROTEIN-RELATED,N/A
+Atxn7,True,0.912,N/A,"ATAXIN 7, ISOFORM A",N/A
+aop,True,0.9831,Sterile alpha motif (SAM)/Pointed domain,ETS,"""Winged helix"" DNA-binding domain"
+CG11723,True,0.5305,BESS motif,MADF DOMAIN TRANSCRIPTION FACTOR,N/A
+erm,True,0.989,C2H2-type zinc finger,ZINC FINGER PROTEIN,beta-beta-alpha zinc fingers
+CG14352,True,0.5085,Myb/SANT-like DNA-binding domain,N/A,N/A
+Charon,True,0.9345,Ankyrin repeats (3 copies),NF-KAPPA-B INHIBITOR ALPHA,Ankyrin repeat
+Pino,True,0.9127,N/A,N/A,N/A
+al,True,0.9986,OAR motif,HOMEOBOX PROTEIN ARISTALESS,Homeodomain-like
+dac,True,0.9456,SKI/SNO/DAC Dachshund homology domain,DACHSHUND,Putative DNA-binding domain
+scro,True,0.8754,Homeodomain,HOMEOBOX PROTEIN NKX,Homeodomain-like
+TfAP-2,True,0.9946,Transcription factor AP-2,TRANSCRIPTION FACTOR AP-2,N/A
