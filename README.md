@@ -237,8 +237,8 @@ This repository is distributed under the **GNU General Public License v3.0 (GPL-
 For questions regarding the analyses or repository, please contact:
 
 **Noel Cabañas**
-Department of Zoology
-University of Cambridge
+Department of Zoology,
+University of Cambridge,
 United Kingdom
 
 ---
